@@ -2845,1924 +2845,1924 @@ frxXPTUSD:
   quoted_currency: USD
   submarket: metals
   symbol: frxXPTUSD
-frxBCHAED:
+BCHAED:
   asset: BCH
   display_name: BCH/AED
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: AED
-  submarket: minor_pairs
-  symbol: frxBCHAED
-frxBCHAUD:
+  submarket: cryptocurrency
+  symbol: BCHAED
+BCHAUD:
   asset: BCH
   display_name: BCH/AUD
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: AUD
-  submarket: minor_pairs
-  symbol: frxBCHAUD
-frxBCHBRL:
+  submarket: cryptocurrency
+  symbol: BCHAUD
+BCHBRL:
   asset: BCH
   display_name: BCH/BRL
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: BRL
-  submarket: minor_pairs
-  symbol: frxBCHBRL
-frxBCHCAD:
+  submarket: cryptocurrency
+  symbol: BCHBRL
+BCHCAD:
   asset: BCH
   display_name: BCH/CAD
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: CAD
-  submarket: minor_pairs
-  symbol: frxBCHCAD
-frxBCHCHF:
+  submarket: cryptocurrency
+  symbol: BCHCAD
+BCHCHF:
   asset: BCH
   display_name: BCH/CHF
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: CHF
-  submarket: minor_pairs
-  symbol: frxBCHCHF
-frxBCHCNY:
+  submarket: cryptocurrency
+  symbol: BCHCHF
+BCHCNY:
   asset: BCH
   display_name: BCH/CNY
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: CNY
-  submarket: minor_pairs
-  symbol: frxBCHCNY
-frxBCHCZK:
+  submarket: cryptocurrency
+  symbol: BCHCNY
+BCHCZK:
   asset: BCH
   display_name: BCH/CZK
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: CZK
-  submarket: minor_pairs
-  symbol: frxBCHCZK
-frxBCHEGP:
+  submarket: cryptocurrency
+  symbol: BCHCZK
+BCHEGP:
   asset: BCH
   display_name: BCH/EGP
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: EGP
-  submarket: minor_pairs
-  symbol: frxBCHEGP
-frxBCHEUR:
+  submarket: cryptocurrency
+  symbol: BCHEGP
+BCHEUR:
   asset: BCH
   display_name: BCH/EUR
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: EUR
-  submarket: minor_pairs
-  symbol: frxBCHEUR
-frxBCHGBP:
+  submarket: cryptocurrency
+  symbol: BCHEUR
+BCHGBP:
   asset: BCH
   display_name: BCH/GBP
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: GBP
-  submarket: minor_pairs
-  symbol: frxBCHGBP
-frxBCHHKD:
+  submarket: cryptocurrency
+  symbol: BCHGBP
+BCHHKD:
   asset: BCH
   display_name: BCH/HKD
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: HKD
-  submarket: minor_pairs
-  symbol: frxBCHHKD
-frxBCHIDR:
+  submarket: cryptocurrency
+  symbol: BCHHKD
+BCHIDR:
   asset: BCH
   display_name: BCH/IDR
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: IDR
-  submarket: minor_pairs
-  symbol: frxBCHIDR
-frxBCHINR:
+  submarket: cryptocurrency
+  symbol: BCHIDR
+BCHINR:
   asset: BCH
   display_name: BCH/INR
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: INR
-  submarket: minor_pairs
-  symbol: frxBCHINR
-frxBCHJPY:
+  submarket: cryptocurrency
+  symbol: BCHINR
+BCHJPY:
   asset: BCH
   display_name: BCH/JPY
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: JPY
-  submarket: minor_pairs
-  symbol: frxBCHJPY
-frxBCHKRW:
+  submarket: cryptocurrency
+  symbol: BCHJPY
+BCHKRW:
   asset: BCH
   display_name: BCH/KRW
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: KRW
-  submarket: minor_pairs
-  symbol: frxBCHKRW
-frxBCHKWD:
+  submarket: cryptocurrency
+  symbol: BCHKRW
+BCHKWD:
   asset: BCH
   display_name: BCH/KWD
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: KWD
-  submarket: minor_pairs
-  symbol: frxBCHKWD
-frxBCHMXN:
+  submarket: cryptocurrency
+  symbol: BCHKWD
+BCHMXN:
   asset: BCH
   display_name: BCH/MXN
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: MXN
-  submarket: minor_pairs
-  symbol: frxBCHMXN
-frxBCHNOK:
+  submarket: cryptocurrency
+  symbol: BCHMXN
+BCHNOK:
   asset: BCH
   display_name: BCH/NOK
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: NOK
-  submarket: minor_pairs
-  symbol: frxBCHNOK
-frxBCHNZD:
+  submarket: cryptocurrency
+  symbol: BCHNOK
+BCHNZD:
   asset: BCH
   display_name: BCH/NZD
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: NZD
-  submarket: minor_pairs
-  symbol: frxBCHNZD
-frxBCHPLN:
+  submarket: cryptocurrency
+  symbol: BCHNZD
+BCHPLN:
   asset: BCH
   display_name: BCH/PLN
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: PLN
-  submarket: minor_pairs
-  symbol: frxBCHPLN
-frxBCHRUB:
+  submarket: cryptocurrency
+  symbol: BCHPLN
+BCHRUB:
   asset: BCH
   display_name: BCH/RUB
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: RUB
-  submarket: minor_pairs
-  symbol: frxBCHRUB
-frxBCHSAR:
+  submarket: cryptocurrency
+  symbol: BCHRUB
+BCHSAR:
   asset: BCH
   display_name: BCH/SAR
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: SAR
-  submarket: minor_pairs
-  symbol: frxBCHSAR
-frxBCHSEK:
+  submarket: cryptocurrency
+  symbol: BCHSAR
+BCHSEK:
   asset: BCH
   display_name: BCH/SEK
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: SEK
-  submarket: minor_pairs
-  symbol: frxBCHSEK
-frxBCHSGD:
+  submarket: cryptocurrency
+  symbol: BCHSEK
+BCHSGD:
   asset: BCH
   display_name: BCH/SGD
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: SGD
-  submarket: minor_pairs
-  symbol: frxBCHSGD
-frxBCHTRY:
+  submarket: cryptocurrency
+  symbol: BCHSGD
+BCHTRY:
   asset: BCH
   display_name: BCH/TRY
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: TRY
-  submarket: minor_pairs
-  symbol: frxBCHTRY
-frxBCHUSD:
+  submarket: cryptocurrency
+  symbol: BCHTRY
+BCHUSD:
   asset: BCH
   display_name: BCH/USD
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: USD
-  submarket: minor_pairs
-  symbol: frxBCHUSD
-frxBCHXAG:
+  submarket: cryptocurrency
+  symbol: BCHUSD
+BCHXAG:
   asset: BCH
   display_name: BCH/XAG
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: XAG
-  submarket: minor_pairs
-  symbol: frxBCHXAG
-frxBCHXAU:
+  submarket: cryptocurrency
+  symbol: BCHXAG
+BCHXAU:
   asset: BCH
   display_name: BCH/XAU
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: XAU
-  submarket: minor_pairs
-  symbol: frxBCHXAU
-frxBCHZAR:
+  submarket: cryptocurrency
+  symbol: BCHXAU
+BCHZAR:
   asset: BCH
   display_name: BCH/ZAR
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: ZAR
-  submarket: minor_pairs
-  symbol: frxBCHZAR
-frxBTCAED:
+  submarket: cryptocurrency
+  symbol: BCHZAR
+BTCAED:
   asset: BTC
   display_name: BTC/AED
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: AED
-  submarket: minor_pairs
-  symbol: frxBTCAED
-frxBTCAUD:
+  submarket: cryptocurrency
+  symbol: BTCAED
+BTCAUD:
   asset: BTC
   display_name: BTC/AUD
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: AUD
-  submarket: minor_pairs
-  symbol: frxBTCAUD
-frxBTCBRL:
+  submarket: cryptocurrency
+  symbol: BTCAUD
+BTCBRL:
   asset: BTC
   display_name: BTC/BRL
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: BRL
-  submarket: minor_pairs
-  symbol: frxBTCBRL
-frxBTCCAD:
+  submarket: cryptocurrency
+  symbol: BTCBRL
+BTCCAD:
   asset: BTC
   display_name: BTC/CAD
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: CAD
-  submarket: minor_pairs
-  symbol: frxBTCCAD
-frxBTCCHF:
+  submarket: cryptocurrency
+  symbol: BTCCAD
+BTCCHF:
   asset: BTC
   display_name: BTC/CHF
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: CHF
-  submarket: minor_pairs
-  symbol: frxBTCCHF
-frxBTCCNY:
+  submarket: cryptocurrency
+  symbol: BTCCHF
+BTCCNY:
   asset: BTC
   display_name: BTC/CNY
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: CNY
-  submarket: minor_pairs
-  symbol: frxBTCCNY
-frxBTCCZK:
+  submarket: cryptocurrency
+  symbol: BTCCNY
+BTCCZK:
   asset: BTC
   display_name: BTC/CZK
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: CZK
-  submarket: minor_pairs
-  symbol: frxBTCCZK
-frxBTCEGP:
+  submarket: cryptocurrency
+  symbol: BTCCZK
+BTCEGP:
   asset: BTC
   display_name: BTC/EGP
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: EGP
-  submarket: minor_pairs
-  symbol: frxBTCEGP
-frxBTCEUR:
+  submarket: cryptocurrency
+  symbol: BTCEGP
+BTCEUR:
   asset: BTC
   display_name: BTC/EUR
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: EUR
-  submarket: minor_pairs
-  symbol: frxBTCEUR
-frxBTCGBP:
+  submarket: cryptocurrency
+  symbol: BTCEUR
+BTCGBP:
   asset: BTC
   display_name: BTC/GBP
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: GBP
-  submarket: minor_pairs
-  symbol: frxBTCGBP
-frxBTCHKD:
+  submarket: cryptocurrency
+  symbol: BTCGBP
+BTCHKD:
   asset: BTC
   display_name: BTC/HKD
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: HKD
-  submarket: minor_pairs
-  symbol: frxBTCHKD
-frxBTCIDR:
+  submarket: cryptocurrency
+  symbol: BTCHKD
+BTCIDR:
   asset: BTC
   display_name: BTC/IDR
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: IDR
-  submarket: minor_pairs
-  symbol: frxBTCIDR
-frxBTCINR:
+  submarket: cryptocurrency
+  symbol: BTCIDR
+BTCINR:
   asset: BTC
   display_name: BTC/INR
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: INR
-  submarket: minor_pairs
-  symbol: frxBTCINR
-frxBTCJPY:
+  submarket: cryptocurrency
+  symbol: BTCINR
+BTCJPY:
   asset: BTC
   display_name: BTC/JPY
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: JPY
-  submarket: minor_pairs
-  symbol: frxBTCJPY
-frxBTCKRW:
+  submarket: cryptocurrency
+  symbol: BTCJPY
+BTCKRW:
   asset: BTC
   display_name: BTC/KRW
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: KRW
-  submarket: minor_pairs
-  symbol: frxBTCKRW
-frxBTCKWD:
+  submarket: cryptocurrency
+  symbol: BTCKRW
+BTCKWD:
   asset: BTC
   display_name: BTC/KWD
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: KWD
-  submarket: minor_pairs
-  symbol: frxBTCKWD
-frxBTCMXN:
+  submarket: cryptocurrency
+  symbol: BTCKWD
+BTCMXN:
   asset: BTC
   display_name: BTC/MXN
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: MXN
-  submarket: minor_pairs
-  symbol: frxBTCMXN
-frxBTCNOK:
+  submarket: cryptocurrency
+  symbol: BTCMXN
+BTCNOK:
   asset: BTC
   display_name: BTC/NOK
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: NOK
-  submarket: minor_pairs
-  symbol: frxBTCNOK
-frxBTCNZD:
+  submarket: cryptocurrency
+  symbol: BTCNOK
+BTCNZD:
   asset: BTC
   display_name: BTC/NZD
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: NZD
-  submarket: minor_pairs
-  symbol: frxBTCNZD
-frxBTCPLN:
+  submarket: cryptocurrency
+  symbol: BTCNZD
+BTCPLN:
   asset: BTC
   display_name: BTC/PLN
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: PLN
-  submarket: minor_pairs
-  symbol: frxBTCPLN
-frxBTCRUB:
+  submarket: cryptocurrency
+  symbol: BTCPLN
+BTCRUB:
   asset: BTC
   display_name: BTC/RUB
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: RUB
-  submarket: minor_pairs
-  symbol: frxBTCRUB
-frxBTCSAR:
+  submarket: cryptocurrency
+  symbol: BTCRUB
+BTCSAR:
   asset: BTC
   display_name: BTC/SAR
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: SAR
-  submarket: minor_pairs
-  symbol: frxBTCSAR
-frxBTCSEK:
+  submarket: cryptocurrency
+  symbol: BTCSAR
+BTCSEK:
   asset: BTC
   display_name: BTC/SEK
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: SEK
-  submarket: minor_pairs
-  symbol: frxBTCSEK
-frxBTCSGD:
+  submarket: cryptocurrency
+  symbol: BTCSEK
+BTCSGD:
   asset: BTC
   display_name: BTC/SGD
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: SGD
-  submarket: minor_pairs
-  symbol: frxBTCSGD
-frxBTCTRY:
+  submarket: cryptocurrency
+  symbol: BTCSGD
+BTCTRY:
   asset: BTC
   display_name: BTC/TRY
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: TRY
-  submarket: minor_pairs
-  symbol: frxBTCTRY
-frxBTCUSD:
+  submarket: cryptocurrency
+  symbol: BTCTRY
+BTCUSD:
   asset: BTC
   display_name: BTC/USD
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: USD
-  submarket: minor_pairs
-  symbol: frxBTCUSD
-frxBTCXAG:
+  submarket: cryptocurrency
+  symbol: BTCUSD
+BTCXAG:
   asset: BTC
   display_name: BTC/XAG
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: XAG
-  submarket: minor_pairs
-  symbol: frxBTCXAG
-frxBTCXAU:
+  submarket: cryptocurrency
+  symbol: BTCXAG
+BTCXAU:
   asset: BTC
   display_name: BTC/XAU
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: XAU
-  submarket: minor_pairs
-  symbol: frxBTCXAU
-frxBTCZAR:
+  submarket: cryptocurrency
+  symbol: BTCXAU
+BTCZAR:
   asset: BTC
   display_name: BTC/ZAR
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: ZAR
-  submarket: minor_pairs
-  symbol: frxBTCZAR
-frxETCAED:
+  submarket: cryptocurrency
+  symbol: BTCZAR
+ETCAED:
   asset: ETC
   display_name: ETC/AED
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: AED
-  submarket: minor_pairs
-  symbol: frxETCAED
-frxETCAUD:
+  submarket: cryptocurrency
+  symbol: ETCAED
+ETCAUD:
   asset: ETC
   display_name: ETC/AUD
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: AUD
-  submarket: minor_pairs
-  symbol: frxETCAUD
-frxETCBRL:
+  submarket: cryptocurrency
+  symbol: ETCAUD
+ETCBRL:
   asset: ETC
   display_name: ETC/BRL
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: BRL
-  submarket: minor_pairs
-  symbol: frxETCBRL
-frxETCCAD:
+  submarket: cryptocurrency
+  symbol: ETCBRL
+ETCCAD:
   asset: ETC
   display_name: ETC/CAD
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: CAD
-  submarket: minor_pairs
-  symbol: frxETCCAD
-frxETCCHF:
+  submarket: cryptocurrency
+  symbol: ETCCAD
+ETCCHF:
   asset: ETC
   display_name: ETC/CHF
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: CHF
-  submarket: minor_pairs
-  symbol: frxETCCHF
-frxETCCNY:
+  submarket: cryptocurrency
+  symbol: ETCCHF
+ETCCNY:
   asset: ETC
   display_name: ETC/CNY
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: CNY
-  submarket: minor_pairs
-  symbol: frxETCCNY
-frxETCCZK:
+  submarket: cryptocurrency
+  symbol: ETCCNY
+ETCCZK:
   asset: ETC
   display_name: ETC/CZK
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: CZK
-  submarket: minor_pairs
-  symbol: frxETCCZK
-frxETCEGP:
+  submarket: cryptocurrency
+  symbol: ETCCZK
+ETCEGP:
   asset: ETC
   display_name: ETC/EGP
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: EGP
-  submarket: minor_pairs
-  symbol: frxETCEGP
-frxETCEUR:
+  submarket: cryptocurrency
+  symbol: ETCEGP
+ETCEUR:
   asset: ETC
   display_name: ETC/EUR
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: EUR
-  submarket: minor_pairs
-  symbol: frxETCEUR
-frxETCGBP:
+  submarket: cryptocurrency
+  symbol: ETCEUR
+ETCGBP:
   asset: ETC
   display_name: ETC/GBP
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: GBP
-  submarket: minor_pairs
-  symbol: frxETCGBP
-frxETCHKD:
+  submarket: cryptocurrency
+  symbol: ETCGBP
+ETCHKD:
   asset: ETC
   display_name: ETC/HKD
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: HKD
-  submarket: minor_pairs
-  symbol: frxETCHKD
-frxETCIDR:
+  submarket: cryptocurrency
+  symbol: ETCHKD
+ETCIDR:
   asset: ETC
   display_name: ETC/IDR
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: IDR
-  submarket: minor_pairs
-  symbol: frxETCIDR
-frxETCINR:
+  submarket: cryptocurrency
+  symbol: ETCIDR
+ETCINR:
   asset: ETC
   display_name: ETC/INR
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: INR
-  submarket: minor_pairs
-  symbol: frxETCINR
-frxETCJPY:
+  submarket: cryptocurrency
+  symbol: ETCINR
+ETCJPY:
   asset: ETC
   display_name: ETC/JPY
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: JPY
-  submarket: minor_pairs
-  symbol: frxETCJPY
-frxETCKRW:
+  submarket: cryptocurrency
+  symbol: ETCJPY
+ETCKRW:
   asset: ETC
   display_name: ETC/KRW
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: KRW
-  submarket: minor_pairs
-  symbol: frxETCKRW
-frxETCKWD:
+  submarket: cryptocurrency
+  symbol: ETCKRW
+ETCKWD:
   asset: ETC
   display_name: ETC/KWD
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: KWD
-  submarket: minor_pairs
-  symbol: frxETCKWD
-frxETCMXN:
+  submarket: cryptocurrency
+  symbol: ETCKWD
+ETCMXN:
   asset: ETC
   display_name: ETC/MXN
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: MXN
-  submarket: minor_pairs
-  symbol: frxETCMXN
-frxETCNOK:
+  submarket: cryptocurrency
+  symbol: ETCMXN
+ETCNOK:
   asset: ETC
   display_name: ETC/NOK
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: NOK
-  submarket: minor_pairs
-  symbol: frxETCNOK
-frxETCNZD:
+  submarket: cryptocurrency
+  symbol: ETCNOK
+ETCNZD:
   asset: ETC
   display_name: ETC/NZD
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: NZD
-  submarket: minor_pairs
-  symbol: frxETCNZD
-frxETCPLN:
+  submarket: cryptocurrency
+  symbol: ETCNZD
+ETCPLN:
   asset: ETC
   display_name: ETC/PLN
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: PLN
-  submarket: minor_pairs
-  symbol: frxETCPLN
-frxETCRUB:
+  submarket: cryptocurrency
+  symbol: ETCPLN
+ETCRUB:
   asset: ETC
   display_name: ETC/RUB
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: RUB
-  submarket: minor_pairs
-  symbol: frxETCRUB
-frxETCSAR:
+  submarket: cryptocurrency
+  symbol: ETCRUB
+ETCSAR:
   asset: ETC
   display_name: ETC/SAR
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: SAR
-  submarket: minor_pairs
-  symbol: frxETCSAR
-frxETCSEK:
+  submarket: cryptocurrency
+  symbol: ETCSAR
+ETCSEK:
   asset: ETC
   display_name: ETC/SEK
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: SEK
-  submarket: minor_pairs
-  symbol: frxETCSEK
-frxETCSGD:
+  submarket: cryptocurrency
+  symbol: ETCSEK
+ETCSGD:
   asset: ETC
   display_name: ETC/SGD
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: SGD
-  submarket: minor_pairs
-  symbol: frxETCSGD
-frxETCTRY:
+  submarket: cryptocurrency
+  symbol: ETCSGD
+ETCTRY:
   asset: ETC
   display_name: ETC/TRY
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: TRY
-  submarket: minor_pairs
-  symbol: frxETCTRY
-frxETCUSD:
+  submarket: cryptocurrency
+  symbol: ETCTRY
+ETCUSD:
   asset: ETC
   display_name: ETC/USD
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: USD
-  submarket: minor_pairs
-  symbol: frxETCUSD
-frxETCXAG:
+  submarket: cryptocurrency
+  symbol: ETCUSD
+ETCXAG:
   asset: ETC
   display_name: ETC/XAG
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: XAG
-  submarket: minor_pairs
-  symbol: frxETCXAG
-frxETCXAU:
+  submarket: cryptocurrency
+  symbol: ETCXAG
+ETCXAU:
   asset: ETC
   display_name: ETC/XAU
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: XAU
-  submarket: minor_pairs
-  symbol: frxETCXAU
-frxETCZAR:
+  submarket: cryptocurrency
+  symbol: ETCXAU
+ETCZAR:
   asset: ETC
   display_name: ETC/ZAR
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: ZAR
-  submarket: minor_pairs
-  symbol: frxETCZAR
-frxETHAED:
+  submarket: cryptocurrency
+  symbol: ETCZAR
+ETHAED:
   asset: ETH
   display_name: ETH/AED
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: AED
-  submarket: minor_pairs
-  symbol: frxETHAED
-frxETHAUD:
+  submarket: cryptocurrency
+  symbol: ETHAED
+ETHAUD:
   asset: ETH
   display_name: ETH/AUD
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: AUD
-  submarket: minor_pairs
-  symbol: frxETHAUD
-frxETHBRL:
+  submarket: cryptocurrency
+  symbol: ETHAUD
+ETHBRL:
   asset: ETH
   display_name: ETH/BRL
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: BRL
-  submarket: minor_pairs
-  symbol: frxETHBRL
-frxETHCAD:
+  submarket: cryptocurrency
+  symbol: ETHBRL
+ETHCAD:
   asset: ETH
   display_name: ETH/CAD
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: CAD
-  submarket: minor_pairs
-  symbol: frxETHCAD
-frxETHCHF:
+  submarket: cryptocurrency
+  symbol: ETHCAD
+ETHCHF:
   asset: ETH
   display_name: ETH/CHF
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: CHF
-  submarket: minor_pairs
-  symbol: frxETHCHF
-frxETHCNY:
+  submarket: cryptocurrency
+  symbol: ETHCHF
+ETHCNY:
   asset: ETH
   display_name: ETH/CNY
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: CNY
-  submarket: minor_pairs
-  symbol: frxETHCNY
-frxETHCZK:
+  submarket: cryptocurrency
+  symbol: ETHCNY
+ETHCZK:
   asset: ETH
   display_name: ETH/CZK
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: CZK
-  submarket: minor_pairs
-  symbol: frxETHCZK
-frxETHEGP:
+  submarket: cryptocurrency
+  symbol: ETHCZK
+ETHEGP:
   asset: ETH
   display_name: ETH/EGP
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: EGP
-  submarket: minor_pairs
-  symbol: frxETHEGP
-frxETHEUR:
+  submarket: cryptocurrency
+  symbol: ETHEGP
+ETHEUR:
   asset: ETH
   display_name: ETH/EUR
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: EUR
-  submarket: minor_pairs
-  symbol: frxETHEUR
-frxETHGBP:
+  submarket: cryptocurrency
+  symbol: ETHEUR
+ETHGBP:
   asset: ETH
   display_name: ETH/GBP
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: GBP
-  submarket: minor_pairs
-  symbol: frxETHGBP
-frxETHHKD:
+  submarket: cryptocurrency
+  symbol: ETHGBP
+ETHHKD:
   asset: ETH
   display_name: ETH/HKD
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: HKD
-  submarket: minor_pairs
-  symbol: frxETHHKD
-frxETHIDR:
+  submarket: cryptocurrency
+  symbol: ETHHKD
+ETHIDR:
   asset: ETH
   display_name: ETH/IDR
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: IDR
-  submarket: minor_pairs
-  symbol: frxETHIDR
-frxETHINR:
+  submarket: cryptocurrency
+  symbol: ETHIDR
+ETHINR:
   asset: ETH
   display_name: ETH/INR
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: INR
-  submarket: minor_pairs
-  symbol: frxETHINR
-frxETHJPY:
+  submarket: cryptocurrency
+  symbol: ETHINR
+ETHJPY:
   asset: ETH
   display_name: ETH/JPY
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: JPY
-  submarket: minor_pairs
-  symbol: frxETHJPY
-frxETHKRW:
+  submarket: cryptocurrency
+  symbol: ETHJPY
+ETHKRW:
   asset: ETH
   display_name: ETH/KRW
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: KRW
-  submarket: minor_pairs
-  symbol: frxETHKRW
-frxETHKWD:
+  submarket: cryptocurrency
+  symbol: ETHKRW
+ETHKWD:
   asset: ETH
   display_name: ETH/KWD
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: KWD
-  submarket: minor_pairs
-  symbol: frxETHKWD
-frxETHMXN:
+  submarket: cryptocurrency
+  symbol: ETHKWD
+ETHMXN:
   asset: ETH
   display_name: ETH/MXN
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: MXN
-  submarket: minor_pairs
-  symbol: frxETHMXN
-frxETHNOK:
+  submarket: cryptocurrency
+  symbol: ETHMXN
+ETHNOK:
   asset: ETH
   display_name: ETH/NOK
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: NOK
-  submarket: minor_pairs
-  symbol: frxETHNOK
-frxETHNZD:
+  submarket: cryptocurrency
+  symbol: ETHNOK
+ETHNZD:
   asset: ETH
   display_name: ETH/NZD
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: NZD
-  submarket: minor_pairs
-  symbol: frxETHNZD
-frxETHPLN:
+  submarket: cryptocurrency
+  symbol: ETHNZD
+ETHPLN:
   asset: ETH
   display_name: ETH/PLN
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: PLN
-  submarket: minor_pairs
-  symbol: frxETHPLN
-frxETHRUB:
+  submarket: cryptocurrency
+  symbol: ETHPLN
+ETHRUB:
   asset: ETH
   display_name: ETH/RUB
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: RUB
-  submarket: minor_pairs
-  symbol: frxETHRUB
-frxETHSAR:
+  submarket: cryptocurrency
+  symbol: ETHRUB
+ETHSAR:
   asset: ETH
   display_name: ETH/SAR
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: SAR
-  submarket: minor_pairs
-  symbol: frxETHSAR
-frxETHSEK:
+  submarket: cryptocurrency
+  symbol: ETHSAR
+ETHSEK:
   asset: ETH
   display_name: ETH/SEK
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: SEK
-  submarket: minor_pairs
-  symbol: frxETHSEK
-frxETHSGD:
+  submarket: cryptocurrency
+  symbol: ETHSEK
+ETHSGD:
   asset: ETH
   display_name: ETH/SGD
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: SGD
-  submarket: minor_pairs
-  symbol: frxETHSGD
-frxETHTRY:
+  submarket: cryptocurrency
+  symbol: ETHSGD
+ETHTRY:
   asset: ETH
   display_name: ETH/TRY
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: TRY
-  submarket: minor_pairs
-  symbol: frxETHTRY
-frxETHUSD:
+  submarket: cryptocurrency
+  symbol: ETHTRY
+ETHUSD:
   asset: ETH
   display_name: ETH/USD
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: USD
-  submarket: minor_pairs
-  symbol: frxETHUSD
-frxETHXAG:
+  submarket: cryptocurrency
+  symbol: ETHUSD
+ETHXAG:
   asset: ETH
   display_name: ETH/XAG
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: XAG
-  submarket: minor_pairs
-  symbol: frxETHXAG
-frxETHXAU:
+  submarket: cryptocurrency
+  symbol: ETHXAG
+ETHXAU:
   asset: ETH
   display_name: ETH/XAU
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: XAU
-  submarket: minor_pairs
-  symbol: frxETHXAU
-frxETHZAR:
+  submarket: cryptocurrency
+  symbol: ETHXAU
+ETHZAR:
   asset: ETH
   display_name: ETH/ZAR
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: ZAR
-  submarket: minor_pairs
-  symbol: frxETHZAR
-frxLTCAED:
+  submarket: cryptocurrency
+  symbol: ETHZAR
+LTCAED:
   asset: LTC
   display_name: LTC/AED
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: AED
-  submarket: minor_pairs
-  symbol: frxLTCAED
-frxLTCAUD:
+  submarket: cryptocurrency
+  symbol: LTCAED
+LTCAUD:
   asset: LTC
   display_name: LTC/AUD
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: AUD
-  submarket: minor_pairs
-  symbol: frxLTCAUD
-frxLTCBRL:
+  submarket: cryptocurrency
+  symbol: LTCAUD
+LTCBRL:
   asset: LTC
   display_name: LTC/BRL
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: BRL
-  submarket: minor_pairs
-  symbol: frxLTCBRL
-frxLTCCAD:
+  submarket: cryptocurrency
+  symbol: LTCBRL
+LTCCAD:
   asset: LTC
   display_name: LTC/CAD
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: CAD
-  submarket: minor_pairs
-  symbol: frxLTCCAD
-frxLTCCHF:
+  submarket: cryptocurrency
+  symbol: LTCCAD
+LTCCHF:
   asset: LTC
   display_name: LTC/CHF
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: CHF
-  submarket: minor_pairs
-  symbol: frxLTCCHF
-frxLTCCNY:
+  submarket: cryptocurrency
+  symbol: LTCCHF
+LTCCNY:
   asset: LTC
   display_name: LTC/CNY
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: CNY
-  submarket: minor_pairs
-  symbol: frxLTCCNY
-frxLTCCZK:
+  submarket: cryptocurrency
+  symbol: LTCCNY
+LTCCZK:
   asset: LTC
   display_name: LTC/CZK
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: CZK
-  submarket: minor_pairs
-  symbol: frxLTCCZK
-frxLTCEGP:
+  submarket: cryptocurrency
+  symbol: LTCCZK
+LTCEGP:
   asset: LTC
   display_name: LTC/EGP
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: EGP
-  submarket: minor_pairs
-  symbol: frxLTCEGP
-frxLTCEUR:
+  submarket: cryptocurrency
+  symbol: LTCEGP
+LTCEUR:
   asset: LTC
   display_name: LTC/EUR
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: EUR
-  submarket: minor_pairs
-  symbol: frxLTCEUR
-frxLTCGBP:
+  submarket: cryptocurrency
+  symbol: LTCEUR
+LTCGBP:
   asset: LTC
   display_name: LTC/GBP
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: GBP
-  submarket: minor_pairs
-  symbol: frxLTCGBP
-frxLTCHKD:
+  submarket: cryptocurrency
+  symbol: LTCGBP
+LTCHKD:
   asset: LTC
   display_name: LTC/HKD
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: HKD
-  submarket: minor_pairs
-  symbol: frxLTCHKD
-frxLTCIDR:
+  submarket: cryptocurrency
+  symbol: LTCHKD
+LTCIDR:
   asset: LTC
   display_name: LTC/IDR
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: IDR
-  submarket: minor_pairs
-  symbol: frxLTCIDR
-frxLTCINR:
+  submarket: cryptocurrency
+  symbol: LTCIDR
+LTCINR:
   asset: LTC
   display_name: LTC/INR
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: INR
-  submarket: minor_pairs
-  symbol: frxLTCINR
-frxLTCJPY:
+  submarket: cryptocurrency
+  symbol: LTCINR
+LTCJPY:
   asset: LTC
   display_name: LTC/JPY
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: JPY
-  submarket: minor_pairs
-  symbol: frxLTCJPY
-frxLTCKRW:
+  submarket: cryptocurrency
+  symbol: LTCJPY
+LTCKRW:
   asset: LTC
   display_name: LTC/KRW
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: KRW
-  submarket: minor_pairs
-  symbol: frxLTCKRW
-frxLTCKWD:
+  submarket: cryptocurrency
+  symbol: LTCKRW
+LTCKWD:
   asset: LTC
   display_name: LTC/KWD
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: KWD
-  submarket: minor_pairs
-  symbol: frxLTCKWD
-frxLTCMXN:
+  submarket: cryptocurrency
+  symbol: LTCKWD
+LTCMXN:
   asset: LTC
   display_name: LTC/MXN
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: MXN
-  submarket: minor_pairs
-  symbol: frxLTCMXN
-frxLTCNOK:
+  submarket: cryptocurrency
+  symbol: LTCMXN
+LTCNOK:
   asset: LTC
   display_name: LTC/NOK
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: NOK
-  submarket: minor_pairs
-  symbol: frxLTCNOK
-frxLTCNZD:
+  submarket: cryptocurrency
+  symbol: LTCNOK
+LTCNZD:
   asset: LTC
   display_name: LTC/NZD
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: NZD
-  submarket: minor_pairs
-  symbol: frxLTCNZD
-frxLTCPLN:
+  submarket: cryptocurrency
+  symbol: LTCNZD
+LTCPLN:
   asset: LTC
   display_name: LTC/PLN
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: PLN
-  submarket: minor_pairs
-  symbol: frxLTCPLN
-frxLTCRUB:
+  submarket: cryptocurrency
+  symbol: LTCPLN
+LTCRUB:
   asset: LTC
   display_name: LTC/RUB
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: RUB
-  submarket: minor_pairs
-  symbol: frxLTCRUB
-frxLTCSAR:
+  submarket: cryptocurrency
+  symbol: LTCRUB
+LTCSAR:
   asset: LTC
   display_name: LTC/SAR
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: SAR
-  submarket: minor_pairs
-  symbol: frxLTCSAR
-frxLTCSEK:
+  submarket: cryptocurrency
+  symbol: LTCSAR
+LTCSEK:
   asset: LTC
   display_name: LTC/SEK
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: SEK
-  submarket: minor_pairs
-  symbol: frxLTCSEK
-frxLTCSGD:
+  submarket: cryptocurrency
+  symbol: LTCSEK
+LTCSGD:
   asset: LTC
   display_name: LTC/SGD
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: SGD
-  submarket: minor_pairs
-  symbol: frxLTCSGD
-frxLTCTRY:
+  submarket: cryptocurrency
+  symbol: LTCSGD
+LTCTRY:
   asset: LTC
   display_name: LTC/TRY
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: TRY
-  submarket: minor_pairs
-  symbol: frxLTCTRY
-frxLTCUSD:
+  submarket: cryptocurrency
+  symbol: LTCTRY
+LTCUSD:
   asset: LTC
   display_name: LTC/USD
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: USD
-  submarket: minor_pairs
-  symbol: frxLTCUSD
-frxLTCXAG:
+  submarket: cryptocurrency
+  symbol: LTCUSD
+LTCXAG:
   asset: LTC
   display_name: LTC/XAG
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: XAG
-  submarket: minor_pairs
-  symbol: frxLTCXAG
-frxLTCXAU:
+  submarket: cryptocurrency
+  symbol: LTCXAG
+LTCXAU:
   asset: LTC
   display_name: LTC/XAU
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: XAU
-  submarket: minor_pairs
-  symbol: frxLTCXAU
-frxLTCZAR:
+  submarket: cryptocurrency
+  symbol: LTCXAU
+LTCZAR:
   asset: LTC
   display_name: LTC/ZAR
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: ZAR
-  submarket: minor_pairs
-  symbol: frxLTCZAR
-frxBCHBRO:
+  submarket: cryptocurrency
+  symbol: LTCZAR
+BCHBRO:
   asset: BCH
   display_name: BCH/BRO
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: BRO
-  submarket: minor_pairs
-  symbol: frxBCHBRO
-frxBCHXPD:
+  submarket: cryptocurrency
+  symbol: BCHBRO
+BCHXPD:
   asset: BCH
   display_name: BCH/XPD
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: XPD
-  submarket: minor_pairs
-  symbol: frxBCHXPD
-frxBCHXPT:
+  submarket: cryptocurrency
+  symbol: BCHXPD
+BCHXPT:
   asset: BCH
   display_name: BCH/XPT
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: XPT
-  submarket: minor_pairs
-  symbol: frxBCHXPT
-frxBTCBRO:
+  submarket: cryptocurrency
+  symbol: BCHXPT
+BTCBRO:
   asset: BTC
   display_name: BTC/BRO
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: BRO
-  submarket: minor_pairs
-  symbol: frxBTCBRO
-frxBTCXPD:
+  submarket: cryptocurrency
+  symbol: BTCBRO
+BTCXPD:
   asset: BTC
   display_name: BTC/XPD
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: XPD
-  submarket: minor_pairs
-  symbol: frxBTCXPD
-frxBTCXPT:
+  submarket: cryptocurrency
+  symbol: BTCXPD
+BTCXPT:
   asset: BTC
   display_name: BTC/XPT
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: XPT
-  submarket: minor_pairs
-  symbol: frxBTCXPT
-frxETCBRO:
+  submarket: cryptocurrency
+  symbol: BTCXPT
+ETCBRO:
   asset: ETC
   display_name: ETC/BRO
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: BRO
-  submarket: minor_pairs
-  symbol: frxETCBRO
-frxETCXPD:
+  submarket: cryptocurrency
+  symbol: ETCBRO
+ETCXPD:
   asset: ETC
   display_name: ETC/XPD
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: XPD
-  submarket: minor_pairs
-  symbol: frxETCXPD
-frxETCXPT:
+  submarket: cryptocurrency
+  symbol: ETCXPD
+ETCXPT:
   asset: ETC
   display_name: ETC/XPT
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: XPT
-  submarket: minor_pairs
-  symbol: frxETCXPT
-frxETHBRO:
+  submarket: cryptocurrency
+  symbol: ETCXPT
+ETHBRO:
   asset: ETH
   display_name: ETH/BRO
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: BRO
-  submarket: minor_pairs
-  symbol: frxETHBRO
-frxETHXPD:
+  submarket: cryptocurrency
+  symbol: ETHBRO
+ETHXPD:
   asset: ETH
   display_name: ETH/XPD
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: XPD
-  submarket: minor_pairs
-  symbol: frxETHXPD
-frxETHXPT:
+  submarket: cryptocurrency
+  symbol: ETHXPD
+ETHXPT:
   asset: ETH
   display_name: ETH/XPT
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: XPT
-  submarket: minor_pairs
-  symbol: frxETHXPT
-frxLTCBRO:
+  submarket: cryptocurrency
+  symbol: ETHXPT
+LTCBRO:
   asset: LTC
   display_name: LTC/BRO
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: BRO
-  submarket: minor_pairs
-  symbol: frxLTCBRO
-frxLTCXPD:
+  submarket: cryptocurrency
+  symbol: LTCBRO
+LTCXPD:
   asset: LTC
   display_name: LTC/XPD
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: XPD
-  submarket: minor_pairs
-  symbol: frxLTCXPD
-frxLTCXPT:
+  submarket: cryptocurrency
+  symbol: LTCXPD
+LTCXPT:
   asset: LTC
   display_name: LTC/XPT
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.0001
   quoted_currency: XPT
-  submarket: minor_pairs
-  symbol: frxLTCXPT
-frxDAIAED:
+  submarket: cryptocurrency
+  symbol: LTCXPT
+DAIAED:
   asset: DAI
   display_name: DAI/AED
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.01
   quoted_currency: AED
-  submarket: minor_pairs
-  symbol: frxDAIAED
-frxDAIAUD:
+  submarket: cryptocurrency
+  symbol: DAIAED
+DAIAUD:
   asset: DAI
   display_name: DAI/AUD
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.01
   quoted_currency: AUD
-  submarket: minor_pairs
-  symbol: frxDAIAUD
-frxDAIBRL:
+  submarket: cryptocurrency
+  symbol: DAIAUD
+DAIBRL:
   asset: DAI
   display_name: DAI/BRL
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.01
   quoted_currency: BRL
-  submarket: minor_pairs
-  symbol: frxDAIBRL
-frxDAICAD:
+  submarket: cryptocurrency
+  symbol: DAIBRL
+DAICAD:
   asset: DAI
   display_name: DAI/CAD
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.01
   quoted_currency: CAD
-  submarket: minor_pairs
-  symbol: frxDAICAD
-frxDAICHF:
+  submarket: cryptocurrency
+  symbol: DAICAD
+DAICHF:
   asset: DAI
   display_name: DAI/CHF
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.01
   quoted_currency: CHF
-  submarket: minor_pairs
-  symbol: frxDAICHF
-frxDAICNY:
+  submarket: cryptocurrency
+  symbol: DAICHF
+DAICNY:
   asset: DAI
   display_name: DAI/CNY
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.01
   quoted_currency: CNY
-  submarket: minor_pairs
-  symbol: frxDAICNY
-frxDAICZK:
+  submarket: cryptocurrency
+  symbol: DAICNY
+DAICZK:
   asset: DAI
   display_name: DAI/CZK
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.01
   quoted_currency: CZK
-  submarket: minor_pairs
-  symbol: frxDAICZK
-frxDAIEGP:
+  submarket: cryptocurrency
+  symbol: DAICZK
+DAIEGP:
   asset: DAI
   display_name: DAI/EGP
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.01
   quoted_currency: EGP
-  submarket: minor_pairs
-  symbol: frxDAIEGP
-frxDAIEUR:
+  submarket: cryptocurrency
+  symbol: DAIEGP
+DAIEUR:
   asset: DAI
   display_name: DAI/EUR
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.01
   quoted_currency: EUR
-  submarket: minor_pairs
-  symbol: frxDAIEUR
-frxDAIGBP:
+  submarket: cryptocurrency
+  symbol: DAIEUR
+DAIGBP:
   asset: DAI
   display_name: DAI/GBP
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.01
   quoted_currency: GBP
-  submarket: minor_pairs
-  symbol: frxDAIGBP
-frxDAIHKD:
+  submarket: cryptocurrency
+  symbol: DAIGBP
+DAIHKD:
   asset: DAI
   display_name: DAI/HKD
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.01
   quoted_currency: HKD
-  submarket: minor_pairs
-  symbol: frxDAIHKD
-frxDAIIDR:
+  submarket: cryptocurrency
+  symbol: DAIHKD
+DAIIDR:
   asset: DAI
   display_name: DAI/IDR
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.01
   quoted_currency: IDR
-  submarket: minor_pairs
-  symbol: frxDAIIDR
-frxDAIINR:
+  submarket: cryptocurrency
+  symbol: DAIIDR
+DAIINR:
   asset: DAI
   display_name: DAI/INR
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.01
   quoted_currency: INR
-  submarket: minor_pairs
-  symbol: frxDAIINR
-frxDAIJPY:
+  submarket: cryptocurrency
+  symbol: DAIINR
+DAIJPY:
   asset: DAI
   display_name: DAI/JPY
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.01
   quoted_currency: JPY
-  submarket: minor_pairs
-  symbol: frxDAIJPY
-frxDAIKRW:
+  submarket: cryptocurrency
+  symbol: DAIJPY
+DAIKRW:
   asset: DAI
   display_name: DAI/KRW
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.01
   quoted_currency: KRW
-  submarket: minor_pairs
-  symbol: frxDAIKRW
-frxDAIKWD:
+  submarket: cryptocurrency
+  symbol: DAIKRW
+DAIKWD:
   asset: DAI
   display_name: DAI/KWD
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.01
   quoted_currency: KWD
-  submarket: minor_pairs
-  symbol: frxDAIKWD
-frxDAIMXN:
+  submarket: cryptocurrency
+  symbol: DAIKWD
+DAIMXN:
   asset: DAI
   display_name: DAI/MXN
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.01
   quoted_currency: MXN
-  submarket: minor_pairs
-  symbol: frxDAIMXN
-frxDAINOK:
+  submarket: cryptocurrency
+  symbol: DAIMXN
+DAINOK:
   asset: DAI
   display_name: DAI/NOK
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.01
   quoted_currency: NOK
-  submarket: minor_pairs
-  symbol: frxDAINOK
-frxDAINZD:
+  submarket: cryptocurrency
+  symbol: DAINOK
+DAINZD:
   asset: DAI
   display_name: DAI/NZD
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.01
   quoted_currency: NZD
-  submarket: minor_pairs
-  symbol: frxDAINZD
-frxDAIPLN:
+  submarket: cryptocurrency
+  symbol: DAINZD
+DAIPLN:
   asset: DAI
   display_name: DAI/PLN
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.01
   quoted_currency: PLN
-  submarket: minor_pairs
-  symbol: frxDAIPLN
-frxDAIRUB:
+  submarket: cryptocurrency
+  symbol: DAIPLN
+DAIRUB:
   asset: DAI
   display_name: DAI/RUB
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.01
   quoted_currency: RUB
-  submarket: minor_pairs
-  symbol: frxDAIRUB
-frxDAISAR:
+  submarket: cryptocurrency
+  symbol: DAIRUB
+DAISAR:
   asset: DAI
   display_name: DAI/SAR
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.01
   quoted_currency: SAR
-  submarket: minor_pairs
-  symbol: frxDAISAR
-frxDAISEK:
+  submarket: cryptocurrency
+  symbol: DAISAR
+DAISEK:
   asset: DAI
   display_name: DAI/SEK
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.01
   quoted_currency: SEK
-  submarket: minor_pairs
-  symbol: frxDAISEK
-frxDAISGD:
+  submarket: cryptocurrency
+  symbol: DAISEK
+DAISGD:
   asset: DAI
   display_name: DAI/SGD
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.01
   quoted_currency: SGD
-  submarket: minor_pairs
-  symbol: frxDAISGD
-frxDAITRY:
+  submarket: cryptocurrency
+  symbol: DAISGD
+DAITRY:
   asset: DAI
   display_name: DAI/TRY
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.01
   quoted_currency: TRY
-  submarket: minor_pairs
-  symbol: frxDAITRY
-frxDAIUSD:
+  submarket: cryptocurrency
+  symbol: DAITRY
+DAIUSD:
   asset: DAI
   display_name: DAI/USD
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.01
   quoted_currency: USD
-  submarket: minor_pairs
-  symbol: frxDAIUSD
-frxDAIXAG:
+  submarket: cryptocurrency
+  symbol: DAIUSD
+DAIXAG:
   asset: DAI
   display_name: DAI/XAG
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.01
   quoted_currency: XAG
-  submarket: minor_pairs
-  symbol: frxDAIXAG
-frxDAIXAU:
+  submarket: cryptocurrency
+  symbol: DAIXAG
+DAIXAU:
   asset: DAI
   display_name: DAI/XAU
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.01
   quoted_currency: XAU
-  submarket: minor_pairs
-  symbol: frxDAIXAU
-frxDAIZAR:
+  submarket: cryptocurrency
+  symbol: DAIXAU
+DAIZAR:
   asset: DAI
   display_name: DAI/ZAR
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.01
   quoted_currency: ZAR
-  submarket: minor_pairs
-  symbol: frxDAIZAR
-frxDAIBRO:
+  submarket: cryptocurrency
+  symbol: DAIZAR
+DAIBRO:
   asset: DAI
   display_name: DAI/BRO
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.01
   quoted_currency: BRO
-  submarket: minor_pairs
-  symbol: frxDAIBRO
-frxDAIXPD:
+  submarket: cryptocurrency
+  symbol: DAIBRO
+DAIXPD:
   asset: DAI
   display_name: DAI/XPD
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.01
   quoted_currency: XPD
-  submarket: minor_pairs
-  symbol: frxDAIXPD
-frxDAIXPT:
+  submarket: cryptocurrency
+  symbol: DAIXPD
+DAIXPT:
   asset: DAI
   display_name: DAI/XPT
-  exchange_name: FOREX
-  instrument_type: forex
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
   market: forex
   pip_size: 0.01
   quoted_currency: XPT
-  submarket: minor_pairs
-  symbol: frxDAIXPT
+  submarket: cryptocurrency
+  symbol: DAIXPT
 
