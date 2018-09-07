@@ -390,7 +390,7 @@ OMXS30:
   symbol: OMXS30
 OTC_AEX:
   asset: OTC_AEX
-  display_name: Dutch OTC Index
+  display_name: Dutch Index
   exchange_name: EURONEXT_OTC
   instrument_type: stockindex
   market: indices
@@ -399,11 +399,11 @@ OTC_AEX:
     delta_style: spot_delta
   pip_size: 0.01
   quoted_currency: EUR
-  submarket: otc_index
+  submarket: europe_africa_OTC
   symbol: OTC_AEX
 OTC_AS51:
   asset: OTC_AS51
-  display_name: Australian OTC Index
+  display_name: Australian Index
   exchange_name: ASX_OTC
   instrument_type: stockindex
   market: indices
@@ -412,11 +412,11 @@ OTC_AS51:
     delta_style: spot_delta
   pip_size: 0.01
   quoted_currency: AUD
-  submarket: otc_index
+  submarket: asia_oceania_OTC
   symbol: OTC_AS51
 OTC_AS51_INVAST:
   asset: OTC_AS51_INVAST
-  display_name: Australian OTC Index
+  display_name: Australian Index
   exchange_name: ASX_OTC
   instrument_type: stockindex
   market: indices
@@ -425,11 +425,11 @@ OTC_AS51_INVAST:
     delta_style: spot_delta
   pip_size: 0.01
   quoted_currency: AUD
-  submarket: otc_index
+  submarket: asia_oceania_OTC
   symbol: OTC_AS51_INVAST
 OTC_AS51_CFH:
   asset: OTC_AS51_CFH
-  display_name: Australian OTC Index
+  display_name: Australian Index
   exchange_name: ASX_OTC
   instrument_type: stockindex
   market: indices
@@ -438,11 +438,11 @@ OTC_AS51_CFH:
     delta_style: spot_delta
   pip_size: 0.01
   quoted_currency: AUD
-  submarket: otc_index
+  submarket: asia_oceania_OTC
   symbol: OTC_AS51_CFH
 OTC_AS51_FXO:
   asset: OTC_AS51_FXO
-  display_name: Australian OTC Index
+  display_name: Australian Index
   exchange_name: ASX_OTC
   instrument_type: stockindex
   market: indices
@@ -451,11 +451,11 @@ OTC_AS51_FXO:
     delta_style: spot_delta
   pip_size: 0.01
   quoted_currency: AUD
-  submarket: otc_index
+  submarket: asia_oceania_OTC
   symbol: OTC_AS51_FXO
 OTC_DJI:
   asset: OTC_DJI
-  display_name: Wall Street OTC Index
+  display_name: Wall Street Index
   exchange_name: NYSE_OTC
   instrument_type: stockindex
   market: indices
@@ -464,11 +464,11 @@ OTC_DJI:
     delta_style: spot_delta
   pip_size: 0.01
   quoted_currency: USD
-  submarket: otc_index
+  submarket: americas_OTC
   symbol: OTC_DJI
 OTC_DJI_CFH:
   asset: OTC_DJI_CFH
-  display_name: Wall Street OTC Index
+  display_name: Wall Street Index
   exchange_name: NYSE_OTC
   instrument_type: stockindex
   market: indices
@@ -477,11 +477,11 @@ OTC_DJI_CFH:
     delta_style: spot_delta
   pip_size: 0.01
   quoted_currency: USD
-  submarket: otc_index
+  submarket: americas_OTC
   symbol: OTC_DJI_CFH
 OTC_DJI_FXO:
   asset: OTC_DJI_FXO
-  display_name: Wall Street OTC Index
+  display_name: Wall Street Index
   exchange_name: NYSE_OTC
   instrument_type: stockindex
   market: indices
@@ -490,11 +490,11 @@ OTC_DJI_FXO:
     delta_style: spot_delta
   pip_size: 0.01
   quoted_currency: USD
-  submarket: otc_index
+  submarket: americas_OTC
   symbol: OTC_DJI_FXO
 OTC_DJI_GBE:
   asset: OTC_DJI_GBE
-  display_name: Wall Street OTC Index
+  display_name: Wall Street Index
   exchange_name: NYSE_OTC
   instrument_type: stockindex
   market: indices
@@ -503,11 +503,11 @@ OTC_DJI_GBE:
     delta_style: spot_delta
   pip_size: 0.01
   quoted_currency: USD
-  submarket: otc_index
+  submarket: americas_OTC
   symbol: OTC_DJI_GBE
 OTC_FCHI:
   asset: OTC_FCHI
-  display_name: French OTC Index
+  display_name: French Index
   exchange_name: EURONEXT_OTC
   instrument_type: stockindex
   market: indices
@@ -516,11 +516,11 @@ OTC_FCHI:
     delta_style: spot_delta
   pip_size: 0.01
   quoted_currency: EUR
-  submarket: otc_index
+  submarket: europe_africa_OTC
   symbol: OTC_FCHI
 OTC_FCHI_INVAST:
   asset: OTC_FCHI_INVAST
-  display_name: French OTC Index
+  display_name: French Index
   exchange_name: EURONEXT_OTC
   instrument_type: stockindex
   market: indices
@@ -529,11 +529,11 @@ OTC_FCHI_INVAST:
     delta_style: spot_delta
   pip_size: 0.01
   quoted_currency: EUR
-  submarket: otc_index
+  submarket: europe_africa_OTC
   symbol: OTC_FCHI_INVAST
 OTC_FCHI_CFH:
   asset: OTC_FCHI_CFH
-  display_name: French OTC Index
+  display_name: French Index
   exchange_name: EURONEXT_OTC
   instrument_type: stockindex
   market: indices
@@ -542,11 +542,11 @@ OTC_FCHI_CFH:
     delta_style: spot_delta
   pip_size: 0.01
   quoted_currency: EUR
-  submarket: otc_index
+  submarket: europe_africa_OTC
   symbol: OTC_FCHI_CFH
 OTC_FCHI_FXO:
   asset: OTC_FCHI_FXO
-  display_name: French OTC Index
+  display_name: French Index
   exchange_name: EURONEXT_OTC
   instrument_type: stockindex
   market: indices
@@ -555,11 +555,11 @@ OTC_FCHI_FXO:
     delta_style: spot_delta
   pip_size: 0.01
   quoted_currency: EUR
-  submarket: otc_index
+  submarket: europe_africa_OTC
   symbol: OTC_FCHI_FXO
 OTC_FTSE:
   asset: OTC_FTSE
-  display_name: UK OTC Index
+  display_name: UK Index
   exchange_name: LSE_OTC
   instrument_type: stockindex
   market: indices
@@ -568,11 +568,11 @@ OTC_FTSE:
     delta_style: spot_delta
   pip_size: 0.01
   quoted_currency: GBP
-  submarket: otc_index
+  submarket: europe_africa_OTC
   symbol: OTC_FTSE
 OTC_FTSE_INVAST:
   asset: OTC_FTSE_INVAST
-  display_name: UK OTC Index
+  display_name: UK Index
   exchange_name: LSE_OTC
   instrument_type: stockindex
   market: indices
@@ -581,11 +581,11 @@ OTC_FTSE_INVAST:
     delta_style: spot_delta
   pip_size: 0.01
   quoted_currency: GBP
-  submarket: otc_index
+  submarket: europe_africa_OTC
   symbol: OTC_FTSE_INVAST
 OTC_FTSE_CFH:
   asset: OTC_FTSE_CFH
-  display_name: UK OTC Index
+  display_name: UK Index
   exchange_name: LSE_OTC
   instrument_type: stockindex
   market: indices
@@ -594,11 +594,11 @@ OTC_FTSE_CFH:
     delta_style: spot_delta
   pip_size: 0.01
   quoted_currency: GBP
-  submarket: otc_index
+  submarket: europe_africa_OTC
   symbol: OTC_FTSE_CFH
 OTC_FTSE_FXO:
   asset: OTC_FTSE_FXO
-  display_name: UK OTC Index
+  display_name: UK Index
   exchange_name: LSE_OTC
   instrument_type: stockindex
   market: indices
@@ -607,11 +607,11 @@ OTC_FTSE_FXO:
     delta_style: spot_delta
   pip_size: 0.01
   quoted_currency: GBP
-  submarket: otc_index
+  submarket: europe_africa_OTC
   symbol: OTC_FTSE_FXO
 OTC_GDAXI:
   asset: OTC_GDAXI
-  display_name: German OTC Index
+  display_name: German Index
   exchange_name: FSE_OTC
   instrument_type: stockindex
   market: indices
@@ -620,11 +620,11 @@ OTC_GDAXI:
     delta_style: spot_delta
   pip_size: 0.01
   quoted_currency: EUR
-  submarket: otc_index
+  submarket: europe_africa_OTC
   symbol: OTC_GDAXI
 OTC_GDAXI_CFH:
   asset: OTC_GDAXI_CFH
-  display_name: German OTC Index
+  display_name: German Index
   exchange_name: FSE_OTC
   instrument_type: stockindex
   market: indices
@@ -633,11 +633,11 @@ OTC_GDAXI_CFH:
     delta_style: spot_delta
   pip_size: 0.01
   quoted_currency: EUR
-  submarket: otc_index
+  submarket: europe_africa_OTC
   symbol: OTC_GDAXI_CFH
 OTC_GDAXI_FXO:
   asset: OTC_GDAXI_FXO
-  display_name: German OTC Index
+  display_name: German Index
   exchange_name: FSE_OTC
   instrument_type: stockindex
   market: indices
@@ -646,11 +646,11 @@ OTC_GDAXI_FXO:
     delta_style: spot_delta
   pip_size: 0.01
   quoted_currency: EUR
-  submarket: otc_index
+  submarket: europe_africa_OTC
   symbol: OTC_GDAXI_FXO
 OTC_GDAXI_GBE:
   asset: OTC_GDAXI_GBE
-  display_name: German OTC Index
+  display_name: German Index
   exchange_name: FSE_OTC
   instrument_type: stockindex
   market: indices
@@ -659,11 +659,11 @@ OTC_GDAXI_GBE:
     delta_style: spot_delta
   pip_size: 0.01
   quoted_currency: EUR
-  submarket: otc_index
+  submarket: europe_africa_OTC
   symbol: OTC_GDAXI_GBE
 OTC_HSI:
   asset: OTC_HSI
-  display_name: Hong Kong OTC Index
+  display_name: Hong Kong Index
   exchange_name: HKSE_OTC
   instrument_type: stockindex
   market: indices
@@ -672,11 +672,11 @@ OTC_HSI:
     delta_style: spot_delta
   pip_size: 0.01
   quoted_currency: HKD
-  submarket: otc_index
+  submarket: asia_oceania_OTC
   symbol: OTC_HSI
 OTC_HSI_INVAST:
   asset: OTC_HSI_INVAST
-  display_name: Hong Kong OTC Index
+  display_name: Hong Kong Index
   exchange_name: HKSE
   instrument_type: stockindex
   market: indices
@@ -685,11 +685,11 @@ OTC_HSI_INVAST:
     delta_style: spot_delta
   pip_size: 0.01
   quoted_currency: HKD
-  submarket: otc_index
+  submarket: asia_oceania_OTC
   symbol: OTC_HSI_INVAST
 OTC_HSI_CFH:
   asset: OTC_HSI_CFH
-  display_name: Hong Kong OTC Index
+  display_name: Hong Kong Index
   exchange_name: HKSE
   instrument_type: stockindex
   market: indices
@@ -698,11 +698,11 @@ OTC_HSI_CFH:
     delta_style: spot_delta
   pip_size: 0.01
   quoted_currency: HKD
-  submarket: otc_index
+  submarket: asia_oceania_OTC
   symbol: OTC_HSI_CFH
 OTC_IBEX35:
   asset: OTC_IBEX35
-  display_name: Spanish OTC Index
+  display_name: Spanish Index
   exchange_name: BM_OTC
   instrument_type: stockindex
   market: indices
@@ -711,11 +711,11 @@ OTC_IBEX35:
     delta_style: spot_delta
   pip_size: 0.01
   quoted_currency: EUR
-  submarket: otc_index
+  submarket: europe_africa_OTC
   symbol: OTC_IBEX35
 OTC_IBEX35_CFH:
   asset: OTC_IBEX35_CFH
-  display_name: Spanish OTC Index
+  display_name: Spanish Index
   exchange_name: BM_OTC
   instrument_type: stockindex
   market: indices
@@ -724,11 +724,11 @@ OTC_IBEX35_CFH:
     delta_style: spot_delta
   pip_size: 0.01
   quoted_currency: EUR
-  submarket: otc_index
+  submarket: asia_oceania_OTC
   symbol: OTC_IBEX35_CFH
 OTC_NDX:
   asset: OTC_NDX
-  display_name: US Tech 100 OTC Index
+  display_name: US Tech Index
   exchange_name: NASDAQ_OTC
   instrument_type: stockindex
   market: indices
@@ -737,11 +737,11 @@ OTC_NDX:
     delta_style: spot_delta
   pip_size: 0.01
   quoted_currency: USD
-  submarket: otc_index
+  submarket: americas_OTC
   symbol: OTC_NDX
 OTC_NDX_CFH:
   asset: OTC_NDX_CFH
-  display_name: US Tech 100 OTC Index
+  display_name: US Tech 100 Index
   exchange_name: NASDAQ_OTC
   instrument_type: stockindex
   market: indices
@@ -750,11 +750,11 @@ OTC_NDX_CFH:
     delta_style: spot_delta
   pip_size: 0.01
   quoted_currency: USD
-  submarket: otc_index
+  submarket: americas_OTC
   symbol: OTC_NDX_CFH
 OTC_NDX_FXO:
   asset: OTC_NDX_FXO
-  display_name: US Tech 100 OTC Index
+  display_name: US Tech 100 Index
   exchange_name: NASDAQ_OTC
   instrument_type: stockindex
   market: indices
@@ -763,11 +763,11 @@ OTC_NDX_FXO:
     delta_style: spot_delta
   pip_size: 0.01
   quoted_currency: USD
-  submarket: otc_index
+  submarket: americas_OTC
   symbol: OTC_NDX_FXO
 OTC_NDX_GBE:
   asset: OTC_NDX_GBE
-  display_name: US Tech 100 OTC Index
+  display_name: US Tech 100 Index
   exchange_name: NASDAQ_OTC
   instrument_type: stockindex
   market: indices
@@ -776,11 +776,11 @@ OTC_NDX_GBE:
     delta_style: spot_delta
   pip_size: 0.01
   quoted_currency: USD
-  submarket: otc_index
+  submarket: americas_OTC
   symbol: OTC_NDX_GBE
 OTC_N225:
   asset: OTC_N225
-  display_name: Japanese OTC Index
+  display_name: Japanese Index
   exchange_name: TSE_OTC
   instrument_type: stockindex
   market: indices
@@ -789,11 +789,11 @@ OTC_N225:
     delta_style: spot_delta
   pip_size: 0.01
   quoted_currency: JPY
-  submarket: otc_index
+  submarket: asia_oceania_OTC
   symbol: OTC_N225
 OTC_N225_CFH:
   asset: OTC_N225_CFH
-  display_name: Japanese OTC Index
+  display_name: Japanese Index
   exchange_name: TSE_OTC
   instrument_type: stockindex
   market: indices
@@ -802,11 +802,11 @@ OTC_N225_CFH:
     delta_style: spot_delta
   pip_size: 0.01
   quoted_currency: JPY
-  submarket: otc_index
+  submarket: asia_oceania_OTC
   symbol: OTC_N225_CFH
 OTC_N225_FXO:
   asset: OTC_N225_FXO
-  display_name: Japanese OTC Index
+  display_name: Japanese Index
   exchange_name: TSE_OTC
   instrument_type: stockindex
   market: indices
@@ -815,11 +815,11 @@ OTC_N225_FXO:
     delta_style: spot_delta
   pip_size: 0.01
   quoted_currency: JPY
-  submarket: otc_index
+  submarket: asia_oceania_OTC
   symbol: OTC_N225_FXO
 OTC_N225_GBE:
   asset: OTC_N225_GBE
-  display_name: Japanese OTC Index
+  display_name: Japanese Index
   exchange_name: TSE_OTC
   instrument_type: stockindex
   market: indices
@@ -828,11 +828,11 @@ OTC_N225_GBE:
     delta_style: spot_delta
   pip_size: 0.01
   quoted_currency: JPY
-  submarket: otc_index
+  submarket: asia_oceania_OTC
   symbol: OTC_N225_GBE
 OTC_SSMI:
   asset: OTC_SSMI
-  display_name: Swiss OTC Index
+  display_name: Swiss Index
   exchange_name: SWX_OTC
   instrument_type: stockindex
   market: indices
@@ -841,11 +841,11 @@ OTC_SSMI:
     delta_style: spot_delta
   pip_size: 0.01
   quoted_currency: CHF
-  submarket: otc_index
+  submarket: europe_africa_OTC
   symbol: OTC_SSMI
 OTC_SSMI_GBE:
   asset: OTC_SSMI_GBE
-  display_name: Swiss OTC Index
+  display_name: Swiss Index
   exchange_name: SWX
   instrument_type: stockindex
   market: indices
@@ -854,11 +854,11 @@ OTC_SSMI_GBE:
     delta_style: spot_delta
   pip_size: 0.01
   quoted_currency: CHF
-  submarket: europe_africa
+  submarket: europe_africa_OTC
   symbol: OTC_SSMI_GBE
 OTC_STI_INVAST:
   asset: OTC_STI_INVAST
-  display_name: Singapore OTC Index
+  display_name: Singapore Index
   exchange_name: SES
   instrument_type: stockindex
   market: indices
@@ -867,11 +867,11 @@ OTC_STI_INVAST:
     delta_style: spot_delta
   pip_size: 0.01
   quoted_currency: SGD
-  submarket: asia_oceania
+  submarket: asia_oceania_OTC
   symbol: OTC_STI_INVAST
 OTC_SPC:
   asset: OTC_SPC
-  display_name: US OTC Index
+  display_name: US Index
   exchange_name: NYSE_SPC_OTC
   instrument_type: stockindex
   market: indices
@@ -880,11 +880,11 @@ OTC_SPC:
     delta_style: spot_delta
   pip_size: 0.01
   quoted_currency: USD
-  submarket: otc_index
+  submarket: americas_OTC
   symbol: OTC_SPC
 OTC_SPC_CFH:
   asset: OTC_SPC_CFH
-  display_name: US OTC Index
+  display_name: US Index
   exchange_name: NYSE_SPC_OTC
   instrument_type: stockindex
   market: indices
@@ -893,11 +893,11 @@ OTC_SPC_CFH:
     delta_style: spot_delta
   pip_size: 0.01
   quoted_currency: USD
-  submarket: otc_index
+  submarket: americas_OTC
   symbol: OTC_SPC_CFH
 OTC_SPC_FXO:
   asset: OTC_SPC_FXO
-  display_name: US OTC Index
+  display_name: US Index
   exchange_name: NYSE_SPC_OTC
   instrument_type: stockindex
   market: indices
@@ -906,11 +906,11 @@ OTC_SPC_FXO:
     delta_style: spot_delta
   pip_size: 0.01
   quoted_currency: USD
-  submarket: otc_index
+  submarket: americas_OTC
   symbol: OTC_SPC_FXO
 OTC_SPC_GBE:
   asset: OTC_SPC_GBE
-  display_name: US OTC Index
+  display_name: US Index
   exchange_name: NYSE_SPC_OTC
   instrument_type: stockindex
   market: indices
@@ -919,11 +919,11 @@ OTC_SPC_GBE:
     delta_style: spot_delta
   pip_size: 0.01
   quoted_currency: USD
-  submarket: otc_index
+  submarket: americas_OTC
   symbol: OTC_SPC_GBE
 OTC_SX5E:
   asset: OTC_SX5E
-  display_name: Euro 50 OTC Index
+  display_name: Euro 50 Index
   exchange_name: STOXX_OTC
   instrument_type: stockindex
   market: indices
@@ -932,11 +932,11 @@ OTC_SX5E:
     delta_style: spot_delta
   pip_size: 0.01
   quoted_currency: EUR
-  submarket: otc_index
+  submarket: europe_africa_OTC
   symbol: OTC_SX5E
 OTC_SX5E_INVAST:
   asset: OTC_SX5E_INVAST
-  display_name: Euro 50 OTC Index
+  display_name: Euro 50 Index
   exchange_name: STOXX_OTC
   instrument_type: stockindex
   market: indices
@@ -945,11 +945,11 @@ OTC_SX5E_INVAST:
     delta_style: spot_delta
   pip_size: 0.01
   quoted_currency: EUR
-  submarket: otc_index
+  submarket: europe_africa_OTC
   symbol: OTC_SX5E_INVAST
 OTC_SX5E_CFH:
   asset: OTC_SX5E_CFH
-  display_name: Euro 50 OTC Index
+  display_name: Euro 50 Index
   exchange_name: STOXX_OTC
   instrument_type: stockindex
   market: indices
@@ -958,11 +958,11 @@ OTC_SX5E_CFH:
     delta_style: spot_delta
   pip_size: 0.01
   quoted_currency: EUR
-  submarket: otc_index
+  submarket: europe_africa_OTC
   symbol: OTC_SX5E_CFH
 OTC_SX5E_FXO:
   asset: OTC_SX5E_FXO
-  display_name: Euro 50 OTC Index
+  display_name: Euro 50 Index
   exchange_name: STOXX_OTC
   instrument_type: stockindex
   market: indices
@@ -971,7 +971,7 @@ OTC_SX5E_FXO:
     delta_style: spot_delta
   pip_size: 0.01
   quoted_currency: EUR
-  submarket: otc_index
+  submarket: europe_africa_OTC
   symbol: OTC_SX5E_FXO
 PSI20:
   asset: PSI20
@@ -984,7 +984,7 @@ PSI20:
     delta_style: spot_delta
   pip_size: 0.01
   quoted_currency: EUR
-  submarket: europe_africa
+  submarket: europe_africa_OTC
   symbol: PSI20
 RDBEAR:
   asset: RDBEAR
@@ -2850,7 +2850,7 @@ BCHAED:
   display_name: BCH/AED
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: AED
   submarket: cryptocurrency
@@ -2860,7 +2860,7 @@ BCHAUD:
   display_name: BCH/AUD
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: AUD
   submarket: cryptocurrency
@@ -2870,7 +2870,7 @@ BCHBRL:
   display_name: BCH/BRL
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: BRL
   submarket: cryptocurrency
@@ -2880,7 +2880,7 @@ BCHCAD:
   display_name: BCH/CAD
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: CAD
   submarket: cryptocurrency
@@ -2890,7 +2890,7 @@ BCHCHF:
   display_name: BCH/CHF
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: CHF
   submarket: cryptocurrency
@@ -2900,7 +2900,7 @@ BCHCNY:
   display_name: BCH/CNY
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: CNY
   submarket: cryptocurrency
@@ -2910,7 +2910,7 @@ BCHCZK:
   display_name: BCH/CZK
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: CZK
   submarket: cryptocurrency
@@ -2920,7 +2920,7 @@ BCHEGP:
   display_name: BCH/EGP
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: EGP
   submarket: cryptocurrency
@@ -2930,7 +2930,7 @@ BCHEUR:
   display_name: BCH/EUR
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: EUR
   submarket: cryptocurrency
@@ -2940,7 +2940,7 @@ BCHGBP:
   display_name: BCH/GBP
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: GBP
   submarket: cryptocurrency
@@ -2950,7 +2950,7 @@ BCHHKD:
   display_name: BCH/HKD
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: HKD
   submarket: cryptocurrency
@@ -2960,7 +2960,7 @@ BCHIDR:
   display_name: BCH/IDR
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: IDR
   submarket: cryptocurrency
@@ -2970,7 +2970,7 @@ BCHINR:
   display_name: BCH/INR
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: INR
   submarket: cryptocurrency
@@ -2980,7 +2980,7 @@ BCHJPY:
   display_name: BCH/JPY
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: JPY
   submarket: cryptocurrency
@@ -2990,7 +2990,7 @@ BCHKRW:
   display_name: BCH/KRW
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: KRW
   submarket: cryptocurrency
@@ -3000,7 +3000,7 @@ BCHKWD:
   display_name: BCH/KWD
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: KWD
   submarket: cryptocurrency
@@ -3010,7 +3010,7 @@ BCHMXN:
   display_name: BCH/MXN
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: MXN
   submarket: cryptocurrency
@@ -3020,7 +3020,7 @@ BCHNOK:
   display_name: BCH/NOK
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: NOK
   submarket: cryptocurrency
@@ -3030,7 +3030,7 @@ BCHNZD:
   display_name: BCH/NZD
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: NZD
   submarket: cryptocurrency
@@ -3040,7 +3040,7 @@ BCHPLN:
   display_name: BCH/PLN
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: PLN
   submarket: cryptocurrency
@@ -3050,7 +3050,7 @@ BCHRUB:
   display_name: BCH/RUB
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: RUB
   submarket: cryptocurrency
@@ -3060,7 +3060,7 @@ BCHSAR:
   display_name: BCH/SAR
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: SAR
   submarket: cryptocurrency
@@ -3070,7 +3070,7 @@ BCHSEK:
   display_name: BCH/SEK
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: SEK
   submarket: cryptocurrency
@@ -3080,7 +3080,7 @@ BCHSGD:
   display_name: BCH/SGD
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: SGD
   submarket: cryptocurrency
@@ -3090,7 +3090,7 @@ BCHTRY:
   display_name: BCH/TRY
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: TRY
   submarket: cryptocurrency
@@ -3100,7 +3100,7 @@ BCHUSD:
   display_name: BCH/USD
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: USD
   submarket: cryptocurrency
@@ -3110,7 +3110,7 @@ BCHXAG:
   display_name: BCH/XAG
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: XAG
   submarket: cryptocurrency
@@ -3120,7 +3120,7 @@ BCHXAU:
   display_name: BCH/XAU
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: XAU
   submarket: cryptocurrency
@@ -3130,7 +3130,7 @@ BCHZAR:
   display_name: BCH/ZAR
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: ZAR
   submarket: cryptocurrency
@@ -3140,7 +3140,7 @@ BTCAED:
   display_name: BTC/AED
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: AED
   submarket: cryptocurrency
@@ -3150,7 +3150,7 @@ BTCAUD:
   display_name: BTC/AUD
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: AUD
   submarket: cryptocurrency
@@ -3160,7 +3160,7 @@ BTCBRL:
   display_name: BTC/BRL
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: BRL
   submarket: cryptocurrency
@@ -3170,7 +3170,7 @@ BTCCAD:
   display_name: BTC/CAD
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: CAD
   submarket: cryptocurrency
@@ -3180,7 +3180,7 @@ BTCCHF:
   display_name: BTC/CHF
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: CHF
   submarket: cryptocurrency
@@ -3190,7 +3190,7 @@ BTCCNY:
   display_name: BTC/CNY
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: CNY
   submarket: cryptocurrency
@@ -3200,7 +3200,7 @@ BTCCZK:
   display_name: BTC/CZK
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: CZK
   submarket: cryptocurrency
@@ -3210,7 +3210,7 @@ BTCEGP:
   display_name: BTC/EGP
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: EGP
   submarket: cryptocurrency
@@ -3220,7 +3220,7 @@ BTCEUR:
   display_name: BTC/EUR
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: EUR
   submarket: cryptocurrency
@@ -3230,7 +3230,7 @@ BTCGBP:
   display_name: BTC/GBP
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: GBP
   submarket: cryptocurrency
@@ -3240,7 +3240,7 @@ BTCHKD:
   display_name: BTC/HKD
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: HKD
   submarket: cryptocurrency
@@ -3250,7 +3250,7 @@ BTCIDR:
   display_name: BTC/IDR
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: IDR
   submarket: cryptocurrency
@@ -3260,7 +3260,7 @@ BTCINR:
   display_name: BTC/INR
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: INR
   submarket: cryptocurrency
@@ -3270,7 +3270,7 @@ BTCJPY:
   display_name: BTC/JPY
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: JPY
   submarket: cryptocurrency
@@ -3280,7 +3280,7 @@ BTCKRW:
   display_name: BTC/KRW
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: KRW
   submarket: cryptocurrency
@@ -3290,7 +3290,7 @@ BTCKWD:
   display_name: BTC/KWD
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: KWD
   submarket: cryptocurrency
@@ -3300,7 +3300,7 @@ BTCMXN:
   display_name: BTC/MXN
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: MXN
   submarket: cryptocurrency
@@ -3310,7 +3310,7 @@ BTCNOK:
   display_name: BTC/NOK
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: NOK
   submarket: cryptocurrency
@@ -3320,7 +3320,7 @@ BTCNZD:
   display_name: BTC/NZD
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: NZD
   submarket: cryptocurrency
@@ -3330,7 +3330,7 @@ BTCPLN:
   display_name: BTC/PLN
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: PLN
   submarket: cryptocurrency
@@ -3340,7 +3340,7 @@ BTCRUB:
   display_name: BTC/RUB
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: RUB
   submarket: cryptocurrency
@@ -3350,7 +3350,7 @@ BTCSAR:
   display_name: BTC/SAR
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: SAR
   submarket: cryptocurrency
@@ -3360,7 +3360,7 @@ BTCSEK:
   display_name: BTC/SEK
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: SEK
   submarket: cryptocurrency
@@ -3370,7 +3370,7 @@ BTCSGD:
   display_name: BTC/SGD
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: SGD
   submarket: cryptocurrency
@@ -3380,7 +3380,7 @@ BTCTRY:
   display_name: BTC/TRY
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: TRY
   submarket: cryptocurrency
@@ -3390,7 +3390,7 @@ BTCUSD:
   display_name: BTC/USD
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: USD
   submarket: cryptocurrency
@@ -3400,7 +3400,7 @@ BTCXAG:
   display_name: BTC/XAG
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: XAG
   submarket: cryptocurrency
@@ -3410,7 +3410,7 @@ BTCXAU:
   display_name: BTC/XAU
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: XAU
   submarket: cryptocurrency
@@ -3420,7 +3420,7 @@ BTCZAR:
   display_name: BTC/ZAR
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: ZAR
   submarket: cryptocurrency
@@ -3430,7 +3430,7 @@ ETCAED:
   display_name: ETC/AED
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: AED
   submarket: cryptocurrency
@@ -3440,7 +3440,7 @@ ETCAUD:
   display_name: ETC/AUD
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: AUD
   submarket: cryptocurrency
@@ -3450,7 +3450,7 @@ ETCBRL:
   display_name: ETC/BRL
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: BRL
   submarket: cryptocurrency
@@ -3460,7 +3460,7 @@ ETCCAD:
   display_name: ETC/CAD
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: CAD
   submarket: cryptocurrency
@@ -3470,7 +3470,7 @@ ETCCHF:
   display_name: ETC/CHF
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: CHF
   submarket: cryptocurrency
@@ -3480,7 +3480,7 @@ ETCCNY:
   display_name: ETC/CNY
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: CNY
   submarket: cryptocurrency
@@ -3490,7 +3490,7 @@ ETCCZK:
   display_name: ETC/CZK
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: CZK
   submarket: cryptocurrency
@@ -3500,7 +3500,7 @@ ETCEGP:
   display_name: ETC/EGP
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: EGP
   submarket: cryptocurrency
@@ -3510,7 +3510,7 @@ ETCEUR:
   display_name: ETC/EUR
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: EUR
   submarket: cryptocurrency
@@ -3520,7 +3520,7 @@ ETCGBP:
   display_name: ETC/GBP
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: GBP
   submarket: cryptocurrency
@@ -3530,7 +3530,7 @@ ETCHKD:
   display_name: ETC/HKD
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: HKD
   submarket: cryptocurrency
@@ -3540,7 +3540,7 @@ ETCIDR:
   display_name: ETC/IDR
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: IDR
   submarket: cryptocurrency
@@ -3550,7 +3550,7 @@ ETCINR:
   display_name: ETC/INR
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: INR
   submarket: cryptocurrency
@@ -3560,7 +3560,7 @@ ETCJPY:
   display_name: ETC/JPY
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: JPY
   submarket: cryptocurrency
@@ -3570,7 +3570,7 @@ ETCKRW:
   display_name: ETC/KRW
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: KRW
   submarket: cryptocurrency
@@ -3580,7 +3580,7 @@ ETCKWD:
   display_name: ETC/KWD
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: KWD
   submarket: cryptocurrency
@@ -3590,7 +3590,7 @@ ETCMXN:
   display_name: ETC/MXN
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: MXN
   submarket: cryptocurrency
@@ -3600,7 +3600,7 @@ ETCNOK:
   display_name: ETC/NOK
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: NOK
   submarket: cryptocurrency
@@ -3610,7 +3610,7 @@ ETCNZD:
   display_name: ETC/NZD
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: NZD
   submarket: cryptocurrency
@@ -3620,7 +3620,7 @@ ETCPLN:
   display_name: ETC/PLN
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: PLN
   submarket: cryptocurrency
@@ -3630,7 +3630,7 @@ ETCRUB:
   display_name: ETC/RUB
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: RUB
   submarket: cryptocurrency
@@ -3640,7 +3640,7 @@ ETCSAR:
   display_name: ETC/SAR
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: SAR
   submarket: cryptocurrency
@@ -3650,7 +3650,7 @@ ETCSEK:
   display_name: ETC/SEK
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: SEK
   submarket: cryptocurrency
@@ -3660,7 +3660,7 @@ ETCSGD:
   display_name: ETC/SGD
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: SGD
   submarket: cryptocurrency
@@ -3670,7 +3670,7 @@ ETCTRY:
   display_name: ETC/TRY
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: TRY
   submarket: cryptocurrency
@@ -3680,7 +3680,7 @@ ETCUSD:
   display_name: ETC/USD
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: USD
   submarket: cryptocurrency
@@ -3690,7 +3690,7 @@ ETCXAG:
   display_name: ETC/XAG
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: XAG
   submarket: cryptocurrency
@@ -3700,7 +3700,7 @@ ETCXAU:
   display_name: ETC/XAU
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: XAU
   submarket: cryptocurrency
@@ -3710,7 +3710,7 @@ ETCZAR:
   display_name: ETC/ZAR
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: ZAR
   submarket: cryptocurrency
@@ -3720,7 +3720,7 @@ ETHAED:
   display_name: ETH/AED
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: AED
   submarket: cryptocurrency
@@ -3730,7 +3730,7 @@ ETHAUD:
   display_name: ETH/AUD
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: AUD
   submarket: cryptocurrency
@@ -3740,7 +3740,7 @@ ETHBRL:
   display_name: ETH/BRL
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: BRL
   submarket: cryptocurrency
@@ -3750,7 +3750,7 @@ ETHCAD:
   display_name: ETH/CAD
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: CAD
   submarket: cryptocurrency
@@ -3760,7 +3760,7 @@ ETHCHF:
   display_name: ETH/CHF
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: CHF
   submarket: cryptocurrency
@@ -3770,7 +3770,7 @@ ETHCNY:
   display_name: ETH/CNY
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: CNY
   submarket: cryptocurrency
@@ -3780,7 +3780,7 @@ ETHCZK:
   display_name: ETH/CZK
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: CZK
   submarket: cryptocurrency
@@ -3790,7 +3790,7 @@ ETHEGP:
   display_name: ETH/EGP
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: EGP
   submarket: cryptocurrency
@@ -3800,7 +3800,7 @@ ETHEUR:
   display_name: ETH/EUR
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: EUR
   submarket: cryptocurrency
@@ -3810,7 +3810,7 @@ ETHGBP:
   display_name: ETH/GBP
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: GBP
   submarket: cryptocurrency
@@ -3820,7 +3820,7 @@ ETHHKD:
   display_name: ETH/HKD
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: HKD
   submarket: cryptocurrency
@@ -3830,7 +3830,7 @@ ETHIDR:
   display_name: ETH/IDR
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: IDR
   submarket: cryptocurrency
@@ -3840,7 +3840,7 @@ ETHINR:
   display_name: ETH/INR
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: INR
   submarket: cryptocurrency
@@ -3850,7 +3850,7 @@ ETHJPY:
   display_name: ETH/JPY
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: JPY
   submarket: cryptocurrency
@@ -3860,7 +3860,7 @@ ETHKRW:
   display_name: ETH/KRW
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: KRW
   submarket: cryptocurrency
@@ -3870,7 +3870,7 @@ ETHKWD:
   display_name: ETH/KWD
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: KWD
   submarket: cryptocurrency
@@ -3880,7 +3880,7 @@ ETHMXN:
   display_name: ETH/MXN
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: MXN
   submarket: cryptocurrency
@@ -3890,7 +3890,7 @@ ETHNOK:
   display_name: ETH/NOK
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: NOK
   submarket: cryptocurrency
@@ -3900,7 +3900,7 @@ ETHNZD:
   display_name: ETH/NZD
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: NZD
   submarket: cryptocurrency
@@ -3910,7 +3910,7 @@ ETHPLN:
   display_name: ETH/PLN
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: PLN
   submarket: cryptocurrency
@@ -3920,7 +3920,7 @@ ETHRUB:
   display_name: ETH/RUB
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: RUB
   submarket: cryptocurrency
@@ -3930,7 +3930,7 @@ ETHSAR:
   display_name: ETH/SAR
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: SAR
   submarket: cryptocurrency
@@ -3940,7 +3940,7 @@ ETHSEK:
   display_name: ETH/SEK
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: SEK
   submarket: cryptocurrency
@@ -3950,7 +3950,7 @@ ETHSGD:
   display_name: ETH/SGD
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: SGD
   submarket: cryptocurrency
@@ -3960,7 +3960,7 @@ ETHTRY:
   display_name: ETH/TRY
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: TRY
   submarket: cryptocurrency
@@ -3970,7 +3970,7 @@ ETHUSD:
   display_name: ETH/USD
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: USD
   submarket: cryptocurrency
@@ -3980,7 +3980,7 @@ ETHXAG:
   display_name: ETH/XAG
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: XAG
   submarket: cryptocurrency
@@ -3990,7 +3990,7 @@ ETHXAU:
   display_name: ETH/XAU
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: XAU
   submarket: cryptocurrency
@@ -4000,7 +4000,7 @@ ETHZAR:
   display_name: ETH/ZAR
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: ZAR
   submarket: cryptocurrency
@@ -4010,7 +4010,7 @@ LTCAED:
   display_name: LTC/AED
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: AED
   submarket: cryptocurrency
@@ -4020,7 +4020,7 @@ LTCAUD:
   display_name: LTC/AUD
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: AUD
   submarket: cryptocurrency
@@ -4030,7 +4030,7 @@ LTCBRL:
   display_name: LTC/BRL
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: BRL
   submarket: cryptocurrency
@@ -4040,7 +4040,7 @@ LTCCAD:
   display_name: LTC/CAD
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: CAD
   submarket: cryptocurrency
@@ -4050,7 +4050,7 @@ LTCCHF:
   display_name: LTC/CHF
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: CHF
   submarket: cryptocurrency
@@ -4060,7 +4060,7 @@ LTCCNY:
   display_name: LTC/CNY
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: CNY
   submarket: cryptocurrency
@@ -4070,7 +4070,7 @@ LTCCZK:
   display_name: LTC/CZK
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: CZK
   submarket: cryptocurrency
@@ -4080,7 +4080,7 @@ LTCEGP:
   display_name: LTC/EGP
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: EGP
   submarket: cryptocurrency
@@ -4090,7 +4090,7 @@ LTCEUR:
   display_name: LTC/EUR
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: EUR
   submarket: cryptocurrency
@@ -4100,7 +4100,7 @@ LTCGBP:
   display_name: LTC/GBP
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: GBP
   submarket: cryptocurrency
@@ -4110,7 +4110,7 @@ LTCHKD:
   display_name: LTC/HKD
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: HKD
   submarket: cryptocurrency
@@ -4120,7 +4120,7 @@ LTCIDR:
   display_name: LTC/IDR
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: IDR
   submarket: cryptocurrency
@@ -4130,7 +4130,7 @@ LTCINR:
   display_name: LTC/INR
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: INR
   submarket: cryptocurrency
@@ -4140,7 +4140,7 @@ LTCJPY:
   display_name: LTC/JPY
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: JPY
   submarket: cryptocurrency
@@ -4150,7 +4150,7 @@ LTCKRW:
   display_name: LTC/KRW
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: KRW
   submarket: cryptocurrency
@@ -4160,7 +4160,7 @@ LTCKWD:
   display_name: LTC/KWD
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: KWD
   submarket: cryptocurrency
@@ -4170,7 +4170,7 @@ LTCMXN:
   display_name: LTC/MXN
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: MXN
   submarket: cryptocurrency
@@ -4180,7 +4180,7 @@ LTCNOK:
   display_name: LTC/NOK
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: NOK
   submarket: cryptocurrency
@@ -4190,7 +4190,7 @@ LTCNZD:
   display_name: LTC/NZD
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: NZD
   submarket: cryptocurrency
@@ -4200,7 +4200,7 @@ LTCPLN:
   display_name: LTC/PLN
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: PLN
   submarket: cryptocurrency
@@ -4210,7 +4210,7 @@ LTCRUB:
   display_name: LTC/RUB
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: RUB
   submarket: cryptocurrency
@@ -4220,7 +4220,7 @@ LTCSAR:
   display_name: LTC/SAR
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: SAR
   submarket: cryptocurrency
@@ -4230,7 +4230,7 @@ LTCSEK:
   display_name: LTC/SEK
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: SEK
   submarket: cryptocurrency
@@ -4240,7 +4240,7 @@ LTCSGD:
   display_name: LTC/SGD
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: SGD
   submarket: cryptocurrency
@@ -4250,7 +4250,7 @@ LTCTRY:
   display_name: LTC/TRY
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: TRY
   submarket: cryptocurrency
@@ -4260,7 +4260,7 @@ LTCUSD:
   display_name: LTC/USD
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: USD
   submarket: cryptocurrency
@@ -4270,7 +4270,7 @@ LTCXAG:
   display_name: LTC/XAG
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: XAG
   submarket: cryptocurrency
@@ -4280,7 +4280,7 @@ LTCXAU:
   display_name: LTC/XAU
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: XAU
   submarket: cryptocurrency
@@ -4290,7 +4290,7 @@ LTCZAR:
   display_name: LTC/ZAR
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: ZAR
   submarket: cryptocurrency
@@ -4300,7 +4300,7 @@ BCHBRO:
   display_name: BCH/BRO
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: BRO
   submarket: cryptocurrency
@@ -4310,7 +4310,7 @@ BCHXPD:
   display_name: BCH/XPD
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: XPD
   submarket: cryptocurrency
@@ -4320,7 +4320,7 @@ BCHXPT:
   display_name: BCH/XPT
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: XPT
   submarket: cryptocurrency
@@ -4330,7 +4330,7 @@ BTCBRO:
   display_name: BTC/BRO
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: BRO
   submarket: cryptocurrency
@@ -4340,7 +4340,7 @@ BTCXPD:
   display_name: BTC/XPD
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: XPD
   submarket: cryptocurrency
@@ -4350,7 +4350,7 @@ BTCXPT:
   display_name: BTC/XPT
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: XPT
   submarket: cryptocurrency
@@ -4360,7 +4360,7 @@ ETCBRO:
   display_name: ETC/BRO
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: BRO
   submarket: cryptocurrency
@@ -4370,7 +4370,7 @@ ETCXPD:
   display_name: ETC/XPD
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: XPD
   submarket: cryptocurrency
@@ -4380,7 +4380,7 @@ ETCXPT:
   display_name: ETC/XPT
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: XPT
   submarket: cryptocurrency
@@ -4390,7 +4390,7 @@ ETHBRO:
   display_name: ETH/BRO
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: BRO
   submarket: cryptocurrency
@@ -4400,7 +4400,7 @@ ETHXPD:
   display_name: ETH/XPD
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: XPD
   submarket: cryptocurrency
@@ -4410,7 +4410,7 @@ ETHXPT:
   display_name: ETH/XPT
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: XPT
   submarket: cryptocurrency
@@ -4420,7 +4420,7 @@ LTCBRO:
   display_name: LTC/BRO
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: BRO
   submarket: cryptocurrency
@@ -4430,7 +4430,7 @@ LTCXPD:
   display_name: LTC/XPD
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: XPD
   submarket: cryptocurrency
@@ -4440,7 +4440,7 @@ LTCXPT:
   display_name: LTC/XPT
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: XPT
   submarket: cryptocurrency
@@ -4450,7 +4450,7 @@ DAIAED:
   display_name: DAI/AED
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.01
   quoted_currency: AED
   submarket: cryptocurrency
@@ -4460,7 +4460,7 @@ DAIAUD:
   display_name: DAI/AUD
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.01
   quoted_currency: AUD
   submarket: cryptocurrency
@@ -4470,7 +4470,7 @@ DAIBRL:
   display_name: DAI/BRL
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.01
   quoted_currency: BRL
   submarket: cryptocurrency
@@ -4480,7 +4480,7 @@ DAICAD:
   display_name: DAI/CAD
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.01
   quoted_currency: CAD
   submarket: cryptocurrency
@@ -4490,7 +4490,7 @@ DAICHF:
   display_name: DAI/CHF
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.01
   quoted_currency: CHF
   submarket: cryptocurrency
@@ -4500,7 +4500,7 @@ DAICNY:
   display_name: DAI/CNY
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.01
   quoted_currency: CNY
   submarket: cryptocurrency
@@ -4510,7 +4510,7 @@ DAICZK:
   display_name: DAI/CZK
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.01
   quoted_currency: CZK
   submarket: cryptocurrency
@@ -4520,7 +4520,7 @@ DAIEGP:
   display_name: DAI/EGP
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.01
   quoted_currency: EGP
   submarket: cryptocurrency
@@ -4530,7 +4530,7 @@ DAIEUR:
   display_name: DAI/EUR
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.01
   quoted_currency: EUR
   submarket: cryptocurrency
@@ -4540,7 +4540,7 @@ DAIGBP:
   display_name: DAI/GBP
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.01
   quoted_currency: GBP
   submarket: cryptocurrency
@@ -4550,7 +4550,7 @@ DAIHKD:
   display_name: DAI/HKD
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.01
   quoted_currency: HKD
   submarket: cryptocurrency
@@ -4560,7 +4560,7 @@ DAIIDR:
   display_name: DAI/IDR
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.01
   quoted_currency: IDR
   submarket: cryptocurrency
@@ -4570,7 +4570,7 @@ DAIINR:
   display_name: DAI/INR
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.01
   quoted_currency: INR
   submarket: cryptocurrency
@@ -4580,7 +4580,7 @@ DAIJPY:
   display_name: DAI/JPY
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.01
   quoted_currency: JPY
   submarket: cryptocurrency
@@ -4590,7 +4590,7 @@ DAIKRW:
   display_name: DAI/KRW
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.01
   quoted_currency: KRW
   submarket: cryptocurrency
@@ -4600,7 +4600,7 @@ DAIKWD:
   display_name: DAI/KWD
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.01
   quoted_currency: KWD
   submarket: cryptocurrency
@@ -4610,7 +4610,7 @@ DAIMXN:
   display_name: DAI/MXN
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.01
   quoted_currency: MXN
   submarket: cryptocurrency
@@ -4620,7 +4620,7 @@ DAINOK:
   display_name: DAI/NOK
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.01
   quoted_currency: NOK
   submarket: cryptocurrency
@@ -4630,7 +4630,7 @@ DAINZD:
   display_name: DAI/NZD
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.01
   quoted_currency: NZD
   submarket: cryptocurrency
@@ -4640,7 +4640,7 @@ DAIPLN:
   display_name: DAI/PLN
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.01
   quoted_currency: PLN
   submarket: cryptocurrency
@@ -4650,7 +4650,7 @@ DAIRUB:
   display_name: DAI/RUB
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.01
   quoted_currency: RUB
   submarket: cryptocurrency
@@ -4660,7 +4660,7 @@ DAISAR:
   display_name: DAI/SAR
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.01
   quoted_currency: SAR
   submarket: cryptocurrency
@@ -4670,7 +4670,7 @@ DAISEK:
   display_name: DAI/SEK
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.01
   quoted_currency: SEK
   submarket: cryptocurrency
@@ -4680,7 +4680,7 @@ DAISGD:
   display_name: DAI/SGD
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.01
   quoted_currency: SGD
   submarket: cryptocurrency
@@ -4690,7 +4690,7 @@ DAITRY:
   display_name: DAI/TRY
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.01
   quoted_currency: TRY
   submarket: cryptocurrency
@@ -4700,7 +4700,7 @@ DAIUSD:
   display_name: DAI/USD
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.01
   quoted_currency: USD
   submarket: cryptocurrency
@@ -4710,7 +4710,7 @@ DAIXAG:
   display_name: DAI/XAG
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.01
   quoted_currency: XAG
   submarket: cryptocurrency
@@ -4720,7 +4720,7 @@ DAIXAU:
   display_name: DAI/XAU
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.01
   quoted_currency: XAU
   submarket: cryptocurrency
@@ -4730,7 +4730,7 @@ DAIZAR:
   display_name: DAI/ZAR
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.01
   quoted_currency: ZAR
   submarket: cryptocurrency
@@ -4740,7 +4740,7 @@ DAIBRO:
   display_name: DAI/BRO
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.01
   quoted_currency: BRO
   submarket: cryptocurrency
@@ -4750,7 +4750,7 @@ DAIXPD:
   display_name: DAI/XPD
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.01
   quoted_currency: XPD
   submarket: cryptocurrency
@@ -4760,9 +4760,328 @@ DAIXPT:
   display_name: DAI/XPT
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
-  market: forex
+  market: cryptocurrency
   pip_size: 0.01
   quoted_currency: XPT
   submarket: cryptocurrency
   symbol: DAIXPT
-
+USTAED:
+  asset: UST
+  display_name: UST/AED
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
+  market: cryptocurrency
+  pip_size: 0.01
+  quoted_currency: AED
+  submarket: cryptocurrency
+  symbol: USTAED
+USTAUD:
+  asset: UST
+  display_name: UST/AUD
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
+  market: cryptocurrency
+  pip_size: 0.01
+  quoted_currency: AUD
+  submarket: cryptocurrency
+  symbol: USTAUD
+USTBRL:
+  asset: UST
+  display_name: UST/BRL
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
+  market: cryptocurrency
+  pip_size: 0.01
+  quoted_currency: BRL
+  submarket: cryptocurrency
+  symbol: USTBRL
+USTCAD:
+  asset: UST
+  display_name: UST/CAD
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
+  market: cryptocurrency
+  pip_size: 0.01
+  quoted_currency: CAD
+  submarket: cryptocurrency
+  symbol: USTCAD
+USTCHF:
+  asset: UST
+  display_name: UST/CHF
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
+  market: cryptocurrency
+  pip_size: 0.01
+  quoted_currency: CHF
+  submarket: cryptocurrency
+  symbol: USTCHF
+USTCNY:
+  asset: UST
+  display_name: UST/CNY
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
+  market: cryptocurrency
+  pip_size: 0.01
+  quoted_currency: CNY
+  submarket: cryptocurrency
+  symbol: USTCNY
+USTCZK:
+  asset: UST
+  display_name: UST/CZK
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
+  market: cryptocurrency
+  pip_size: 0.01
+  quoted_currency: CZK
+  submarket: cryptocurrency
+  symbol: USTCZK
+USTEGP:
+  asset: UST
+  display_name: UST/EGP
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
+  market: cryptocurrency
+  pip_size: 0.01
+  quoted_currency: EGP
+  submarket: cryptocurrency
+  symbol: USTEGP
+USTEUR:
+  asset: UST
+  display_name: UST/EUR
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
+  market: cryptocurrency
+  pip_size: 0.01
+  quoted_currency: EUR
+  submarket: cryptocurrency
+  symbol: USTEUR
+USTGBP:
+  asset: UST
+  display_name: UST/GBP
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
+  market: cryptocurrency
+  pip_size: 0.01
+  quoted_currency: GBP
+  submarket: cryptocurrency
+  symbol: USTGBP
+USTHKD:
+  asset: UST
+  display_name: UST/HKD
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
+  market: cryptocurrency
+  pip_size: 0.01
+  quoted_currency: HKD
+  submarket: cryptocurrency
+  symbol: USTHKD
+USTIDR:
+  asset: UST
+  display_name: UST/IDR
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
+  market: cryptocurrency
+  pip_size: 0.01
+  quoted_currency: IDR
+  submarket: cryptocurrency
+  symbol: USTIDR
+USTINR:
+  asset: UST
+  display_name: UST/INR
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
+  market: cryptocurrency
+  pip_size: 0.01
+  quoted_currency: INR
+  submarket: cryptocurrency
+  symbol: USTINR
+USTJPY:
+  asset: UST
+  display_name: UST/JPY
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
+  market: cryptocurrency
+  pip_size: 0.01
+  quoted_currency: JPY
+  submarket: cryptocurrency
+  symbol: USTJPY
+USTKRW:
+  asset: UST
+  display_name: UST/KRW
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
+  market: cryptocurrency
+  pip_size: 0.01
+  quoted_currency: KRW
+  submarket: cryptocurrency
+  symbol: USTKRW
+USTKWD:
+  asset: UST
+  display_name: UST/KWD
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
+  market: cryptocurrency
+  pip_size: 0.01
+  quoted_currency: KWD
+  submarket: cryptocurrency
+  symbol: USTKWD
+USTMXN:
+  asset: UST
+  display_name: UST/MXN
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
+  market: cryptocurrency
+  pip_size: 0.01
+  quoted_currency: MXN
+  submarket: cryptocurrency
+  symbol: USTMXN
+USTNOK:
+  asset: UST
+  display_name: UST/NOK
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
+  market: cryptocurrency
+  pip_size: 0.01
+  quoted_currency: NOK
+  submarket: cryptocurrency
+  symbol: USTNOK
+USTNZD:
+  asset: UST
+  display_name: UST/NZD
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
+  market: cryptocurrency
+  pip_size: 0.01
+  quoted_currency: NZD
+  submarket: cryptocurrency
+  symbol: USTNZD
+USTPLN:
+  asset: UST
+  display_name: UST/PLN
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
+  market: cryptocurrency
+  pip_size: 0.01
+  quoted_currency: PLN
+  submarket: cryptocurrency
+  symbol: USTPLN
+USTRUB:
+  asset: UST
+  display_name: UST/RUB
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
+  market: cryptocurrency
+  pip_size: 0.01
+  quoted_currency: RUB
+  submarket: cryptocurrency
+  symbol: USTRUB
+USTSAR:
+  asset: UST
+  display_name: UST/SAR
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
+  market: cryptocurrency
+  pip_size: 0.01
+  quoted_currency: SAR
+  submarket: cryptocurrency
+  symbol: USTSAR
+USTSEK:
+  asset: UST
+  display_name: UST/SEK
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
+  market: cryptocurrency
+  pip_size: 0.01
+  quoted_currency: SEK
+  submarket: cryptocurrency
+  symbol: USTSEK
+USTSGD:
+  asset: UST
+  display_name: UST/SGD
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
+  market: cryptocurrency
+  pip_size: 0.01
+  quoted_currency: SGD
+  submarket: cryptocurrency
+  symbol: USTSGD
+USTTRY:
+  asset: UST
+  display_name: UST/TRY
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
+  market: cryptocurrency
+  pip_size: 0.01
+  quoted_currency: TRY
+  submarket: cryptocurrency
+  symbol: USTTRY
+USTUSD:
+  asset: UST
+  display_name: UST/USD
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
+  market: cryptocurrency
+  pip_size: 0.01
+  quoted_currency: USD
+  submarket: cryptocurrency
+  symbol: USTUSD
+USTXAG:
+  asset: UST
+  display_name: UST/XAG
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
+  market: cryptocurrency
+  pip_size: 0.01
+  quoted_currency: XAG
+  submarket: cryptocurrency
+  symbol: USTXAG
+USTXAU:
+  asset: UST
+  display_name: UST/XAU
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
+  market: cryptocurrency
+  pip_size: 0.01
+  quoted_currency: XAU
+  submarket: cryptocurrency
+  symbol: USTXAU
+USTZAR:
+  asset: UST
+  display_name: UST/ZAR
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
+  market: cryptocurrency
+  pip_size: 0.01
+  quoted_currency: ZAR
+  submarket: cryptocurrency
+  symbol: USTZAR
+USTBRO:
+  asset: UST
+  display_name: UST/BRO
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
+  market: cryptocurrency
+  pip_size: 0.01
+  quoted_currency: BRO
+  submarket: cryptocurrency
+  symbol: USTBRO
+USTXPD:
+  asset: UST
+  display_name: UST/XPD
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
+  market: cryptocurrency
+  pip_size: 0.01
+  quoted_currency: XPD
+  submarket: cryptocurrency
+  symbol: USTXPD
+USTXPT:
+  asset: UST
+  display_name: UST/XPT
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
+  market: cryptocurrency
+  pip_size: 0.01
+  quoted_currency: XPT
+  submarket: cryptocurrency
+  symbol: USTXPT
