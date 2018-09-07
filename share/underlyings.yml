@@ -2853,7 +2853,7 @@ BCHAED:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: AED
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: BCHAED
 BCHAUD:
   asset: BCH
@@ -2863,7 +2863,7 @@ BCHAUD:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: AUD
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: BCHAUD
 BCHBRL:
   asset: BCH
@@ -2873,7 +2873,7 @@ BCHBRL:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: BRL
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: BCHBRL
 BCHCAD:
   asset: BCH
@@ -2883,7 +2883,7 @@ BCHCAD:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: CAD
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: BCHCAD
 BCHCHF:
   asset: BCH
@@ -2893,7 +2893,7 @@ BCHCHF:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: CHF
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: BCHCHF
 BCHCNY:
   asset: BCH
@@ -2903,7 +2903,7 @@ BCHCNY:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: CNY
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: BCHCNY
 BCHCZK:
   asset: BCH
@@ -2913,7 +2913,7 @@ BCHCZK:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: CZK
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: BCHCZK
 BCHEGP:
   asset: BCH
@@ -2923,7 +2923,7 @@ BCHEGP:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: EGP
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: BCHEGP
 BCHEUR:
   asset: BCH
@@ -2933,7 +2933,7 @@ BCHEUR:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: EUR
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: BCHEUR
 BCHGBP:
   asset: BCH
@@ -2943,7 +2943,7 @@ BCHGBP:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: GBP
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: BCHGBP
 BCHHKD:
   asset: BCH
@@ -2953,7 +2953,7 @@ BCHHKD:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: HKD
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: BCHHKD
 BCHIDR:
   asset: BCH
@@ -2963,7 +2963,7 @@ BCHIDR:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: IDR
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: BCHIDR
 BCHINR:
   asset: BCH
@@ -2973,7 +2973,7 @@ BCHINR:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: INR
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: BCHINR
 BCHJPY:
   asset: BCH
@@ -2983,7 +2983,7 @@ BCHJPY:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: JPY
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: BCHJPY
 BCHKRW:
   asset: BCH
@@ -2993,7 +2993,7 @@ BCHKRW:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: KRW
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: BCHKRW
 BCHKWD:
   asset: BCH
@@ -3003,7 +3003,7 @@ BCHKWD:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: KWD
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: BCHKWD
 BCHMXN:
   asset: BCH
@@ -3013,7 +3013,7 @@ BCHMXN:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: MXN
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: BCHMXN
 BCHNOK:
   asset: BCH
@@ -3023,7 +3023,7 @@ BCHNOK:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: NOK
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: BCHNOK
 BCHNZD:
   asset: BCH
@@ -3033,7 +3033,7 @@ BCHNZD:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: NZD
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: BCHNZD
 BCHPLN:
   asset: BCH
@@ -3043,7 +3043,7 @@ BCHPLN:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: PLN
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: BCHPLN
 BCHRUB:
   asset: BCH
@@ -3053,7 +3053,7 @@ BCHRUB:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: RUB
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: BCHRUB
 BCHSAR:
   asset: BCH
@@ -3063,7 +3063,7 @@ BCHSAR:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: SAR
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: BCHSAR
 BCHSEK:
   asset: BCH
@@ -3073,7 +3073,7 @@ BCHSEK:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: SEK
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: BCHSEK
 BCHSGD:
   asset: BCH
@@ -3083,7 +3083,7 @@ BCHSGD:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: SGD
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: BCHSGD
 BCHTRY:
   asset: BCH
@@ -3093,7 +3093,7 @@ BCHTRY:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: TRY
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: BCHTRY
 BCHUSD:
   asset: BCH
@@ -3103,7 +3103,7 @@ BCHUSD:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: USD
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: BCHUSD
 BCHXAG:
   asset: BCH
@@ -3113,7 +3113,7 @@ BCHXAG:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: XAG
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: BCHXAG
 BCHXAU:
   asset: BCH
@@ -3123,7 +3123,7 @@ BCHXAU:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: XAU
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: BCHXAU
 BCHZAR:
   asset: BCH
@@ -3133,7 +3133,7 @@ BCHZAR:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: ZAR
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: BCHZAR
 BTCAED:
   asset: BTC
@@ -3143,7 +3143,7 @@ BTCAED:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: AED
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: BTCAED
 BTCAUD:
   asset: BTC
@@ -3153,7 +3153,7 @@ BTCAUD:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: AUD
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: BTCAUD
 BTCBRL:
   asset: BTC
@@ -3163,7 +3163,7 @@ BTCBRL:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: BRL
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: BTCBRL
 BTCCAD:
   asset: BTC
@@ -3173,7 +3173,7 @@ BTCCAD:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: CAD
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: BTCCAD
 BTCCHF:
   asset: BTC
@@ -3183,7 +3183,7 @@ BTCCHF:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: CHF
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: BTCCHF
 BTCCNY:
   asset: BTC
@@ -3193,7 +3193,7 @@ BTCCNY:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: CNY
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: BTCCNY
 BTCCZK:
   asset: BTC
@@ -3203,7 +3203,7 @@ BTCCZK:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: CZK
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: BTCCZK
 BTCEGP:
   asset: BTC
@@ -3213,7 +3213,7 @@ BTCEGP:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: EGP
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: BTCEGP
 BTCEUR:
   asset: BTC
@@ -3223,7 +3223,7 @@ BTCEUR:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: EUR
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: BTCEUR
 BTCGBP:
   asset: BTC
@@ -3233,7 +3233,7 @@ BTCGBP:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: GBP
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: BTCGBP
 BTCHKD:
   asset: BTC
@@ -3243,7 +3243,7 @@ BTCHKD:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: HKD
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: BTCHKD
 BTCIDR:
   asset: BTC
@@ -3253,7 +3253,7 @@ BTCIDR:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: IDR
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: BTCIDR
 BTCINR:
   asset: BTC
@@ -3263,7 +3263,7 @@ BTCINR:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: INR
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: BTCINR
 BTCJPY:
   asset: BTC
@@ -3273,7 +3273,7 @@ BTCJPY:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: JPY
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: BTCJPY
 BTCKRW:
   asset: BTC
@@ -3283,7 +3283,7 @@ BTCKRW:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: KRW
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: BTCKRW
 BTCKWD:
   asset: BTC
@@ -3293,7 +3293,7 @@ BTCKWD:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: KWD
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: BTCKWD
 BTCMXN:
   asset: BTC
@@ -3303,7 +3303,7 @@ BTCMXN:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: MXN
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: BTCMXN
 BTCNOK:
   asset: BTC
@@ -3313,7 +3313,7 @@ BTCNOK:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: NOK
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: BTCNOK
 BTCNZD:
   asset: BTC
@@ -3323,7 +3323,7 @@ BTCNZD:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: NZD
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: BTCNZD
 BTCPLN:
   asset: BTC
@@ -3333,7 +3333,7 @@ BTCPLN:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: PLN
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: BTCPLN
 BTCRUB:
   asset: BTC
@@ -3343,7 +3343,7 @@ BTCRUB:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: RUB
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: BTCRUB
 BTCSAR:
   asset: BTC
@@ -3353,7 +3353,7 @@ BTCSAR:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: SAR
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: BTCSAR
 BTCSEK:
   asset: BTC
@@ -3363,7 +3363,7 @@ BTCSEK:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: SEK
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: BTCSEK
 BTCSGD:
   asset: BTC
@@ -3373,7 +3373,7 @@ BTCSGD:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: SGD
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: BTCSGD
 BTCTRY:
   asset: BTC
@@ -3383,7 +3383,7 @@ BTCTRY:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: TRY
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: BTCTRY
 BTCUSD:
   asset: BTC
@@ -3393,7 +3393,7 @@ BTCUSD:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: USD
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: BTCUSD
 BTCXAG:
   asset: BTC
@@ -3403,7 +3403,7 @@ BTCXAG:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: XAG
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: BTCXAG
 BTCXAU:
   asset: BTC
@@ -3413,7 +3413,7 @@ BTCXAU:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: XAU
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: BTCXAU
 BTCZAR:
   asset: BTC
@@ -3423,7 +3423,7 @@ BTCZAR:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: ZAR
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: BTCZAR
 ETCAED:
   asset: ETC
@@ -3433,7 +3433,7 @@ ETCAED:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: AED
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: ETCAED
 ETCAUD:
   asset: ETC
@@ -3443,7 +3443,7 @@ ETCAUD:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: AUD
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: ETCAUD
 ETCBRL:
   asset: ETC
@@ -3453,7 +3453,7 @@ ETCBRL:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: BRL
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: ETCBRL
 ETCCAD:
   asset: ETC
@@ -3463,7 +3463,7 @@ ETCCAD:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: CAD
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: ETCCAD
 ETCCHF:
   asset: ETC
@@ -3473,7 +3473,7 @@ ETCCHF:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: CHF
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: ETCCHF
 ETCCNY:
   asset: ETC
@@ -3483,7 +3483,7 @@ ETCCNY:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: CNY
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: ETCCNY
 ETCCZK:
   asset: ETC
@@ -3493,7 +3493,7 @@ ETCCZK:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: CZK
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: ETCCZK
 ETCEGP:
   asset: ETC
@@ -3503,7 +3503,7 @@ ETCEGP:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: EGP
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: ETCEGP
 ETCEUR:
   asset: ETC
@@ -3513,7 +3513,7 @@ ETCEUR:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: EUR
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: ETCEUR
 ETCGBP:
   asset: ETC
@@ -3523,7 +3523,7 @@ ETCGBP:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: GBP
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: ETCGBP
 ETCHKD:
   asset: ETC
@@ -3533,7 +3533,7 @@ ETCHKD:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: HKD
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: ETCHKD
 ETCIDR:
   asset: ETC
@@ -3543,7 +3543,7 @@ ETCIDR:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: IDR
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: ETCIDR
 ETCINR:
   asset: ETC
@@ -3553,7 +3553,7 @@ ETCINR:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: INR
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: ETCINR
 ETCJPY:
   asset: ETC
@@ -3563,7 +3563,7 @@ ETCJPY:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: JPY
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: ETCJPY
 ETCKRW:
   asset: ETC
@@ -3573,7 +3573,7 @@ ETCKRW:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: KRW
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: ETCKRW
 ETCKWD:
   asset: ETC
@@ -3583,7 +3583,7 @@ ETCKWD:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: KWD
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: ETCKWD
 ETCMXN:
   asset: ETC
@@ -3593,7 +3593,7 @@ ETCMXN:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: MXN
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: ETCMXN
 ETCNOK:
   asset: ETC
@@ -3603,7 +3603,7 @@ ETCNOK:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: NOK
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: ETCNOK
 ETCNZD:
   asset: ETC
@@ -3613,7 +3613,7 @@ ETCNZD:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: NZD
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: ETCNZD
 ETCPLN:
   asset: ETC
@@ -3623,7 +3623,7 @@ ETCPLN:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: PLN
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: ETCPLN
 ETCRUB:
   asset: ETC
@@ -3633,7 +3633,7 @@ ETCRUB:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: RUB
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: ETCRUB
 ETCSAR:
   asset: ETC
@@ -3643,7 +3643,7 @@ ETCSAR:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: SAR
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: ETCSAR
 ETCSEK:
   asset: ETC
@@ -3653,7 +3653,7 @@ ETCSEK:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: SEK
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: ETCSEK
 ETCSGD:
   asset: ETC
@@ -3663,7 +3663,7 @@ ETCSGD:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: SGD
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: ETCSGD
 ETCTRY:
   asset: ETC
@@ -3673,7 +3673,7 @@ ETCTRY:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: TRY
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: ETCTRY
 ETCUSD:
   asset: ETC
@@ -3683,7 +3683,7 @@ ETCUSD:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: USD
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: ETCUSD
 ETCXAG:
   asset: ETC
@@ -3693,7 +3693,7 @@ ETCXAG:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: XAG
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: ETCXAG
 ETCXAU:
   asset: ETC
@@ -3703,7 +3703,7 @@ ETCXAU:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: XAU
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: ETCXAU
 ETCZAR:
   asset: ETC
@@ -3713,7 +3713,7 @@ ETCZAR:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: ZAR
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: ETCZAR
 ETHAED:
   asset: ETH
@@ -3723,7 +3723,7 @@ ETHAED:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: AED
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: ETHAED
 ETHAUD:
   asset: ETH
@@ -3733,7 +3733,7 @@ ETHAUD:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: AUD
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: ETHAUD
 ETHBRL:
   asset: ETH
@@ -3743,7 +3743,7 @@ ETHBRL:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: BRL
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: ETHBRL
 ETHCAD:
   asset: ETH
@@ -3753,7 +3753,7 @@ ETHCAD:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: CAD
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: ETHCAD
 ETHCHF:
   asset: ETH
@@ -3763,7 +3763,7 @@ ETHCHF:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: CHF
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: ETHCHF
 ETHCNY:
   asset: ETH
@@ -3773,7 +3773,7 @@ ETHCNY:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: CNY
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: ETHCNY
 ETHCZK:
   asset: ETH
@@ -3783,7 +3783,7 @@ ETHCZK:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: CZK
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: ETHCZK
 ETHEGP:
   asset: ETH
@@ -3793,7 +3793,7 @@ ETHEGP:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: EGP
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: ETHEGP
 ETHEUR:
   asset: ETH
@@ -3803,7 +3803,7 @@ ETHEUR:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: EUR
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: ETHEUR
 ETHGBP:
   asset: ETH
@@ -3813,7 +3813,7 @@ ETHGBP:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: GBP
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: ETHGBP
 ETHHKD:
   asset: ETH
@@ -3823,7 +3823,7 @@ ETHHKD:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: HKD
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: ETHHKD
 ETHIDR:
   asset: ETH
@@ -3833,7 +3833,7 @@ ETHIDR:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: IDR
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: ETHIDR
 ETHINR:
   asset: ETH
@@ -3843,7 +3843,7 @@ ETHINR:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: INR
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: ETHINR
 ETHJPY:
   asset: ETH
@@ -3853,7 +3853,7 @@ ETHJPY:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: JPY
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: ETHJPY
 ETHKRW:
   asset: ETH
@@ -3863,7 +3863,7 @@ ETHKRW:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: KRW
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: ETHKRW
 ETHKWD:
   asset: ETH
@@ -3873,7 +3873,7 @@ ETHKWD:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: KWD
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: ETHKWD
 ETHMXN:
   asset: ETH
@@ -3883,7 +3883,7 @@ ETHMXN:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: MXN
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: ETHMXN
 ETHNOK:
   asset: ETH
@@ -3893,7 +3893,7 @@ ETHNOK:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: NOK
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: ETHNOK
 ETHNZD:
   asset: ETH
@@ -3903,7 +3903,7 @@ ETHNZD:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: NZD
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: ETHNZD
 ETHPLN:
   asset: ETH
@@ -3913,7 +3913,7 @@ ETHPLN:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: PLN
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: ETHPLN
 ETHRUB:
   asset: ETH
@@ -3923,7 +3923,7 @@ ETHRUB:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: RUB
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: ETHRUB
 ETHSAR:
   asset: ETH
@@ -3933,7 +3933,7 @@ ETHSAR:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: SAR
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: ETHSAR
 ETHSEK:
   asset: ETH
@@ -3943,7 +3943,7 @@ ETHSEK:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: SEK
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: ETHSEK
 ETHSGD:
   asset: ETH
@@ -3953,7 +3953,7 @@ ETHSGD:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: SGD
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: ETHSGD
 ETHTRY:
   asset: ETH
@@ -3963,7 +3963,7 @@ ETHTRY:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: TRY
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: ETHTRY
 ETHUSD:
   asset: ETH
@@ -3973,7 +3973,7 @@ ETHUSD:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: USD
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: ETHUSD
 ETHXAG:
   asset: ETH
@@ -3983,7 +3983,7 @@ ETHXAG:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: XAG
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: ETHXAG
 ETHXAU:
   asset: ETH
@@ -3993,7 +3993,7 @@ ETHXAU:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: XAU
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: ETHXAU
 ETHZAR:
   asset: ETH
@@ -4003,7 +4003,7 @@ ETHZAR:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: ZAR
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: ETHZAR
 LTCAED:
   asset: LTC
@@ -4013,7 +4013,7 @@ LTCAED:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: AED
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: LTCAED
 LTCAUD:
   asset: LTC
@@ -4023,7 +4023,7 @@ LTCAUD:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: AUD
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: LTCAUD
 LTCBRL:
   asset: LTC
@@ -4033,7 +4033,7 @@ LTCBRL:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: BRL
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: LTCBRL
 LTCCAD:
   asset: LTC
@@ -4043,7 +4043,7 @@ LTCCAD:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: CAD
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: LTCCAD
 LTCCHF:
   asset: LTC
@@ -4053,7 +4053,7 @@ LTCCHF:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: CHF
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: LTCCHF
 LTCCNY:
   asset: LTC
@@ -4063,7 +4063,7 @@ LTCCNY:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: CNY
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: LTCCNY
 LTCCZK:
   asset: LTC
@@ -4073,7 +4073,7 @@ LTCCZK:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: CZK
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: LTCCZK
 LTCEGP:
   asset: LTC
@@ -4083,7 +4083,7 @@ LTCEGP:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: EGP
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: LTCEGP
 LTCEUR:
   asset: LTC
@@ -4093,7 +4093,7 @@ LTCEUR:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: EUR
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: LTCEUR
 LTCGBP:
   asset: LTC
@@ -4103,7 +4103,7 @@ LTCGBP:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: GBP
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: LTCGBP
 LTCHKD:
   asset: LTC
@@ -4113,7 +4113,7 @@ LTCHKD:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: HKD
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: LTCHKD
 LTCIDR:
   asset: LTC
@@ -4123,7 +4123,7 @@ LTCIDR:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: IDR
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: LTCIDR
 LTCINR:
   asset: LTC
@@ -4133,7 +4133,7 @@ LTCINR:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: INR
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: LTCINR
 LTCJPY:
   asset: LTC
@@ -4143,7 +4143,7 @@ LTCJPY:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: JPY
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: LTCJPY
 LTCKRW:
   asset: LTC
@@ -4153,7 +4153,7 @@ LTCKRW:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: KRW
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: LTCKRW
 LTCKWD:
   asset: LTC
@@ -4163,7 +4163,7 @@ LTCKWD:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: KWD
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: LTCKWD
 LTCMXN:
   asset: LTC
@@ -4173,7 +4173,7 @@ LTCMXN:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: MXN
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: LTCMXN
 LTCNOK:
   asset: LTC
@@ -4183,7 +4183,7 @@ LTCNOK:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: NOK
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: LTCNOK
 LTCNZD:
   asset: LTC
@@ -4193,7 +4193,7 @@ LTCNZD:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: NZD
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: LTCNZD
 LTCPLN:
   asset: LTC
@@ -4203,7 +4203,7 @@ LTCPLN:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: PLN
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: LTCPLN
 LTCRUB:
   asset: LTC
@@ -4213,7 +4213,7 @@ LTCRUB:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: RUB
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: LTCRUB
 LTCSAR:
   asset: LTC
@@ -4223,7 +4223,7 @@ LTCSAR:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: SAR
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: LTCSAR
 LTCSEK:
   asset: LTC
@@ -4233,7 +4233,7 @@ LTCSEK:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: SEK
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: LTCSEK
 LTCSGD:
   asset: LTC
@@ -4243,7 +4243,7 @@ LTCSGD:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: SGD
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: LTCSGD
 LTCTRY:
   asset: LTC
@@ -4253,7 +4253,7 @@ LTCTRY:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: TRY
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: LTCTRY
 LTCUSD:
   asset: LTC
@@ -4263,7 +4263,7 @@ LTCUSD:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: USD
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: LTCUSD
 LTCXAG:
   asset: LTC
@@ -4273,7 +4273,7 @@ LTCXAG:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: XAG
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: LTCXAG
 LTCXAU:
   asset: LTC
@@ -4283,7 +4283,7 @@ LTCXAU:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: XAU
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: LTCXAU
 LTCZAR:
   asset: LTC
@@ -4293,7 +4293,7 @@ LTCZAR:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: ZAR
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: LTCZAR
 BCHBRO:
   asset: BCH
@@ -4303,7 +4303,7 @@ BCHBRO:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: BRO
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: BCHBRO
 BCHXPD:
   asset: BCH
@@ -4313,7 +4313,7 @@ BCHXPD:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: XPD
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: BCHXPD
 BCHXPT:
   asset: BCH
@@ -4323,7 +4323,7 @@ BCHXPT:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: XPT
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: BCHXPT
 BTCBRO:
   asset: BTC
@@ -4333,7 +4333,7 @@ BTCBRO:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: BRO
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: BTCBRO
 BTCXPD:
   asset: BTC
@@ -4343,7 +4343,7 @@ BTCXPD:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: XPD
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: BTCXPD
 BTCXPT:
   asset: BTC
@@ -4353,7 +4353,7 @@ BTCXPT:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: XPT
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: BTCXPT
 ETCBRO:
   asset: ETC
@@ -4363,7 +4363,7 @@ ETCBRO:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: BRO
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: ETCBRO
 ETCXPD:
   asset: ETC
@@ -4373,7 +4373,7 @@ ETCXPD:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: XPD
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: ETCXPD
 ETCXPT:
   asset: ETC
@@ -4383,7 +4383,7 @@ ETCXPT:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: XPT
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: ETCXPT
 ETHBRO:
   asset: ETH
@@ -4393,7 +4393,7 @@ ETHBRO:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: BRO
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: ETHBRO
 ETHXPD:
   asset: ETH
@@ -4403,7 +4403,7 @@ ETHXPD:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: XPD
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: ETHXPD
 ETHXPT:
   asset: ETH
@@ -4413,7 +4413,7 @@ ETHXPT:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: XPT
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: ETHXPT
 LTCBRO:
   asset: LTC
@@ -4423,7 +4423,7 @@ LTCBRO:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: BRO
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: LTCBRO
 LTCXPD:
   asset: LTC
@@ -4433,7 +4433,7 @@ LTCXPD:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: XPD
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: LTCXPD
 LTCXPT:
   asset: LTC
@@ -4443,7 +4443,7 @@ LTCXPT:
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: XPT
-  submarket: cryptocurrency
+  submarket: non_stable_coin
   symbol: LTCXPT
 DAIAED:
   asset: DAI
@@ -4453,7 +4453,7 @@ DAIAED:
   market: cryptocurrency
   pip_size: 0.01
   quoted_currency: AED
-  submarket: cryptocurrency
+  submarket: stable_coin
   symbol: DAIAED
 DAIAUD:
   asset: DAI
@@ -4463,7 +4463,7 @@ DAIAUD:
   market: cryptocurrency
   pip_size: 0.01
   quoted_currency: AUD
-  submarket: cryptocurrency
+  submarket: stable_coin
   symbol: DAIAUD
 DAIBRL:
   asset: DAI
@@ -4473,7 +4473,7 @@ DAIBRL:
   market: cryptocurrency
   pip_size: 0.01
   quoted_currency: BRL
-  submarket: cryptocurrency
+  submarket: stable_coin
   symbol: DAIBRL
 DAICAD:
   asset: DAI
@@ -4483,7 +4483,7 @@ DAICAD:
   market: cryptocurrency
   pip_size: 0.01
   quoted_currency: CAD
-  submarket: cryptocurrency
+  submarket: stable_coin
   symbol: DAICAD
 DAICHF:
   asset: DAI
@@ -4493,7 +4493,7 @@ DAICHF:
   market: cryptocurrency
   pip_size: 0.01
   quoted_currency: CHF
-  submarket: cryptocurrency
+  submarket: stable_coin
   symbol: DAICHF
 DAICNY:
   asset: DAI
@@ -4503,7 +4503,7 @@ DAICNY:
   market: cryptocurrency
   pip_size: 0.01
   quoted_currency: CNY
-  submarket: cryptocurrency
+  submarket: stable_coin
   symbol: DAICNY
 DAICZK:
   asset: DAI
@@ -4513,7 +4513,7 @@ DAICZK:
   market: cryptocurrency
   pip_size: 0.01
   quoted_currency: CZK
-  submarket: cryptocurrency
+  submarket: stable_coin
   symbol: DAICZK
 DAIEGP:
   asset: DAI
@@ -4523,7 +4523,7 @@ DAIEGP:
   market: cryptocurrency
   pip_size: 0.01
   quoted_currency: EGP
-  submarket: cryptocurrency
+  submarket: stable_coin
   symbol: DAIEGP
 DAIEUR:
   asset: DAI
@@ -4533,7 +4533,7 @@ DAIEUR:
   market: cryptocurrency
   pip_size: 0.01
   quoted_currency: EUR
-  submarket: cryptocurrency
+  submarket: stable_coin
   symbol: DAIEUR
 DAIGBP:
   asset: DAI
@@ -4543,7 +4543,7 @@ DAIGBP:
   market: cryptocurrency
   pip_size: 0.01
   quoted_currency: GBP
-  submarket: cryptocurrency
+  submarket: stable_coin
   symbol: DAIGBP
 DAIHKD:
   asset: DAI
@@ -4553,7 +4553,7 @@ DAIHKD:
   market: cryptocurrency
   pip_size: 0.01
   quoted_currency: HKD
-  submarket: cryptocurrency
+  submarket: stable_coin
   symbol: DAIHKD
 DAIIDR:
   asset: DAI
@@ -4563,7 +4563,7 @@ DAIIDR:
   market: cryptocurrency
   pip_size: 0.01
   quoted_currency: IDR
-  submarket: cryptocurrency
+  submarket: stable_coin
   symbol: DAIIDR
 DAIINR:
   asset: DAI
@@ -4573,7 +4573,7 @@ DAIINR:
   market: cryptocurrency
   pip_size: 0.01
   quoted_currency: INR
-  submarket: cryptocurrency
+  submarket: stable_coin
   symbol: DAIINR
 DAIJPY:
   asset: DAI
@@ -4583,7 +4583,7 @@ DAIJPY:
   market: cryptocurrency
   pip_size: 0.01
   quoted_currency: JPY
-  submarket: cryptocurrency
+  submarket: stable_coin
   symbol: DAIJPY
 DAIKRW:
   asset: DAI
@@ -4593,7 +4593,7 @@ DAIKRW:
   market: cryptocurrency
   pip_size: 0.01
   quoted_currency: KRW
-  submarket: cryptocurrency
+  submarket: stable_coin
   symbol: DAIKRW
 DAIKWD:
   asset: DAI
@@ -4603,7 +4603,7 @@ DAIKWD:
   market: cryptocurrency
   pip_size: 0.01
   quoted_currency: KWD
-  submarket: cryptocurrency
+  submarket: stable_coin
   symbol: DAIKWD
 DAIMXN:
   asset: DAI
@@ -4613,7 +4613,7 @@ DAIMXN:
   market: cryptocurrency
   pip_size: 0.01
   quoted_currency: MXN
-  submarket: cryptocurrency
+  submarket: stable_coin
   symbol: DAIMXN
 DAINOK:
   asset: DAI
@@ -4623,7 +4623,7 @@ DAINOK:
   market: cryptocurrency
   pip_size: 0.01
   quoted_currency: NOK
-  submarket: cryptocurrency
+  submarket: stable_coin
   symbol: DAINOK
 DAINZD:
   asset: DAI
@@ -4633,7 +4633,7 @@ DAINZD:
   market: cryptocurrency
   pip_size: 0.01
   quoted_currency: NZD
-  submarket: cryptocurrency
+  submarket: stable_coin
   symbol: DAINZD
 DAIPLN:
   asset: DAI
@@ -4643,7 +4643,7 @@ DAIPLN:
   market: cryptocurrency
   pip_size: 0.01
   quoted_currency: PLN
-  submarket: cryptocurrency
+  submarket: stable_coin
   symbol: DAIPLN
 DAIRUB:
   asset: DAI
@@ -4653,7 +4653,7 @@ DAIRUB:
   market: cryptocurrency
   pip_size: 0.01
   quoted_currency: RUB
-  submarket: cryptocurrency
+  submarket: stable_coin
   symbol: DAIRUB
 DAISAR:
   asset: DAI
@@ -4663,7 +4663,7 @@ DAISAR:
   market: cryptocurrency
   pip_size: 0.01
   quoted_currency: SAR
-  submarket: cryptocurrency
+  submarket: stable_coin
   symbol: DAISAR
 DAISEK:
   asset: DAI
@@ -4673,7 +4673,7 @@ DAISEK:
   market: cryptocurrency
   pip_size: 0.01
   quoted_currency: SEK
-  submarket: cryptocurrency
+  submarket: stable_coin
   symbol: DAISEK
 DAISGD:
   asset: DAI
@@ -4683,7 +4683,7 @@ DAISGD:
   market: cryptocurrency
   pip_size: 0.01
   quoted_currency: SGD
-  submarket: cryptocurrency
+  submarket: stable_coin
   symbol: DAISGD
 DAITRY:
   asset: DAI
@@ -4693,7 +4693,7 @@ DAITRY:
   market: cryptocurrency
   pip_size: 0.01
   quoted_currency: TRY
-  submarket: cryptocurrency
+  submarket: stable_coin
   symbol: DAITRY
 DAIUSD:
   asset: DAI
@@ -4703,7 +4703,7 @@ DAIUSD:
   market: cryptocurrency
   pip_size: 0.01
   quoted_currency: USD
-  submarket: cryptocurrency
+  submarket: stable_coin
   symbol: DAIUSD
 DAIXAG:
   asset: DAI
@@ -4713,7 +4713,7 @@ DAIXAG:
   market: cryptocurrency
   pip_size: 0.01
   quoted_currency: XAG
-  submarket: cryptocurrency
+  submarket: stable_coin
   symbol: DAIXAG
 DAIXAU:
   asset: DAI
@@ -4723,7 +4723,7 @@ DAIXAU:
   market: cryptocurrency
   pip_size: 0.01
   quoted_currency: XAU
-  submarket: cryptocurrency
+  submarket: stable_coin
   symbol: DAIXAU
 DAIZAR:
   asset: DAI
@@ -4733,7 +4733,7 @@ DAIZAR:
   market: cryptocurrency
   pip_size: 0.01
   quoted_currency: ZAR
-  submarket: cryptocurrency
+  submarket: stable_coin
   symbol: DAIZAR
 DAIBRO:
   asset: DAI
@@ -4743,7 +4743,7 @@ DAIBRO:
   market: cryptocurrency
   pip_size: 0.01
   quoted_currency: BRO
-  submarket: cryptocurrency
+  submarket: stable_coin
   symbol: DAIBRO
 DAIXPD:
   asset: DAI
@@ -4753,7 +4753,7 @@ DAIXPD:
   market: cryptocurrency
   pip_size: 0.01
   quoted_currency: XPD
-  submarket: cryptocurrency
+  submarket: stable_coin
   symbol: DAIXPD
 DAIXPT:
   asset: DAI
@@ -4763,7 +4763,7 @@ DAIXPT:
   market: cryptocurrency
   pip_size: 0.01
   quoted_currency: XPT
-  submarket: cryptocurrency
+  submarket: stable_coin
   symbol: DAIXPT
 USTAED:
   asset: UST
@@ -4773,7 +4773,7 @@ USTAED:
   market: cryptocurrency
   pip_size: 0.01
   quoted_currency: AED
-  submarket: cryptocurrency
+  submarket: stable_coin
   symbol: USTAED
 USTAUD:
   asset: UST
@@ -4783,7 +4783,7 @@ USTAUD:
   market: cryptocurrency
   pip_size: 0.01
   quoted_currency: AUD
-  submarket: cryptocurrency
+  submarket: stable_coin
   symbol: USTAUD
 USTBRL:
   asset: UST
@@ -4793,7 +4793,7 @@ USTBRL:
   market: cryptocurrency
   pip_size: 0.01
   quoted_currency: BRL
-  submarket: cryptocurrency
+  submarket: stable_coin
   symbol: USTBRL
 USTCAD:
   asset: UST
@@ -4803,7 +4803,7 @@ USTCAD:
   market: cryptocurrency
   pip_size: 0.01
   quoted_currency: CAD
-  submarket: cryptocurrency
+  submarket: stable_coin
   symbol: USTCAD
 USTCHF:
   asset: UST
@@ -4813,7 +4813,7 @@ USTCHF:
   market: cryptocurrency
   pip_size: 0.01
   quoted_currency: CHF
-  submarket: cryptocurrency
+  submarket: stable_coin
   symbol: USTCHF
 USTCNY:
   asset: UST
@@ -4823,7 +4823,7 @@ USTCNY:
   market: cryptocurrency
   pip_size: 0.01
   quoted_currency: CNY
-  submarket: cryptocurrency
+  submarket: stable_coin
   symbol: USTCNY
 USTCZK:
   asset: UST
@@ -4833,7 +4833,7 @@ USTCZK:
   market: cryptocurrency
   pip_size: 0.01
   quoted_currency: CZK
-  submarket: cryptocurrency
+  submarket: stable_coin
   symbol: USTCZK
 USTEGP:
   asset: UST
@@ -4843,7 +4843,7 @@ USTEGP:
   market: cryptocurrency
   pip_size: 0.01
   quoted_currency: EGP
-  submarket: cryptocurrency
+  submarket: stable_coin
   symbol: USTEGP
 USTEUR:
   asset: UST
@@ -4853,7 +4853,7 @@ USTEUR:
   market: cryptocurrency
   pip_size: 0.01
   quoted_currency: EUR
-  submarket: cryptocurrency
+  submarket: stable_coin
   symbol: USTEUR
 USTGBP:
   asset: UST
@@ -4863,7 +4863,7 @@ USTGBP:
   market: cryptocurrency
   pip_size: 0.01
   quoted_currency: GBP
-  submarket: cryptocurrency
+  submarket: stable_coin
   symbol: USTGBP
 USTHKD:
   asset: UST
@@ -4873,7 +4873,7 @@ USTHKD:
   market: cryptocurrency
   pip_size: 0.01
   quoted_currency: HKD
-  submarket: cryptocurrency
+  submarket: stable_coin
   symbol: USTHKD
 USTIDR:
   asset: UST
@@ -4883,7 +4883,7 @@ USTIDR:
   market: cryptocurrency
   pip_size: 0.01
   quoted_currency: IDR
-  submarket: cryptocurrency
+  submarket: stable_coin
   symbol: USTIDR
 USTINR:
   asset: UST
@@ -4893,7 +4893,7 @@ USTINR:
   market: cryptocurrency
   pip_size: 0.01
   quoted_currency: INR
-  submarket: cryptocurrency
+  submarket: stable_coin
   symbol: USTINR
 USTJPY:
   asset: UST
@@ -4903,7 +4903,7 @@ USTJPY:
   market: cryptocurrency
   pip_size: 0.01
   quoted_currency: JPY
-  submarket: cryptocurrency
+  submarket: stable_coin
   symbol: USTJPY
 USTKRW:
   asset: UST
@@ -4913,7 +4913,7 @@ USTKRW:
   market: cryptocurrency
   pip_size: 0.01
   quoted_currency: KRW
-  submarket: cryptocurrency
+  submarket: stable_coin
   symbol: USTKRW
 USTKWD:
   asset: UST
@@ -4923,7 +4923,7 @@ USTKWD:
   market: cryptocurrency
   pip_size: 0.01
   quoted_currency: KWD
-  submarket: cryptocurrency
+  submarket: stable_coin
   symbol: USTKWD
 USTMXN:
   asset: UST
@@ -4933,7 +4933,7 @@ USTMXN:
   market: cryptocurrency
   pip_size: 0.01
   quoted_currency: MXN
-  submarket: cryptocurrency
+  submarket: stable_coin
   symbol: USTMXN
 USTNOK:
   asset: UST
@@ -4943,7 +4943,7 @@ USTNOK:
   market: cryptocurrency
   pip_size: 0.01
   quoted_currency: NOK
-  submarket: cryptocurrency
+  submarket: stable_coin
   symbol: USTNOK
 USTNZD:
   asset: UST
@@ -4953,7 +4953,7 @@ USTNZD:
   market: cryptocurrency
   pip_size: 0.01
   quoted_currency: NZD
-  submarket: cryptocurrency
+  submarket: stable_coin
   symbol: USTNZD
 USTPLN:
   asset: UST
@@ -4963,7 +4963,7 @@ USTPLN:
   market: cryptocurrency
   pip_size: 0.01
   quoted_currency: PLN
-  submarket: cryptocurrency
+  submarket: stable_coin
   symbol: USTPLN
 USTRUB:
   asset: UST
@@ -4973,7 +4973,7 @@ USTRUB:
   market: cryptocurrency
   pip_size: 0.01
   quoted_currency: RUB
-  submarket: cryptocurrency
+  submarket: stable_coin
   symbol: USTRUB
 USTSAR:
   asset: UST
@@ -4983,7 +4983,7 @@ USTSAR:
   market: cryptocurrency
   pip_size: 0.01
   quoted_currency: SAR
-  submarket: cryptocurrency
+  submarket: stable_coin
   symbol: USTSAR
 USTSEK:
   asset: UST
@@ -4993,7 +4993,7 @@ USTSEK:
   market: cryptocurrency
   pip_size: 0.01
   quoted_currency: SEK
-  submarket: cryptocurrency
+  submarket: stable_coin
   symbol: USTSEK
 USTSGD:
   asset: UST
@@ -5003,7 +5003,7 @@ USTSGD:
   market: cryptocurrency
   pip_size: 0.01
   quoted_currency: SGD
-  submarket: cryptocurrency
+  submarket: stable_coin
   symbol: USTSGD
 USTTRY:
   asset: UST
@@ -5013,7 +5013,7 @@ USTTRY:
   market: cryptocurrency
   pip_size: 0.01
   quoted_currency: TRY
-  submarket: cryptocurrency
+  submarket: stable_coin
   symbol: USTTRY
 USTUSD:
   asset: UST
@@ -5023,7 +5023,7 @@ USTUSD:
   market: cryptocurrency
   pip_size: 0.01
   quoted_currency: USD
-  submarket: cryptocurrency
+  submarket: stable_coin
   symbol: USTUSD
 USTXAG:
   asset: UST
@@ -5033,7 +5033,7 @@ USTXAG:
   market: cryptocurrency
   pip_size: 0.01
   quoted_currency: XAG
-  submarket: cryptocurrency
+  submarket: stable_coin
   symbol: USTXAG
 USTXAU:
   asset: UST
@@ -5043,7 +5043,7 @@ USTXAU:
   market: cryptocurrency
   pip_size: 0.01
   quoted_currency: XAU
-  submarket: cryptocurrency
+  submarket: stable_coin
   symbol: USTXAU
 USTZAR:
   asset: UST
@@ -5053,7 +5053,7 @@ USTZAR:
   market: cryptocurrency
   pip_size: 0.01
   quoted_currency: ZAR
-  submarket: cryptocurrency
+  submarket: stable_coin
   symbol: USTZAR
 USTBRO:
   asset: UST
@@ -5063,7 +5063,7 @@ USTBRO:
   market: cryptocurrency
   pip_size: 0.01
   quoted_currency: BRO
-  submarket: cryptocurrency
+  submarket: stable_coin
   symbol: USTBRO
 USTXPD:
   asset: UST
@@ -5073,7 +5073,7 @@ USTXPD:
   market: cryptocurrency
   pip_size: 0.01
   quoted_currency: XPD
-  submarket: cryptocurrency
+  submarket: stable_coin
   symbol: USTXPD
 USTXPT:
   asset: UST
@@ -5083,5 +5083,5 @@ USTXPT:
   market: cryptocurrency
   pip_size: 0.01
   quoted_currency: XPT
-  submarket: cryptocurrency
+  submarket: stable_coin
   symbol: USTXPT
