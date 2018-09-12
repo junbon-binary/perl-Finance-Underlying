@@ -2845,7 +2845,7 @@ frxXPTUSD:
   quoted_currency: USD
   submarket: metals
   symbol: frxXPTUSD
-BCHAED:
+cryBCHAED:
   asset: BCH
   display_name: BCH/AED
   exchange_name: CRYPTOCURRENCY
@@ -2854,8 +2854,8 @@ BCHAED:
   pip_size: 0.0001
   quoted_currency: AED
   submarket: non_stable_coin
-  symbol: BCHAED
-BCHAUD:
+  symbol: cryBCHAED
+cryBCHAUD:
   asset: BCH
   display_name: BCH/AUD
   exchange_name: CRYPTOCURRENCY
@@ -2864,8 +2864,8 @@ BCHAUD:
   pip_size: 0.0001
   quoted_currency: AUD
   submarket: non_stable_coin
-  symbol: BCHAUD
-BCHBRL:
+  symbol: cryBCHAUD
+cryBCHBRL:
   asset: BCH
   display_name: BCH/BRL
   exchange_name: CRYPTOCURRENCY
@@ -2874,8 +2874,8 @@ BCHBRL:
   pip_size: 0.0001
   quoted_currency: BRL
   submarket: non_stable_coin
-  symbol: BCHBRL
-BCHCAD:
+  symbol: cryBCHBRL
+cryBCHCAD:
   asset: BCH
   display_name: BCH/CAD
   exchange_name: CRYPTOCURRENCY
@@ -2884,8 +2884,8 @@ BCHCAD:
   pip_size: 0.0001
   quoted_currency: CAD
   submarket: non_stable_coin
-  symbol: BCHCAD
-BCHCHF:
+  symbol: cryBCHCAD
+cryBCHCHF:
   asset: BCH
   display_name: BCH/CHF
   exchange_name: CRYPTOCURRENCY
@@ -2894,8 +2894,8 @@ BCHCHF:
   pip_size: 0.0001
   quoted_currency: CHF
   submarket: non_stable_coin
-  symbol: BCHCHF
-BCHCNY:
+  symbol: cryBCHCHF
+cryBCHCNY:
   asset: BCH
   display_name: BCH/CNY
   exchange_name: CRYPTOCURRENCY
@@ -2904,8 +2904,8 @@ BCHCNY:
   pip_size: 0.0001
   quoted_currency: CNY
   submarket: non_stable_coin
-  symbol: BCHCNY
-BCHCZK:
+  symbol: cryBCHCNY
+cryBCHCZK:
   asset: BCH
   display_name: BCH/CZK
   exchange_name: CRYPTOCURRENCY
@@ -2914,8 +2914,8 @@ BCHCZK:
   pip_size: 0.0001
   quoted_currency: CZK
   submarket: non_stable_coin
-  symbol: BCHCZK
-BCHEGP:
+  symbol: cryBCHCZK
+cryBCHEGP:
   asset: BCH
   display_name: BCH/EGP
   exchange_name: CRYPTOCURRENCY
@@ -2924,8 +2924,8 @@ BCHEGP:
   pip_size: 0.0001
   quoted_currency: EGP
   submarket: non_stable_coin
-  symbol: BCHEGP
-BCHEUR:
+  symbol: cryBCHEGP
+cryBCHEUR:
   asset: BCH
   display_name: BCH/EUR
   exchange_name: CRYPTOCURRENCY
@@ -2934,8 +2934,8 @@ BCHEUR:
   pip_size: 0.0001
   quoted_currency: EUR
   submarket: non_stable_coin
-  symbol: BCHEUR
-BCHGBP:
+  symbol: cryBCHEUR
+cryBCHGBP:
   asset: BCH
   display_name: BCH/GBP
   exchange_name: CRYPTOCURRENCY
@@ -2944,8 +2944,8 @@ BCHGBP:
   pip_size: 0.0001
   quoted_currency: GBP
   submarket: non_stable_coin
-  symbol: BCHGBP
-BCHHKD:
+  symbol: cryBCHGBP
+cryBCHHKD:
   asset: BCH
   display_name: BCH/HKD
   exchange_name: CRYPTOCURRENCY
@@ -2954,8 +2954,8 @@ BCHHKD:
   pip_size: 0.0001
   quoted_currency: HKD
   submarket: non_stable_coin
-  symbol: BCHHKD
-BCHIDR:
+  symbol: cryBCHHKD
+cryBCHIDR:
   asset: BCH
   display_name: BCH/IDR
   exchange_name: CRYPTOCURRENCY
@@ -2964,8 +2964,8 @@ BCHIDR:
   pip_size: 0.0001
   quoted_currency: IDR
   submarket: non_stable_coin
-  symbol: BCHIDR
-BCHINR:
+  symbol: cryBCHIDR
+cryBCHINR:
   asset: BCH
   display_name: BCH/INR
   exchange_name: CRYPTOCURRENCY
@@ -2974,8 +2974,8 @@ BCHINR:
   pip_size: 0.0001
   quoted_currency: INR
   submarket: non_stable_coin
-  symbol: BCHINR
-BCHJPY:
+  symbol: cryBCHINR
+cryBCHJPY:
   asset: BCH
   display_name: BCH/JPY
   exchange_name: CRYPTOCURRENCY
@@ -2984,8 +2984,8 @@ BCHJPY:
   pip_size: 0.0001
   quoted_currency: JPY
   submarket: non_stable_coin
-  symbol: BCHJPY
-BCHKRW:
+  symbol: cryBCHJPY
+cryBCHKRW:
   asset: BCH
   display_name: BCH/KRW
   exchange_name: CRYPTOCURRENCY
@@ -2994,8 +2994,8 @@ BCHKRW:
   pip_size: 0.0001
   quoted_currency: KRW
   submarket: non_stable_coin
-  symbol: BCHKRW
-BCHKWD:
+  symbol: cryBCHKRW
+cryBCHKWD:
   asset: BCH
   display_name: BCH/KWD
   exchange_name: CRYPTOCURRENCY
@@ -3004,8 +3004,8 @@ BCHKWD:
   pip_size: 0.0001
   quoted_currency: KWD
   submarket: non_stable_coin
-  symbol: BCHKWD
-BCHMXN:
+  symbol: cryBCHKWD
+cryBCHMXN:
   asset: BCH
   display_name: BCH/MXN
   exchange_name: CRYPTOCURRENCY
@@ -3014,8 +3014,8 @@ BCHMXN:
   pip_size: 0.0001
   quoted_currency: MXN
   submarket: non_stable_coin
-  symbol: BCHMXN
-BCHNOK:
+  symbol: cryBCHMXN
+cryBCHNOK:
   asset: BCH
   display_name: BCH/NOK
   exchange_name: CRYPTOCURRENCY
@@ -3024,8 +3024,8 @@ BCHNOK:
   pip_size: 0.0001
   quoted_currency: NOK
   submarket: non_stable_coin
-  symbol: BCHNOK
-BCHNZD:
+  symbol: cryBCHNOK
+cryBCHNZD:
   asset: BCH
   display_name: BCH/NZD
   exchange_name: CRYPTOCURRENCY
@@ -3034,8 +3034,8 @@ BCHNZD:
   pip_size: 0.0001
   quoted_currency: NZD
   submarket: non_stable_coin
-  symbol: BCHNZD
-BCHPLN:
+  symbol: cryBCHNZD
+cryBCHPLN:
   asset: BCH
   display_name: BCH/PLN
   exchange_name: CRYPTOCURRENCY
@@ -3044,8 +3044,8 @@ BCHPLN:
   pip_size: 0.0001
   quoted_currency: PLN
   submarket: non_stable_coin
-  symbol: BCHPLN
-BCHRUB:
+  symbol: cryBCHPLN
+cryBCHRUB:
   asset: BCH
   display_name: BCH/RUB
   exchange_name: CRYPTOCURRENCY
@@ -3054,8 +3054,8 @@ BCHRUB:
   pip_size: 0.0001
   quoted_currency: RUB
   submarket: non_stable_coin
-  symbol: BCHRUB
-BCHSAR:
+  symbol: cryBCHRUB
+cryBCHSAR:
   asset: BCH
   display_name: BCH/SAR
   exchange_name: CRYPTOCURRENCY
@@ -3064,8 +3064,8 @@ BCHSAR:
   pip_size: 0.0001
   quoted_currency: SAR
   submarket: non_stable_coin
-  symbol: BCHSAR
-BCHSEK:
+  symbol: cryBCHSAR
+cryBCHSEK:
   asset: BCH
   display_name: BCH/SEK
   exchange_name: CRYPTOCURRENCY
@@ -3074,8 +3074,8 @@ BCHSEK:
   pip_size: 0.0001
   quoted_currency: SEK
   submarket: non_stable_coin
-  symbol: BCHSEK
-BCHSGD:
+  symbol: cryBCHSEK
+cryBCHSGD:
   asset: BCH
   display_name: BCH/SGD
   exchange_name: CRYPTOCURRENCY
@@ -3084,8 +3084,8 @@ BCHSGD:
   pip_size: 0.0001
   quoted_currency: SGD
   submarket: non_stable_coin
-  symbol: BCHSGD
-BCHTRY:
+  symbol: cryBCHSGD
+cryBCHTRY:
   asset: BCH
   display_name: BCH/TRY
   exchange_name: CRYPTOCURRENCY
@@ -3094,8 +3094,8 @@ BCHTRY:
   pip_size: 0.0001
   quoted_currency: TRY
   submarket: non_stable_coin
-  symbol: BCHTRY
-BCHUSD:
+  symbol: cryBCHTRY
+cryBCHUSD:
   asset: BCH
   display_name: BCH/USD
   exchange_name: CRYPTOCURRENCY
@@ -3104,8 +3104,8 @@ BCHUSD:
   pip_size: 0.0001
   quoted_currency: USD
   submarket: non_stable_coin
-  symbol: BCHUSD
-BCHXAG:
+  symbol: cryBCHUSD
+cryBCHXAG:
   asset: BCH
   display_name: BCH/XAG
   exchange_name: CRYPTOCURRENCY
@@ -3114,8 +3114,8 @@ BCHXAG:
   pip_size: 0.0001
   quoted_currency: XAG
   submarket: non_stable_coin
-  symbol: BCHXAG
-BCHXAU:
+  symbol: cryBCHXAG
+cryBCHXAU:
   asset: BCH
   display_name: BCH/XAU
   exchange_name: CRYPTOCURRENCY
@@ -3124,8 +3124,8 @@ BCHXAU:
   pip_size: 0.0001
   quoted_currency: XAU
   submarket: non_stable_coin
-  symbol: BCHXAU
-BCHZAR:
+  symbol: cryBCHXAU
+cryBCHZAR:
   asset: BCH
   display_name: BCH/ZAR
   exchange_name: CRYPTOCURRENCY
@@ -3134,8 +3134,8 @@ BCHZAR:
   pip_size: 0.0001
   quoted_currency: ZAR
   submarket: non_stable_coin
-  symbol: BCHZAR
-BTCAED:
+  symbol: cryBCHZAR
+cryBTCAED:
   asset: BTC
   display_name: BTC/AED
   exchange_name: CRYPTOCURRENCY
@@ -3144,8 +3144,8 @@ BTCAED:
   pip_size: 0.0001
   quoted_currency: AED
   submarket: non_stable_coin
-  symbol: BTCAED
-BTCAUD:
+  symbol: cryBTCAED
+cryBTCAUD:
   asset: BTC
   display_name: BTC/AUD
   exchange_name: CRYPTOCURRENCY
@@ -3154,8 +3154,8 @@ BTCAUD:
   pip_size: 0.0001
   quoted_currency: AUD
   submarket: non_stable_coin
-  symbol: BTCAUD
-BTCBRL:
+  symbol: cryBTCAUD
+cryBTCBRL:
   asset: BTC
   display_name: BTC/BRL
   exchange_name: CRYPTOCURRENCY
@@ -3164,8 +3164,8 @@ BTCBRL:
   pip_size: 0.0001
   quoted_currency: BRL
   submarket: non_stable_coin
-  symbol: BTCBRL
-BTCCAD:
+  symbol: cryBTCBRL
+cryBTCCAD:
   asset: BTC
   display_name: BTC/CAD
   exchange_name: CRYPTOCURRENCY
@@ -3174,8 +3174,8 @@ BTCCAD:
   pip_size: 0.0001
   quoted_currency: CAD
   submarket: non_stable_coin
-  symbol: BTCCAD
-BTCCHF:
+  symbol: cryBTCCAD
+cryBTCCHF:
   asset: BTC
   display_name: BTC/CHF
   exchange_name: CRYPTOCURRENCY
@@ -3184,8 +3184,8 @@ BTCCHF:
   pip_size: 0.0001
   quoted_currency: CHF
   submarket: non_stable_coin
-  symbol: BTCCHF
-BTCCNY:
+  symbol: cryBTCCHF
+cryBTCCNY:
   asset: BTC
   display_name: BTC/CNY
   exchange_name: CRYPTOCURRENCY
@@ -3194,8 +3194,8 @@ BTCCNY:
   pip_size: 0.0001
   quoted_currency: CNY
   submarket: non_stable_coin
-  symbol: BTCCNY
-BTCCZK:
+  symbol: cryBTCCNY
+cryBTCCZK:
   asset: BTC
   display_name: BTC/CZK
   exchange_name: CRYPTOCURRENCY
@@ -3204,8 +3204,8 @@ BTCCZK:
   pip_size: 0.0001
   quoted_currency: CZK
   submarket: non_stable_coin
-  symbol: BTCCZK
-BTCEGP:
+  symbol: cryBTCCZK
+cryBTCEGP:
   asset: BTC
   display_name: BTC/EGP
   exchange_name: CRYPTOCURRENCY
@@ -3214,8 +3214,8 @@ BTCEGP:
   pip_size: 0.0001
   quoted_currency: EGP
   submarket: non_stable_coin
-  symbol: BTCEGP
-BTCEUR:
+  symbol: cryBTCEGP
+cryBTCEUR:
   asset: BTC
   display_name: BTC/EUR
   exchange_name: CRYPTOCURRENCY
@@ -3224,8 +3224,8 @@ BTCEUR:
   pip_size: 0.0001
   quoted_currency: EUR
   submarket: non_stable_coin
-  symbol: BTCEUR
-BTCGBP:
+  symbol: cryBTCEUR
+cryBTCGBP:
   asset: BTC
   display_name: BTC/GBP
   exchange_name: CRYPTOCURRENCY
@@ -3234,8 +3234,8 @@ BTCGBP:
   pip_size: 0.0001
   quoted_currency: GBP
   submarket: non_stable_coin
-  symbol: BTCGBP
-BTCHKD:
+  symbol: cryBTCGBP
+cryBTCHKD:
   asset: BTC
   display_name: BTC/HKD
   exchange_name: CRYPTOCURRENCY
@@ -3244,8 +3244,8 @@ BTCHKD:
   pip_size: 0.0001
   quoted_currency: HKD
   submarket: non_stable_coin
-  symbol: BTCHKD
-BTCIDR:
+  symbol: cryBTCHKD
+cryBTCIDR:
   asset: BTC
   display_name: BTC/IDR
   exchange_name: CRYPTOCURRENCY
@@ -3254,8 +3254,8 @@ BTCIDR:
   pip_size: 0.0001
   quoted_currency: IDR
   submarket: non_stable_coin
-  symbol: BTCIDR
-BTCINR:
+  symbol: cryBTCIDR
+cryBTCINR:
   asset: BTC
   display_name: BTC/INR
   exchange_name: CRYPTOCURRENCY
@@ -3264,8 +3264,8 @@ BTCINR:
   pip_size: 0.0001
   quoted_currency: INR
   submarket: non_stable_coin
-  symbol: BTCINR
-BTCJPY:
+  symbol: cryBTCINR
+cryBTCJPY:
   asset: BTC
   display_name: BTC/JPY
   exchange_name: CRYPTOCURRENCY
@@ -3274,8 +3274,8 @@ BTCJPY:
   pip_size: 0.0001
   quoted_currency: JPY
   submarket: non_stable_coin
-  symbol: BTCJPY
-BTCKRW:
+  symbol: cryBTCJPY
+cryBTCKRW:
   asset: BTC
   display_name: BTC/KRW
   exchange_name: CRYPTOCURRENCY
@@ -3284,8 +3284,8 @@ BTCKRW:
   pip_size: 0.0001
   quoted_currency: KRW
   submarket: non_stable_coin
-  symbol: BTCKRW
-BTCKWD:
+  symbol: cryBTCKRW
+cryBTCKWD:
   asset: BTC
   display_name: BTC/KWD
   exchange_name: CRYPTOCURRENCY
@@ -3294,8 +3294,8 @@ BTCKWD:
   pip_size: 0.0001
   quoted_currency: KWD
   submarket: non_stable_coin
-  symbol: BTCKWD
-BTCMXN:
+  symbol: cryBTCKWD
+cryBTCMXN:
   asset: BTC
   display_name: BTC/MXN
   exchange_name: CRYPTOCURRENCY
@@ -3304,8 +3304,8 @@ BTCMXN:
   pip_size: 0.0001
   quoted_currency: MXN
   submarket: non_stable_coin
-  symbol: BTCMXN
-BTCNOK:
+  symbol: cryBTCMXN
+cryBTCNOK:
   asset: BTC
   display_name: BTC/NOK
   exchange_name: CRYPTOCURRENCY
@@ -3314,8 +3314,8 @@ BTCNOK:
   pip_size: 0.0001
   quoted_currency: NOK
   submarket: non_stable_coin
-  symbol: BTCNOK
-BTCNZD:
+  symbol: cryBTCNOK
+cryBTCNZD:
   asset: BTC
   display_name: BTC/NZD
   exchange_name: CRYPTOCURRENCY
@@ -3324,8 +3324,8 @@ BTCNZD:
   pip_size: 0.0001
   quoted_currency: NZD
   submarket: non_stable_coin
-  symbol: BTCNZD
-BTCPLN:
+  symbol: cryBTCNZD
+cryBTCPLN:
   asset: BTC
   display_name: BTC/PLN
   exchange_name: CRYPTOCURRENCY
@@ -3334,8 +3334,8 @@ BTCPLN:
   pip_size: 0.0001
   quoted_currency: PLN
   submarket: non_stable_coin
-  symbol: BTCPLN
-BTCRUB:
+  symbol: cryBTCPLN
+cryBTCRUB:
   asset: BTC
   display_name: BTC/RUB
   exchange_name: CRYPTOCURRENCY
@@ -3344,8 +3344,8 @@ BTCRUB:
   pip_size: 0.0001
   quoted_currency: RUB
   submarket: non_stable_coin
-  symbol: BTCRUB
-BTCSAR:
+  symbol: cryBTCRUB
+cryBTCSAR:
   asset: BTC
   display_name: BTC/SAR
   exchange_name: CRYPTOCURRENCY
@@ -3354,8 +3354,8 @@ BTCSAR:
   pip_size: 0.0001
   quoted_currency: SAR
   submarket: non_stable_coin
-  symbol: BTCSAR
-BTCSEK:
+  symbol: cryBTCSAR
+cryBTCSEK:
   asset: BTC
   display_name: BTC/SEK
   exchange_name: CRYPTOCURRENCY
@@ -3364,8 +3364,8 @@ BTCSEK:
   pip_size: 0.0001
   quoted_currency: SEK
   submarket: non_stable_coin
-  symbol: BTCSEK
-BTCSGD:
+  symbol: cryBTCSEK
+cryBTCSGD:
   asset: BTC
   display_name: BTC/SGD
   exchange_name: CRYPTOCURRENCY
@@ -3374,8 +3374,8 @@ BTCSGD:
   pip_size: 0.0001
   quoted_currency: SGD
   submarket: non_stable_coin
-  symbol: BTCSGD
-BTCTRY:
+  symbol: cryBTCSGD
+cryBTCTRY:
   asset: BTC
   display_name: BTC/TRY
   exchange_name: CRYPTOCURRENCY
@@ -3384,8 +3384,8 @@ BTCTRY:
   pip_size: 0.0001
   quoted_currency: TRY
   submarket: non_stable_coin
-  symbol: BTCTRY
-BTCUSD:
+  symbol: cryBTCTRY
+cryBTCUSD:
   asset: BTC
   display_name: BTC/USD
   exchange_name: CRYPTOCURRENCY
@@ -3394,8 +3394,8 @@ BTCUSD:
   pip_size: 0.0001
   quoted_currency: USD
   submarket: non_stable_coin
-  symbol: BTCUSD
-BTCXAG:
+  symbol: cryBTCUSD
+cryBTCXAG:
   asset: BTC
   display_name: BTC/XAG
   exchange_name: CRYPTOCURRENCY
@@ -3404,8 +3404,8 @@ BTCXAG:
   pip_size: 0.0001
   quoted_currency: XAG
   submarket: non_stable_coin
-  symbol: BTCXAG
-BTCXAU:
+  symbol: cryBTCXAG
+cryBTCXAU:
   asset: BTC
   display_name: BTC/XAU
   exchange_name: CRYPTOCURRENCY
@@ -3414,8 +3414,8 @@ BTCXAU:
   pip_size: 0.0001
   quoted_currency: XAU
   submarket: non_stable_coin
-  symbol: BTCXAU
-BTCZAR:
+  symbol: cryBTCXAU
+cryBTCZAR:
   asset: BTC
   display_name: BTC/ZAR
   exchange_name: CRYPTOCURRENCY
@@ -3424,8 +3424,8 @@ BTCZAR:
   pip_size: 0.0001
   quoted_currency: ZAR
   submarket: non_stable_coin
-  symbol: BTCZAR
-ETCAED:
+  symbol: cryBTCZAR
+cryETCAED:
   asset: ETC
   display_name: ETC/AED
   exchange_name: CRYPTOCURRENCY
@@ -3434,8 +3434,8 @@ ETCAED:
   pip_size: 0.0001
   quoted_currency: AED
   submarket: non_stable_coin
-  symbol: ETCAED
-ETCAUD:
+  symbol: cryETCAED
+cryETCAUD:
   asset: ETC
   display_name: ETC/AUD
   exchange_name: CRYPTOCURRENCY
@@ -3444,8 +3444,8 @@ ETCAUD:
   pip_size: 0.0001
   quoted_currency: AUD
   submarket: non_stable_coin
-  symbol: ETCAUD
-ETCBRL:
+  symbol: cryETCAUD
+cryETCBRL:
   asset: ETC
   display_name: ETC/BRL
   exchange_name: CRYPTOCURRENCY
@@ -3454,8 +3454,8 @@ ETCBRL:
   pip_size: 0.0001
   quoted_currency: BRL
   submarket: non_stable_coin
-  symbol: ETCBRL
-ETCCAD:
+  symbol: cryETCBRL
+cryETCCAD:
   asset: ETC
   display_name: ETC/CAD
   exchange_name: CRYPTOCURRENCY
@@ -3464,8 +3464,8 @@ ETCCAD:
   pip_size: 0.0001
   quoted_currency: CAD
   submarket: non_stable_coin
-  symbol: ETCCAD
-ETCCHF:
+  symbol: cryETCCAD
+cryETCCHF:
   asset: ETC
   display_name: ETC/CHF
   exchange_name: CRYPTOCURRENCY
@@ -3474,8 +3474,8 @@ ETCCHF:
   pip_size: 0.0001
   quoted_currency: CHF
   submarket: non_stable_coin
-  symbol: ETCCHF
-ETCCNY:
+  symbol: cryETCCHF
+cryETCCNY:
   asset: ETC
   display_name: ETC/CNY
   exchange_name: CRYPTOCURRENCY
@@ -3484,8 +3484,8 @@ ETCCNY:
   pip_size: 0.0001
   quoted_currency: CNY
   submarket: non_stable_coin
-  symbol: ETCCNY
-ETCCZK:
+  symbol: cryETCCNY
+cryETCCZK:
   asset: ETC
   display_name: ETC/CZK
   exchange_name: CRYPTOCURRENCY
@@ -3494,8 +3494,8 @@ ETCCZK:
   pip_size: 0.0001
   quoted_currency: CZK
   submarket: non_stable_coin
-  symbol: ETCCZK
-ETCEGP:
+  symbol: cryETCCZK
+cryETCEGP:
   asset: ETC
   display_name: ETC/EGP
   exchange_name: CRYPTOCURRENCY
@@ -3504,8 +3504,8 @@ ETCEGP:
   pip_size: 0.0001
   quoted_currency: EGP
   submarket: non_stable_coin
-  symbol: ETCEGP
-ETCEUR:
+  symbol: cryETCEGP
+cryETCEUR:
   asset: ETC
   display_name: ETC/EUR
   exchange_name: CRYPTOCURRENCY
@@ -3514,8 +3514,8 @@ ETCEUR:
   pip_size: 0.0001
   quoted_currency: EUR
   submarket: non_stable_coin
-  symbol: ETCEUR
-ETCGBP:
+  symbol: cryETCEUR
+cryETCGBP:
   asset: ETC
   display_name: ETC/GBP
   exchange_name: CRYPTOCURRENCY
@@ -3524,8 +3524,8 @@ ETCGBP:
   pip_size: 0.0001
   quoted_currency: GBP
   submarket: non_stable_coin
-  symbol: ETCGBP
-ETCHKD:
+  symbol: cryETCGBP
+cryETCHKD:
   asset: ETC
   display_name: ETC/HKD
   exchange_name: CRYPTOCURRENCY
@@ -3534,8 +3534,8 @@ ETCHKD:
   pip_size: 0.0001
   quoted_currency: HKD
   submarket: non_stable_coin
-  symbol: ETCHKD
-ETCIDR:
+  symbol: cryETCHKD
+cryETCIDR:
   asset: ETC
   display_name: ETC/IDR
   exchange_name: CRYPTOCURRENCY
@@ -3544,8 +3544,8 @@ ETCIDR:
   pip_size: 0.0001
   quoted_currency: IDR
   submarket: non_stable_coin
-  symbol: ETCIDR
-ETCINR:
+  symbol: cryETCIDR
+cryETCINR:
   asset: ETC
   display_name: ETC/INR
   exchange_name: CRYPTOCURRENCY
@@ -3554,8 +3554,8 @@ ETCINR:
   pip_size: 0.0001
   quoted_currency: INR
   submarket: non_stable_coin
-  symbol: ETCINR
-ETCJPY:
+  symbol: cryETCINR
+cryETCJPY:
   asset: ETC
   display_name: ETC/JPY
   exchange_name: CRYPTOCURRENCY
@@ -3564,8 +3564,8 @@ ETCJPY:
   pip_size: 0.0001
   quoted_currency: JPY
   submarket: non_stable_coin
-  symbol: ETCJPY
-ETCKRW:
+  symbol: cryETCJPY
+cryETCKRW:
   asset: ETC
   display_name: ETC/KRW
   exchange_name: CRYPTOCURRENCY
@@ -3574,8 +3574,8 @@ ETCKRW:
   pip_size: 0.0001
   quoted_currency: KRW
   submarket: non_stable_coin
-  symbol: ETCKRW
-ETCKWD:
+  symbol: cryETCKRW
+cryETCKWD:
   asset: ETC
   display_name: ETC/KWD
   exchange_name: CRYPTOCURRENCY
@@ -3584,8 +3584,8 @@ ETCKWD:
   pip_size: 0.0001
   quoted_currency: KWD
   submarket: non_stable_coin
-  symbol: ETCKWD
-ETCMXN:
+  symbol: cryETCKWD
+cryETCMXN:
   asset: ETC
   display_name: ETC/MXN
   exchange_name: CRYPTOCURRENCY
@@ -3594,8 +3594,8 @@ ETCMXN:
   pip_size: 0.0001
   quoted_currency: MXN
   submarket: non_stable_coin
-  symbol: ETCMXN
-ETCNOK:
+  symbol: cryETCMXN
+cryETCNOK:
   asset: ETC
   display_name: ETC/NOK
   exchange_name: CRYPTOCURRENCY
@@ -3604,8 +3604,8 @@ ETCNOK:
   pip_size: 0.0001
   quoted_currency: NOK
   submarket: non_stable_coin
-  symbol: ETCNOK
-ETCNZD:
+  symbol: cryETCNOK
+cryETCNZD:
   asset: ETC
   display_name: ETC/NZD
   exchange_name: CRYPTOCURRENCY
@@ -3614,8 +3614,8 @@ ETCNZD:
   pip_size: 0.0001
   quoted_currency: NZD
   submarket: non_stable_coin
-  symbol: ETCNZD
-ETCPLN:
+  symbol: cryETCNZD
+cryETCPLN:
   asset: ETC
   display_name: ETC/PLN
   exchange_name: CRYPTOCURRENCY
@@ -3624,8 +3624,8 @@ ETCPLN:
   pip_size: 0.0001
   quoted_currency: PLN
   submarket: non_stable_coin
-  symbol: ETCPLN
-ETCRUB:
+  symbol: cryETCPLN
+cryETCRUB:
   asset: ETC
   display_name: ETC/RUB
   exchange_name: CRYPTOCURRENCY
@@ -3634,8 +3634,8 @@ ETCRUB:
   pip_size: 0.0001
   quoted_currency: RUB
   submarket: non_stable_coin
-  symbol: ETCRUB
-ETCSAR:
+  symbol: cryETCRUB
+cryETCSAR:
   asset: ETC
   display_name: ETC/SAR
   exchange_name: CRYPTOCURRENCY
@@ -3644,8 +3644,8 @@ ETCSAR:
   pip_size: 0.0001
   quoted_currency: SAR
   submarket: non_stable_coin
-  symbol: ETCSAR
-ETCSEK:
+  symbol: cryETCSAR
+cryETCSEK:
   asset: ETC
   display_name: ETC/SEK
   exchange_name: CRYPTOCURRENCY
@@ -3654,8 +3654,8 @@ ETCSEK:
   pip_size: 0.0001
   quoted_currency: SEK
   submarket: non_stable_coin
-  symbol: ETCSEK
-ETCSGD:
+  symbol: cryETCSEK
+cryETCSGD:
   asset: ETC
   display_name: ETC/SGD
   exchange_name: CRYPTOCURRENCY
@@ -3664,8 +3664,8 @@ ETCSGD:
   pip_size: 0.0001
   quoted_currency: SGD
   submarket: non_stable_coin
-  symbol: ETCSGD
-ETCTRY:
+  symbol: cryETCSGD
+cryETCTRY:
   asset: ETC
   display_name: ETC/TRY
   exchange_name: CRYPTOCURRENCY
@@ -3674,8 +3674,8 @@ ETCTRY:
   pip_size: 0.0001
   quoted_currency: TRY
   submarket: non_stable_coin
-  symbol: ETCTRY
-ETCUSD:
+  symbol: cryETCTRY
+cryETCUSD:
   asset: ETC
   display_name: ETC/USD
   exchange_name: CRYPTOCURRENCY
@@ -3684,8 +3684,8 @@ ETCUSD:
   pip_size: 0.0001
   quoted_currency: USD
   submarket: non_stable_coin
-  symbol: ETCUSD
-ETCXAG:
+  symbol: cryETCUSD
+cryETCXAG:
   asset: ETC
   display_name: ETC/XAG
   exchange_name: CRYPTOCURRENCY
@@ -3694,8 +3694,8 @@ ETCXAG:
   pip_size: 0.0001
   quoted_currency: XAG
   submarket: non_stable_coin
-  symbol: ETCXAG
-ETCXAU:
+  symbol: cryETCXAG
+cryETCXAU:
   asset: ETC
   display_name: ETC/XAU
   exchange_name: CRYPTOCURRENCY
@@ -3704,8 +3704,8 @@ ETCXAU:
   pip_size: 0.0001
   quoted_currency: XAU
   submarket: non_stable_coin
-  symbol: ETCXAU
-ETCZAR:
+  symbol: cryETCXAU
+cryETCZAR:
   asset: ETC
   display_name: ETC/ZAR
   exchange_name: CRYPTOCURRENCY
@@ -3714,8 +3714,8 @@ ETCZAR:
   pip_size: 0.0001
   quoted_currency: ZAR
   submarket: non_stable_coin
-  symbol: ETCZAR
-ETHAED:
+  symbol: cryETCZAR
+cryETHAED:
   asset: ETH
   display_name: ETH/AED
   exchange_name: CRYPTOCURRENCY
@@ -3724,8 +3724,8 @@ ETHAED:
   pip_size: 0.0001
   quoted_currency: AED
   submarket: non_stable_coin
-  symbol: ETHAED
-ETHAUD:
+  symbol: cryETHAED
+cryETHAUD:
   asset: ETH
   display_name: ETH/AUD
   exchange_name: CRYPTOCURRENCY
@@ -3734,8 +3734,8 @@ ETHAUD:
   pip_size: 0.0001
   quoted_currency: AUD
   submarket: non_stable_coin
-  symbol: ETHAUD
-ETHBRL:
+  symbol: cryETHAUD
+cryETHBRL:
   asset: ETH
   display_name: ETH/BRL
   exchange_name: CRYPTOCURRENCY
@@ -3744,8 +3744,8 @@ ETHBRL:
   pip_size: 0.0001
   quoted_currency: BRL
   submarket: non_stable_coin
-  symbol: ETHBRL
-ETHCAD:
+  symbol: cryETHBRL
+cryETHCAD:
   asset: ETH
   display_name: ETH/CAD
   exchange_name: CRYPTOCURRENCY
@@ -3754,8 +3754,8 @@ ETHCAD:
   pip_size: 0.0001
   quoted_currency: CAD
   submarket: non_stable_coin
-  symbol: ETHCAD
-ETHCHF:
+  symbol: cryETHCAD
+cryETHCHF:
   asset: ETH
   display_name: ETH/CHF
   exchange_name: CRYPTOCURRENCY
@@ -3764,8 +3764,8 @@ ETHCHF:
   pip_size: 0.0001
   quoted_currency: CHF
   submarket: non_stable_coin
-  symbol: ETHCHF
-ETHCNY:
+  symbol: cryETHCHF
+cryETHCNY:
   asset: ETH
   display_name: ETH/CNY
   exchange_name: CRYPTOCURRENCY
@@ -3774,8 +3774,8 @@ ETHCNY:
   pip_size: 0.0001
   quoted_currency: CNY
   submarket: non_stable_coin
-  symbol: ETHCNY
-ETHCZK:
+  symbol: cryETHCNY
+cryETHCZK:
   asset: ETH
   display_name: ETH/CZK
   exchange_name: CRYPTOCURRENCY
@@ -3784,8 +3784,8 @@ ETHCZK:
   pip_size: 0.0001
   quoted_currency: CZK
   submarket: non_stable_coin
-  symbol: ETHCZK
-ETHEGP:
+  symbol: cryETHCZK
+cryETHEGP:
   asset: ETH
   display_name: ETH/EGP
   exchange_name: CRYPTOCURRENCY
@@ -3794,8 +3794,8 @@ ETHEGP:
   pip_size: 0.0001
   quoted_currency: EGP
   submarket: non_stable_coin
-  symbol: ETHEGP
-ETHEUR:
+  symbol: cryETHEGP
+cryETHEUR:
   asset: ETH
   display_name: ETH/EUR
   exchange_name: CRYPTOCURRENCY
@@ -3804,8 +3804,8 @@ ETHEUR:
   pip_size: 0.0001
   quoted_currency: EUR
   submarket: non_stable_coin
-  symbol: ETHEUR
-ETHGBP:
+  symbol: cryETHEUR
+cryETHGBP:
   asset: ETH
   display_name: ETH/GBP
   exchange_name: CRYPTOCURRENCY
@@ -3814,8 +3814,8 @@ ETHGBP:
   pip_size: 0.0001
   quoted_currency: GBP
   submarket: non_stable_coin
-  symbol: ETHGBP
-ETHHKD:
+  symbol: cryETHGBP
+cryETHHKD:
   asset: ETH
   display_name: ETH/HKD
   exchange_name: CRYPTOCURRENCY
@@ -3824,8 +3824,8 @@ ETHHKD:
   pip_size: 0.0001
   quoted_currency: HKD
   submarket: non_stable_coin
-  symbol: ETHHKD
-ETHIDR:
+  symbol: cryETHHKD
+cryETHIDR:
   asset: ETH
   display_name: ETH/IDR
   exchange_name: CRYPTOCURRENCY
@@ -3834,8 +3834,8 @@ ETHIDR:
   pip_size: 0.0001
   quoted_currency: IDR
   submarket: non_stable_coin
-  symbol: ETHIDR
-ETHINR:
+  symbol: cryETHIDR
+cryETHINR:
   asset: ETH
   display_name: ETH/INR
   exchange_name: CRYPTOCURRENCY
@@ -3844,8 +3844,8 @@ ETHINR:
   pip_size: 0.0001
   quoted_currency: INR
   submarket: non_stable_coin
-  symbol: ETHINR
-ETHJPY:
+  symbol: cryETHINR
+cryETHJPY:
   asset: ETH
   display_name: ETH/JPY
   exchange_name: CRYPTOCURRENCY
@@ -3854,8 +3854,8 @@ ETHJPY:
   pip_size: 0.0001
   quoted_currency: JPY
   submarket: non_stable_coin
-  symbol: ETHJPY
-ETHKRW:
+  symbol: cryETHJPY
+cryETHKRW:
   asset: ETH
   display_name: ETH/KRW
   exchange_name: CRYPTOCURRENCY
@@ -3864,8 +3864,8 @@ ETHKRW:
   pip_size: 0.0001
   quoted_currency: KRW
   submarket: non_stable_coin
-  symbol: ETHKRW
-ETHKWD:
+  symbol: cryETHKRW
+cryETHKWD:
   asset: ETH
   display_name: ETH/KWD
   exchange_name: CRYPTOCURRENCY
@@ -3874,8 +3874,8 @@ ETHKWD:
   pip_size: 0.0001
   quoted_currency: KWD
   submarket: non_stable_coin
-  symbol: ETHKWD
-ETHMXN:
+  symbol: cryETHKWD
+cryETHMXN:
   asset: ETH
   display_name: ETH/MXN
   exchange_name: CRYPTOCURRENCY
@@ -3884,8 +3884,8 @@ ETHMXN:
   pip_size: 0.0001
   quoted_currency: MXN
   submarket: non_stable_coin
-  symbol: ETHMXN
-ETHNOK:
+  symbol: cryETHMXN
+cryETHNOK:
   asset: ETH
   display_name: ETH/NOK
   exchange_name: CRYPTOCURRENCY
@@ -3894,8 +3894,8 @@ ETHNOK:
   pip_size: 0.0001
   quoted_currency: NOK
   submarket: non_stable_coin
-  symbol: ETHNOK
-ETHNZD:
+  symbol: cryETHNOK
+cryETHNZD:
   asset: ETH
   display_name: ETH/NZD
   exchange_name: CRYPTOCURRENCY
@@ -3904,8 +3904,8 @@ ETHNZD:
   pip_size: 0.0001
   quoted_currency: NZD
   submarket: non_stable_coin
-  symbol: ETHNZD
-ETHPLN:
+  symbol: cryETHNZD
+cryETHPLN:
   asset: ETH
   display_name: ETH/PLN
   exchange_name: CRYPTOCURRENCY
@@ -3914,8 +3914,8 @@ ETHPLN:
   pip_size: 0.0001
   quoted_currency: PLN
   submarket: non_stable_coin
-  symbol: ETHPLN
-ETHRUB:
+  symbol: cryETHPLN
+cryETHRUB:
   asset: ETH
   display_name: ETH/RUB
   exchange_name: CRYPTOCURRENCY
@@ -3924,8 +3924,8 @@ ETHRUB:
   pip_size: 0.0001
   quoted_currency: RUB
   submarket: non_stable_coin
-  symbol: ETHRUB
-ETHSAR:
+  symbol: cryETHRUB
+cryETHSAR:
   asset: ETH
   display_name: ETH/SAR
   exchange_name: CRYPTOCURRENCY
@@ -3934,8 +3934,8 @@ ETHSAR:
   pip_size: 0.0001
   quoted_currency: SAR
   submarket: non_stable_coin
-  symbol: ETHSAR
-ETHSEK:
+  symbol: cryETHSAR
+cryETHSEK:
   asset: ETH
   display_name: ETH/SEK
   exchange_name: CRYPTOCURRENCY
@@ -3944,8 +3944,8 @@ ETHSEK:
   pip_size: 0.0001
   quoted_currency: SEK
   submarket: non_stable_coin
-  symbol: ETHSEK
-ETHSGD:
+  symbol: cryETHSEK
+cryETHSGD:
   asset: ETH
   display_name: ETH/SGD
   exchange_name: CRYPTOCURRENCY
@@ -3954,8 +3954,8 @@ ETHSGD:
   pip_size: 0.0001
   quoted_currency: SGD
   submarket: non_stable_coin
-  symbol: ETHSGD
-ETHTRY:
+  symbol: cryETHSGD
+cryETHTRY:
   asset: ETH
   display_name: ETH/TRY
   exchange_name: CRYPTOCURRENCY
@@ -3964,8 +3964,8 @@ ETHTRY:
   pip_size: 0.0001
   quoted_currency: TRY
   submarket: non_stable_coin
-  symbol: ETHTRY
-ETHUSD:
+  symbol: cryETHTRY
+cryETHUSD:
   asset: ETH
   display_name: ETH/USD
   exchange_name: CRYPTOCURRENCY
@@ -3974,8 +3974,8 @@ ETHUSD:
   pip_size: 0.0001
   quoted_currency: USD
   submarket: non_stable_coin
-  symbol: ETHUSD
-ETHXAG:
+  symbol: cryETHUSD
+cryETHXAG:
   asset: ETH
   display_name: ETH/XAG
   exchange_name: CRYPTOCURRENCY
@@ -3984,8 +3984,8 @@ ETHXAG:
   pip_size: 0.0001
   quoted_currency: XAG
   submarket: non_stable_coin
-  symbol: ETHXAG
-ETHXAU:
+  symbol: cryETHXAG
+cryETHXAU:
   asset: ETH
   display_name: ETH/XAU
   exchange_name: CRYPTOCURRENCY
@@ -3994,8 +3994,8 @@ ETHXAU:
   pip_size: 0.0001
   quoted_currency: XAU
   submarket: non_stable_coin
-  symbol: ETHXAU
-ETHZAR:
+  symbol: cryETHXAU
+cryETHZAR:
   asset: ETH
   display_name: ETH/ZAR
   exchange_name: CRYPTOCURRENCY
@@ -4004,8 +4004,8 @@ ETHZAR:
   pip_size: 0.0001
   quoted_currency: ZAR
   submarket: non_stable_coin
-  symbol: ETHZAR
-LTCAED:
+  symbol: cryETHZAR
+cryLTCAED:
   asset: LTC
   display_name: LTC/AED
   exchange_name: CRYPTOCURRENCY
@@ -4014,8 +4014,8 @@ LTCAED:
   pip_size: 0.0001
   quoted_currency: AED
   submarket: non_stable_coin
-  symbol: LTCAED
-LTCAUD:
+  symbol: cryLTCAED
+cryLTCAUD:
   asset: LTC
   display_name: LTC/AUD
   exchange_name: CRYPTOCURRENCY
@@ -4024,8 +4024,8 @@ LTCAUD:
   pip_size: 0.0001
   quoted_currency: AUD
   submarket: non_stable_coin
-  symbol: LTCAUD
-LTCBRL:
+  symbol: cryLTCAUD
+cryLTCBRL:
   asset: LTC
   display_name: LTC/BRL
   exchange_name: CRYPTOCURRENCY
@@ -4034,8 +4034,8 @@ LTCBRL:
   pip_size: 0.0001
   quoted_currency: BRL
   submarket: non_stable_coin
-  symbol: LTCBRL
-LTCCAD:
+  symbol: cryLTCBRL
+cryLTCCAD:
   asset: LTC
   display_name: LTC/CAD
   exchange_name: CRYPTOCURRENCY
@@ -4044,8 +4044,8 @@ LTCCAD:
   pip_size: 0.0001
   quoted_currency: CAD
   submarket: non_stable_coin
-  symbol: LTCCAD
-LTCCHF:
+  symbol: cryLTCCAD
+cryLTCCHF:
   asset: LTC
   display_name: LTC/CHF
   exchange_name: CRYPTOCURRENCY
@@ -4054,8 +4054,8 @@ LTCCHF:
   pip_size: 0.0001
   quoted_currency: CHF
   submarket: non_stable_coin
-  symbol: LTCCHF
-LTCCNY:
+  symbol: cryLTCCHF
+cryLTCCNY:
   asset: LTC
   display_name: LTC/CNY
   exchange_name: CRYPTOCURRENCY
@@ -4064,8 +4064,8 @@ LTCCNY:
   pip_size: 0.0001
   quoted_currency: CNY
   submarket: non_stable_coin
-  symbol: LTCCNY
-LTCCZK:
+  symbol: cryLTCCNY
+cryLTCCZK:
   asset: LTC
   display_name: LTC/CZK
   exchange_name: CRYPTOCURRENCY
@@ -4074,8 +4074,8 @@ LTCCZK:
   pip_size: 0.0001
   quoted_currency: CZK
   submarket: non_stable_coin
-  symbol: LTCCZK
-LTCEGP:
+  symbol: cryLTCCZK
+cryLTCEGP:
   asset: LTC
   display_name: LTC/EGP
   exchange_name: CRYPTOCURRENCY
@@ -4084,8 +4084,8 @@ LTCEGP:
   pip_size: 0.0001
   quoted_currency: EGP
   submarket: non_stable_coin
-  symbol: LTCEGP
-LTCEUR:
+  symbol: cryLTCEGP
+cryLTCEUR:
   asset: LTC
   display_name: LTC/EUR
   exchange_name: CRYPTOCURRENCY
@@ -4094,8 +4094,8 @@ LTCEUR:
   pip_size: 0.0001
   quoted_currency: EUR
   submarket: non_stable_coin
-  symbol: LTCEUR
-LTCGBP:
+  symbol: cryLTCEUR
+cryLTCGBP:
   asset: LTC
   display_name: LTC/GBP
   exchange_name: CRYPTOCURRENCY
@@ -4104,8 +4104,8 @@ LTCGBP:
   pip_size: 0.0001
   quoted_currency: GBP
   submarket: non_stable_coin
-  symbol: LTCGBP
-LTCHKD:
+  symbol: cryLTCGBP
+cryLTCHKD:
   asset: LTC
   display_name: LTC/HKD
   exchange_name: CRYPTOCURRENCY
@@ -4114,8 +4114,8 @@ LTCHKD:
   pip_size: 0.0001
   quoted_currency: HKD
   submarket: non_stable_coin
-  symbol: LTCHKD
-LTCIDR:
+  symbol: cryLTCHKD
+cryLTCIDR:
   asset: LTC
   display_name: LTC/IDR
   exchange_name: CRYPTOCURRENCY
@@ -4124,8 +4124,8 @@ LTCIDR:
   pip_size: 0.0001
   quoted_currency: IDR
   submarket: non_stable_coin
-  symbol: LTCIDR
-LTCINR:
+  symbol: cryLTCIDR
+cryLTCINR:
   asset: LTC
   display_name: LTC/INR
   exchange_name: CRYPTOCURRENCY
@@ -4134,8 +4134,8 @@ LTCINR:
   pip_size: 0.0001
   quoted_currency: INR
   submarket: non_stable_coin
-  symbol: LTCINR
-LTCJPY:
+  symbol: cryLTCINR
+cryLTCJPY:
   asset: LTC
   display_name: LTC/JPY
   exchange_name: CRYPTOCURRENCY
@@ -4144,8 +4144,8 @@ LTCJPY:
   pip_size: 0.0001
   quoted_currency: JPY
   submarket: non_stable_coin
-  symbol: LTCJPY
-LTCKRW:
+  symbol: cryLTCJPY
+cryLTCKRW:
   asset: LTC
   display_name: LTC/KRW
   exchange_name: CRYPTOCURRENCY
@@ -4154,8 +4154,8 @@ LTCKRW:
   pip_size: 0.0001
   quoted_currency: KRW
   submarket: non_stable_coin
-  symbol: LTCKRW
-LTCKWD:
+  symbol: cryLTCKRW
+cryLTCKWD:
   asset: LTC
   display_name: LTC/KWD
   exchange_name: CRYPTOCURRENCY
@@ -4164,8 +4164,8 @@ LTCKWD:
   pip_size: 0.0001
   quoted_currency: KWD
   submarket: non_stable_coin
-  symbol: LTCKWD
-LTCMXN:
+  symbol: cryLTCKWD
+cryLTCMXN:
   asset: LTC
   display_name: LTC/MXN
   exchange_name: CRYPTOCURRENCY
@@ -4174,8 +4174,8 @@ LTCMXN:
   pip_size: 0.0001
   quoted_currency: MXN
   submarket: non_stable_coin
-  symbol: LTCMXN
-LTCNOK:
+  symbol: cryLTCMXN
+cryLTCNOK:
   asset: LTC
   display_name: LTC/NOK
   exchange_name: CRYPTOCURRENCY
@@ -4184,8 +4184,8 @@ LTCNOK:
   pip_size: 0.0001
   quoted_currency: NOK
   submarket: non_stable_coin
-  symbol: LTCNOK
-LTCNZD:
+  symbol: cryLTCNOK
+cryLTCNZD:
   asset: LTC
   display_name: LTC/NZD
   exchange_name: CRYPTOCURRENCY
@@ -4194,8 +4194,8 @@ LTCNZD:
   pip_size: 0.0001
   quoted_currency: NZD
   submarket: non_stable_coin
-  symbol: LTCNZD
-LTCPLN:
+  symbol: cryLTCNZD
+cryLTCPLN:
   asset: LTC
   display_name: LTC/PLN
   exchange_name: CRYPTOCURRENCY
@@ -4204,8 +4204,8 @@ LTCPLN:
   pip_size: 0.0001
   quoted_currency: PLN
   submarket: non_stable_coin
-  symbol: LTCPLN
-LTCRUB:
+  symbol: cryLTCPLN
+cryLTCRUB:
   asset: LTC
   display_name: LTC/RUB
   exchange_name: CRYPTOCURRENCY
@@ -4214,8 +4214,8 @@ LTCRUB:
   pip_size: 0.0001
   quoted_currency: RUB
   submarket: non_stable_coin
-  symbol: LTCRUB
-LTCSAR:
+  symbol: cryLTCRUB
+cryLTCSAR:
   asset: LTC
   display_name: LTC/SAR
   exchange_name: CRYPTOCURRENCY
@@ -4224,8 +4224,8 @@ LTCSAR:
   pip_size: 0.0001
   quoted_currency: SAR
   submarket: non_stable_coin
-  symbol: LTCSAR
-LTCSEK:
+  symbol: cryLTCSAR
+cryLTCSEK:
   asset: LTC
   display_name: LTC/SEK
   exchange_name: CRYPTOCURRENCY
@@ -4234,8 +4234,8 @@ LTCSEK:
   pip_size: 0.0001
   quoted_currency: SEK
   submarket: non_stable_coin
-  symbol: LTCSEK
-LTCSGD:
+  symbol: cryLTCSEK
+cryLTCSGD:
   asset: LTC
   display_name: LTC/SGD
   exchange_name: CRYPTOCURRENCY
@@ -4244,8 +4244,8 @@ LTCSGD:
   pip_size: 0.0001
   quoted_currency: SGD
   submarket: non_stable_coin
-  symbol: LTCSGD
-LTCTRY:
+  symbol: cryLTCSGD
+cryLTCTRY:
   asset: LTC
   display_name: LTC/TRY
   exchange_name: CRYPTOCURRENCY
@@ -4254,8 +4254,8 @@ LTCTRY:
   pip_size: 0.0001
   quoted_currency: TRY
   submarket: non_stable_coin
-  symbol: LTCTRY
-LTCUSD:
+  symbol: cryLTCTRY
+cryLTCUSD:
   asset: LTC
   display_name: LTC/USD
   exchange_name: CRYPTOCURRENCY
@@ -4264,8 +4264,8 @@ LTCUSD:
   pip_size: 0.0001
   quoted_currency: USD
   submarket: non_stable_coin
-  symbol: LTCUSD
-LTCXAG:
+  symbol: cryLTCUSD
+cryLTCXAG:
   asset: LTC
   display_name: LTC/XAG
   exchange_name: CRYPTOCURRENCY
@@ -4274,8 +4274,8 @@ LTCXAG:
   pip_size: 0.0001
   quoted_currency: XAG
   submarket: non_stable_coin
-  symbol: LTCXAG
-LTCXAU:
+  symbol: cryLTCXAG
+cryLTCXAU:
   asset: LTC
   display_name: LTC/XAU
   exchange_name: CRYPTOCURRENCY
@@ -4284,8 +4284,8 @@ LTCXAU:
   pip_size: 0.0001
   quoted_currency: XAU
   submarket: non_stable_coin
-  symbol: LTCXAU
-LTCZAR:
+  symbol: cryLTCXAU
+cryLTCZAR:
   asset: LTC
   display_name: LTC/ZAR
   exchange_name: CRYPTOCURRENCY
@@ -4294,8 +4294,8 @@ LTCZAR:
   pip_size: 0.0001
   quoted_currency: ZAR
   submarket: non_stable_coin
-  symbol: LTCZAR
-BCHBRO:
+  symbol: cryLTCZAR
+cryBCHBRO:
   asset: BCH
   display_name: BCH/BRO
   exchange_name: CRYPTOCURRENCY
@@ -4304,8 +4304,8 @@ BCHBRO:
   pip_size: 0.0001
   quoted_currency: BRO
   submarket: non_stable_coin
-  symbol: BCHBRO
-BCHXPD:
+  symbol: cryBCHBRO
+cryBCHXPD:
   asset: BCH
   display_name: BCH/XPD
   exchange_name: CRYPTOCURRENCY
@@ -4314,8 +4314,8 @@ BCHXPD:
   pip_size: 0.0001
   quoted_currency: XPD
   submarket: non_stable_coin
-  symbol: BCHXPD
-BCHXPT:
+  symbol: cryBCHXPD
+cryBCHXPT:
   asset: BCH
   display_name: BCH/XPT
   exchange_name: CRYPTOCURRENCY
@@ -4324,8 +4324,8 @@ BCHXPT:
   pip_size: 0.0001
   quoted_currency: XPT
   submarket: non_stable_coin
-  symbol: BCHXPT
-BTCBRO:
+  symbol: cryBCHXPT
+cryBTCBRO:
   asset: BTC
   display_name: BTC/BRO
   exchange_name: CRYPTOCURRENCY
@@ -4334,8 +4334,8 @@ BTCBRO:
   pip_size: 0.0001
   quoted_currency: BRO
   submarket: non_stable_coin
-  symbol: BTCBRO
-BTCXPD:
+  symbol: cryBTCBRO
+cryBTCXPD:
   asset: BTC
   display_name: BTC/XPD
   exchange_name: CRYPTOCURRENCY
@@ -4344,8 +4344,8 @@ BTCXPD:
   pip_size: 0.0001
   quoted_currency: XPD
   submarket: non_stable_coin
-  symbol: BTCXPD
-BTCXPT:
+  symbol: cryBTCXPD
+cryBTCXPT:
   asset: BTC
   display_name: BTC/XPT
   exchange_name: CRYPTOCURRENCY
@@ -4354,8 +4354,8 @@ BTCXPT:
   pip_size: 0.0001
   quoted_currency: XPT
   submarket: non_stable_coin
-  symbol: BTCXPT
-ETCBRO:
+  symbol: cryBTCXPT
+cryETCBRO:
   asset: ETC
   display_name: ETC/BRO
   exchange_name: CRYPTOCURRENCY
@@ -4364,8 +4364,8 @@ ETCBRO:
   pip_size: 0.0001
   quoted_currency: BRO
   submarket: non_stable_coin
-  symbol: ETCBRO
-ETCXPD:
+  symbol: cryETCBRO
+cryETCXPD:
   asset: ETC
   display_name: ETC/XPD
   exchange_name: CRYPTOCURRENCY
@@ -4374,8 +4374,8 @@ ETCXPD:
   pip_size: 0.0001
   quoted_currency: XPD
   submarket: non_stable_coin
-  symbol: ETCXPD
-ETCXPT:
+  symbol: cryETCXPD
+cryETCXPT:
   asset: ETC
   display_name: ETC/XPT
   exchange_name: CRYPTOCURRENCY
@@ -4384,8 +4384,8 @@ ETCXPT:
   pip_size: 0.0001
   quoted_currency: XPT
   submarket: non_stable_coin
-  symbol: ETCXPT
-ETHBRO:
+  symbol: cryETCXPT
+cryETHBRO:
   asset: ETH
   display_name: ETH/BRO
   exchange_name: CRYPTOCURRENCY
@@ -4394,8 +4394,8 @@ ETHBRO:
   pip_size: 0.0001
   quoted_currency: BRO
   submarket: non_stable_coin
-  symbol: ETHBRO
-ETHXPD:
+  symbol: cryETHBRO
+cryETHXPD:
   asset: ETH
   display_name: ETH/XPD
   exchange_name: CRYPTOCURRENCY
@@ -4404,8 +4404,8 @@ ETHXPD:
   pip_size: 0.0001
   quoted_currency: XPD
   submarket: non_stable_coin
-  symbol: ETHXPD
-ETHXPT:
+  symbol: cryETHXPD
+cryETHXPT:
   asset: ETH
   display_name: ETH/XPT
   exchange_name: CRYPTOCURRENCY
@@ -4414,8 +4414,8 @@ ETHXPT:
   pip_size: 0.0001
   quoted_currency: XPT
   submarket: non_stable_coin
-  symbol: ETHXPT
-LTCBRO:
+  symbol: cryETHXPT
+cryLTCBRO:
   asset: LTC
   display_name: LTC/BRO
   exchange_name: CRYPTOCURRENCY
@@ -4424,8 +4424,8 @@ LTCBRO:
   pip_size: 0.0001
   quoted_currency: BRO
   submarket: non_stable_coin
-  symbol: LTCBRO
-LTCXPD:
+  symbol: cryLTCBRO
+cryLTCXPD:
   asset: LTC
   display_name: LTC/XPD
   exchange_name: CRYPTOCURRENCY
@@ -4434,8 +4434,8 @@ LTCXPD:
   pip_size: 0.0001
   quoted_currency: XPD
   submarket: non_stable_coin
-  symbol: LTCXPD
-LTCXPT:
+  symbol: cryLTCXPD
+cryLTCXPT:
   asset: LTC
   display_name: LTC/XPT
   exchange_name: CRYPTOCURRENCY
@@ -4444,8 +4444,8 @@ LTCXPT:
   pip_size: 0.0001
   quoted_currency: XPT
   submarket: non_stable_coin
-  symbol: LTCXPT
-DAIAED:
+  symbol: cryLTCXPT
+cryDAIAED:
   asset: DAI
   display_name: DAI/AED
   exchange_name: CRYPTOCURRENCY
@@ -4454,8 +4454,8 @@ DAIAED:
   pip_size: 0.01
   quoted_currency: AED
   submarket: stable_coin
-  symbol: DAIAED
-DAIAUD:
+  symbol: cryDAIAED
+cryDAIAUD:
   asset: DAI
   display_name: DAI/AUD
   exchange_name: CRYPTOCURRENCY
@@ -4464,8 +4464,8 @@ DAIAUD:
   pip_size: 0.01
   quoted_currency: AUD
   submarket: stable_coin
-  symbol: DAIAUD
-DAIBRL:
+  symbol: cryDAIAUD
+cryDAIBRL:
   asset: DAI
   display_name: DAI/BRL
   exchange_name: CRYPTOCURRENCY
@@ -4474,8 +4474,8 @@ DAIBRL:
   pip_size: 0.01
   quoted_currency: BRL
   submarket: stable_coin
-  symbol: DAIBRL
-DAICAD:
+  symbol: cryDAIBRL
+cryDAICAD:
   asset: DAI
   display_name: DAI/CAD
   exchange_name: CRYPTOCURRENCY
@@ -4484,8 +4484,8 @@ DAICAD:
   pip_size: 0.01
   quoted_currency: CAD
   submarket: stable_coin
-  symbol: DAICAD
-DAICHF:
+  symbol: cryDAICAD
+cryDAICHF:
   asset: DAI
   display_name: DAI/CHF
   exchange_name: CRYPTOCURRENCY
@@ -4494,8 +4494,8 @@ DAICHF:
   pip_size: 0.01
   quoted_currency: CHF
   submarket: stable_coin
-  symbol: DAICHF
-DAICNY:
+  symbol: cryDAICHF
+cryDAICNY:
   asset: DAI
   display_name: DAI/CNY
   exchange_name: CRYPTOCURRENCY
@@ -4504,8 +4504,8 @@ DAICNY:
   pip_size: 0.01
   quoted_currency: CNY
   submarket: stable_coin
-  symbol: DAICNY
-DAICZK:
+  symbol: cryDAICNY
+cryDAICZK:
   asset: DAI
   display_name: DAI/CZK
   exchange_name: CRYPTOCURRENCY
@@ -4514,8 +4514,8 @@ DAICZK:
   pip_size: 0.01
   quoted_currency: CZK
   submarket: stable_coin
-  symbol: DAICZK
-DAIEGP:
+  symbol: cryDAICZK
+cryDAIEGP:
   asset: DAI
   display_name: DAI/EGP
   exchange_name: CRYPTOCURRENCY
@@ -4524,8 +4524,8 @@ DAIEGP:
   pip_size: 0.01
   quoted_currency: EGP
   submarket: stable_coin
-  symbol: DAIEGP
-DAIEUR:
+  symbol: cryDAIEGP
+cryDAIEUR:
   asset: DAI
   display_name: DAI/EUR
   exchange_name: CRYPTOCURRENCY
@@ -4534,8 +4534,8 @@ DAIEUR:
   pip_size: 0.01
   quoted_currency: EUR
   submarket: stable_coin
-  symbol: DAIEUR
-DAIGBP:
+  symbol: cryDAIEUR
+cryDAIGBP:
   asset: DAI
   display_name: DAI/GBP
   exchange_name: CRYPTOCURRENCY
@@ -4544,8 +4544,8 @@ DAIGBP:
   pip_size: 0.01
   quoted_currency: GBP
   submarket: stable_coin
-  symbol: DAIGBP
-DAIHKD:
+  symbol: cryDAIGBP
+cryDAIHKD:
   asset: DAI
   display_name: DAI/HKD
   exchange_name: CRYPTOCURRENCY
@@ -4554,8 +4554,8 @@ DAIHKD:
   pip_size: 0.01
   quoted_currency: HKD
   submarket: stable_coin
-  symbol: DAIHKD
-DAIIDR:
+  symbol: cryDAIHKD
+cryDAIIDR:
   asset: DAI
   display_name: DAI/IDR
   exchange_name: CRYPTOCURRENCY
@@ -4564,8 +4564,8 @@ DAIIDR:
   pip_size: 0.01
   quoted_currency: IDR
   submarket: stable_coin
-  symbol: DAIIDR
-DAIINR:
+  symbol: cryDAIIDR
+cryDAIINR:
   asset: DAI
   display_name: DAI/INR
   exchange_name: CRYPTOCURRENCY
@@ -4574,8 +4574,8 @@ DAIINR:
   pip_size: 0.01
   quoted_currency: INR
   submarket: stable_coin
-  symbol: DAIINR
-DAIJPY:
+  symbol: cryDAIINR
+cryDAIJPY:
   asset: DAI
   display_name: DAI/JPY
   exchange_name: CRYPTOCURRENCY
@@ -4584,8 +4584,8 @@ DAIJPY:
   pip_size: 0.01
   quoted_currency: JPY
   submarket: stable_coin
-  symbol: DAIJPY
-DAIKRW:
+  symbol: cryDAIJPY
+cryDAIKRW:
   asset: DAI
   display_name: DAI/KRW
   exchange_name: CRYPTOCURRENCY
@@ -4594,8 +4594,8 @@ DAIKRW:
   pip_size: 0.01
   quoted_currency: KRW
   submarket: stable_coin
-  symbol: DAIKRW
-DAIKWD:
+  symbol: cryDAIKRW
+cryDAIKWD:
   asset: DAI
   display_name: DAI/KWD
   exchange_name: CRYPTOCURRENCY
@@ -4604,8 +4604,8 @@ DAIKWD:
   pip_size: 0.01
   quoted_currency: KWD
   submarket: stable_coin
-  symbol: DAIKWD
-DAIMXN:
+  symbol: cryDAIKWD
+cryDAIMXN:
   asset: DAI
   display_name: DAI/MXN
   exchange_name: CRYPTOCURRENCY
@@ -4614,8 +4614,8 @@ DAIMXN:
   pip_size: 0.01
   quoted_currency: MXN
   submarket: stable_coin
-  symbol: DAIMXN
-DAINOK:
+  symbol: cryDAIMXN
+cryDAINOK:
   asset: DAI
   display_name: DAI/NOK
   exchange_name: CRYPTOCURRENCY
@@ -4624,8 +4624,8 @@ DAINOK:
   pip_size: 0.01
   quoted_currency: NOK
   submarket: stable_coin
-  symbol: DAINOK
-DAINZD:
+  symbol: cryDAINOK
+cryDAINZD:
   asset: DAI
   display_name: DAI/NZD
   exchange_name: CRYPTOCURRENCY
@@ -4634,8 +4634,8 @@ DAINZD:
   pip_size: 0.01
   quoted_currency: NZD
   submarket: stable_coin
-  symbol: DAINZD
-DAIPLN:
+  symbol: cryDAINZD
+cryDAIPLN:
   asset: DAI
   display_name: DAI/PLN
   exchange_name: CRYPTOCURRENCY
@@ -4644,8 +4644,8 @@ DAIPLN:
   pip_size: 0.01
   quoted_currency: PLN
   submarket: stable_coin
-  symbol: DAIPLN
-DAIRUB:
+  symbol: cryDAIPLN
+cryDAIRUB:
   asset: DAI
   display_name: DAI/RUB
   exchange_name: CRYPTOCURRENCY
@@ -4654,8 +4654,8 @@ DAIRUB:
   pip_size: 0.01
   quoted_currency: RUB
   submarket: stable_coin
-  symbol: DAIRUB
-DAISAR:
+  symbol: cryDAIRUB
+cryDAISAR:
   asset: DAI
   display_name: DAI/SAR
   exchange_name: CRYPTOCURRENCY
@@ -4664,8 +4664,8 @@ DAISAR:
   pip_size: 0.01
   quoted_currency: SAR
   submarket: stable_coin
-  symbol: DAISAR
-DAISEK:
+  symbol: cryDAISAR
+cryDAISEK:
   asset: DAI
   display_name: DAI/SEK
   exchange_name: CRYPTOCURRENCY
@@ -4674,8 +4674,8 @@ DAISEK:
   pip_size: 0.01
   quoted_currency: SEK
   submarket: stable_coin
-  symbol: DAISEK
-DAISGD:
+  symbol: cryDAISEK
+cryDAISGD:
   asset: DAI
   display_name: DAI/SGD
   exchange_name: CRYPTOCURRENCY
@@ -4684,8 +4684,8 @@ DAISGD:
   pip_size: 0.01
   quoted_currency: SGD
   submarket: stable_coin
-  symbol: DAISGD
-DAITRY:
+  symbol: cryDAISGD
+cryDAITRY:
   asset: DAI
   display_name: DAI/TRY
   exchange_name: CRYPTOCURRENCY
@@ -4694,8 +4694,8 @@ DAITRY:
   pip_size: 0.01
   quoted_currency: TRY
   submarket: stable_coin
-  symbol: DAITRY
-DAIUSD:
+  symbol: cryDAITRY
+cryDAIUSD:
   asset: DAI
   display_name: DAI/USD
   exchange_name: CRYPTOCURRENCY
@@ -4704,8 +4704,8 @@ DAIUSD:
   pip_size: 0.01
   quoted_currency: USD
   submarket: stable_coin
-  symbol: DAIUSD
-DAIXAG:
+  symbol: cryDAIUSD
+cryDAIXAG:
   asset: DAI
   display_name: DAI/XAG
   exchange_name: CRYPTOCURRENCY
@@ -4714,8 +4714,8 @@ DAIXAG:
   pip_size: 0.01
   quoted_currency: XAG
   submarket: stable_coin
-  symbol: DAIXAG
-DAIXAU:
+  symbol: cryDAIXAG
+cryDAIXAU:
   asset: DAI
   display_name: DAI/XAU
   exchange_name: CRYPTOCURRENCY
@@ -4724,8 +4724,8 @@ DAIXAU:
   pip_size: 0.01
   quoted_currency: XAU
   submarket: stable_coin
-  symbol: DAIXAU
-DAIZAR:
+  symbol: cryDAIXAU
+cryDAIZAR:
   asset: DAI
   display_name: DAI/ZAR
   exchange_name: CRYPTOCURRENCY
@@ -4734,8 +4734,8 @@ DAIZAR:
   pip_size: 0.01
   quoted_currency: ZAR
   submarket: stable_coin
-  symbol: DAIZAR
-DAIBRO:
+  symbol: cryDAIZAR
+cryDAIBRO:
   asset: DAI
   display_name: DAI/BRO
   exchange_name: CRYPTOCURRENCY
@@ -4744,8 +4744,8 @@ DAIBRO:
   pip_size: 0.01
   quoted_currency: BRO
   submarket: stable_coin
-  symbol: DAIBRO
-DAIXPD:
+  symbol: cryDAIBRO
+cryDAIXPD:
   asset: DAI
   display_name: DAI/XPD
   exchange_name: CRYPTOCURRENCY
@@ -4754,8 +4754,8 @@ DAIXPD:
   pip_size: 0.01
   quoted_currency: XPD
   submarket: stable_coin
-  symbol: DAIXPD
-DAIXPT:
+  symbol: cryDAIXPD
+cryDAIXPT:
   asset: DAI
   display_name: DAI/XPT
   exchange_name: CRYPTOCURRENCY
@@ -4764,8 +4764,8 @@ DAIXPT:
   pip_size: 0.01
   quoted_currency: XPT
   submarket: stable_coin
-  symbol: DAIXPT
-USTAED:
+  symbol: cryDAIXPT
+cryUSTAED:
   asset: UST
   display_name: UST/AED
   exchange_name: CRYPTOCURRENCY
@@ -4774,8 +4774,8 @@ USTAED:
   pip_size: 0.01
   quoted_currency: AED
   submarket: stable_coin
-  symbol: USTAED
-USTAUD:
+  symbol: cryUSTAED
+cryUSTAUD:
   asset: UST
   display_name: UST/AUD
   exchange_name: CRYPTOCURRENCY
@@ -4784,8 +4784,8 @@ USTAUD:
   pip_size: 0.01
   quoted_currency: AUD
   submarket: stable_coin
-  symbol: USTAUD
-USTBRL:
+  symbol: cryUSTAUD
+cryUSTBRL:
   asset: UST
   display_name: UST/BRL
   exchange_name: CRYPTOCURRENCY
@@ -4794,8 +4794,8 @@ USTBRL:
   pip_size: 0.01
   quoted_currency: BRL
   submarket: stable_coin
-  symbol: USTBRL
-USTCAD:
+  symbol: cryUSTBRL
+cryUSTCAD:
   asset: UST
   display_name: UST/CAD
   exchange_name: CRYPTOCURRENCY
@@ -4804,8 +4804,8 @@ USTCAD:
   pip_size: 0.01
   quoted_currency: CAD
   submarket: stable_coin
-  symbol: USTCAD
-USTCHF:
+  symbol: cryUSTCAD
+cryUSTCHF:
   asset: UST
   display_name: UST/CHF
   exchange_name: CRYPTOCURRENCY
@@ -4814,8 +4814,8 @@ USTCHF:
   pip_size: 0.01
   quoted_currency: CHF
   submarket: stable_coin
-  symbol: USTCHF
-USTCNY:
+  symbol: cryUSTCHF
+cryUSTCNY:
   asset: UST
   display_name: UST/CNY
   exchange_name: CRYPTOCURRENCY
@@ -4824,8 +4824,8 @@ USTCNY:
   pip_size: 0.01
   quoted_currency: CNY
   submarket: stable_coin
-  symbol: USTCNY
-USTCZK:
+  symbol: cryUSTCNY
+cryUSTCZK:
   asset: UST
   display_name: UST/CZK
   exchange_name: CRYPTOCURRENCY
@@ -4834,8 +4834,8 @@ USTCZK:
   pip_size: 0.01
   quoted_currency: CZK
   submarket: stable_coin
-  symbol: USTCZK
-USTEGP:
+  symbol: cryUSTCZK
+cryUSTEGP:
   asset: UST
   display_name: UST/EGP
   exchange_name: CRYPTOCURRENCY
@@ -4844,8 +4844,8 @@ USTEGP:
   pip_size: 0.01
   quoted_currency: EGP
   submarket: stable_coin
-  symbol: USTEGP
-USTEUR:
+  symbol: cryUSTEGP
+cryUSTEUR:
   asset: UST
   display_name: UST/EUR
   exchange_name: CRYPTOCURRENCY
@@ -4854,8 +4854,8 @@ USTEUR:
   pip_size: 0.01
   quoted_currency: EUR
   submarket: stable_coin
-  symbol: USTEUR
-USTGBP:
+  symbol: cryUSTEUR
+cryUSTGBP:
   asset: UST
   display_name: UST/GBP
   exchange_name: CRYPTOCURRENCY
@@ -4864,8 +4864,8 @@ USTGBP:
   pip_size: 0.01
   quoted_currency: GBP
   submarket: stable_coin
-  symbol: USTGBP
-USTHKD:
+  symbol: cryUSTGBP
+cryUSTHKD:
   asset: UST
   display_name: UST/HKD
   exchange_name: CRYPTOCURRENCY
@@ -4874,8 +4874,8 @@ USTHKD:
   pip_size: 0.01
   quoted_currency: HKD
   submarket: stable_coin
-  symbol: USTHKD
-USTIDR:
+  symbol: cryUSTHKD
+cryUSTIDR:
   asset: UST
   display_name: UST/IDR
   exchange_name: CRYPTOCURRENCY
@@ -4884,8 +4884,8 @@ USTIDR:
   pip_size: 0.01
   quoted_currency: IDR
   submarket: stable_coin
-  symbol: USTIDR
-USTINR:
+  symbol: cryUSTIDR
+cryUSTINR:
   asset: UST
   display_name: UST/INR
   exchange_name: CRYPTOCURRENCY
@@ -4894,8 +4894,8 @@ USTINR:
   pip_size: 0.01
   quoted_currency: INR
   submarket: stable_coin
-  symbol: USTINR
-USTJPY:
+  symbol: cryUSTINR
+cryUSTJPY:
   asset: UST
   display_name: UST/JPY
   exchange_name: CRYPTOCURRENCY
@@ -4904,8 +4904,8 @@ USTJPY:
   pip_size: 0.01
   quoted_currency: JPY
   submarket: stable_coin
-  symbol: USTJPY
-USTKRW:
+  symbol: cryUSTJPY
+cryUSTKRW:
   asset: UST
   display_name: UST/KRW
   exchange_name: CRYPTOCURRENCY
@@ -4914,8 +4914,8 @@ USTKRW:
   pip_size: 0.01
   quoted_currency: KRW
   submarket: stable_coin
-  symbol: USTKRW
-USTKWD:
+  symbol: cryUSTKRW
+cryUSTKWD:
   asset: UST
   display_name: UST/KWD
   exchange_name: CRYPTOCURRENCY
@@ -4924,8 +4924,8 @@ USTKWD:
   pip_size: 0.01
   quoted_currency: KWD
   submarket: stable_coin
-  symbol: USTKWD
-USTMXN:
+  symbol: cryUSTKWD
+cryUSTMXN:
   asset: UST
   display_name: UST/MXN
   exchange_name: CRYPTOCURRENCY
@@ -4934,8 +4934,8 @@ USTMXN:
   pip_size: 0.01
   quoted_currency: MXN
   submarket: stable_coin
-  symbol: USTMXN
-USTNOK:
+  symbol: cryUSTMXN
+cryUSTNOK:
   asset: UST
   display_name: UST/NOK
   exchange_name: CRYPTOCURRENCY
@@ -4944,8 +4944,8 @@ USTNOK:
   pip_size: 0.01
   quoted_currency: NOK
   submarket: stable_coin
-  symbol: USTNOK
-USTNZD:
+  symbol: cryUSTNOK
+cryUSTNZD:
   asset: UST
   display_name: UST/NZD
   exchange_name: CRYPTOCURRENCY
@@ -4954,8 +4954,8 @@ USTNZD:
   pip_size: 0.01
   quoted_currency: NZD
   submarket: stable_coin
-  symbol: USTNZD
-USTPLN:
+  symbol: cryUSTNZD
+cryUSTPLN:
   asset: UST
   display_name: UST/PLN
   exchange_name: CRYPTOCURRENCY
@@ -4964,8 +4964,8 @@ USTPLN:
   pip_size: 0.01
   quoted_currency: PLN
   submarket: stable_coin
-  symbol: USTPLN
-USTRUB:
+  symbol: cryUSTPLN
+cryUSTRUB:
   asset: UST
   display_name: UST/RUB
   exchange_name: CRYPTOCURRENCY
@@ -4974,8 +4974,8 @@ USTRUB:
   pip_size: 0.01
   quoted_currency: RUB
   submarket: stable_coin
-  symbol: USTRUB
-USTSAR:
+  symbol: cryUSTRUB
+cryUSTSAR:
   asset: UST
   display_name: UST/SAR
   exchange_name: CRYPTOCURRENCY
@@ -4984,8 +4984,8 @@ USTSAR:
   pip_size: 0.01
   quoted_currency: SAR
   submarket: stable_coin
-  symbol: USTSAR
-USTSEK:
+  symbol: cryUSTSAR
+cryUSTSEK:
   asset: UST
   display_name: UST/SEK
   exchange_name: CRYPTOCURRENCY
@@ -4994,8 +4994,8 @@ USTSEK:
   pip_size: 0.01
   quoted_currency: SEK
   submarket: stable_coin
-  symbol: USTSEK
-USTSGD:
+  symbol: cryUSTSEK
+cryUSTSGD:
   asset: UST
   display_name: UST/SGD
   exchange_name: CRYPTOCURRENCY
@@ -5004,8 +5004,8 @@ USTSGD:
   pip_size: 0.01
   quoted_currency: SGD
   submarket: stable_coin
-  symbol: USTSGD
-USTTRY:
+  symbol: cryUSTSGD
+cryUSTTRY:
   asset: UST
   display_name: UST/TRY
   exchange_name: CRYPTOCURRENCY
@@ -5014,8 +5014,8 @@ USTTRY:
   pip_size: 0.01
   quoted_currency: TRY
   submarket: stable_coin
-  symbol: USTTRY
-USTUSD:
+  symbol: cryUSTTRY
+cryUSTUSD:
   asset: UST
   display_name: UST/USD
   exchange_name: CRYPTOCURRENCY
@@ -5024,8 +5024,8 @@ USTUSD:
   pip_size: 0.01
   quoted_currency: USD
   submarket: stable_coin
-  symbol: USTUSD
-USTXAG:
+  symbol: cryUSTUSD
+cryUSTXAG:
   asset: UST
   display_name: UST/XAG
   exchange_name: CRYPTOCURRENCY
@@ -5034,8 +5034,8 @@ USTXAG:
   pip_size: 0.01
   quoted_currency: XAG
   submarket: stable_coin
-  symbol: USTXAG
-USTXAU:
+  symbol: cryUSTXAG
+cryUSTXAU:
   asset: UST
   display_name: UST/XAU
   exchange_name: CRYPTOCURRENCY
@@ -5044,8 +5044,8 @@ USTXAU:
   pip_size: 0.01
   quoted_currency: XAU
   submarket: stable_coin
-  symbol: USTXAU
-USTZAR:
+  symbol: cryUSTXAU
+cryUSTZAR:
   asset: UST
   display_name: UST/ZAR
   exchange_name: CRYPTOCURRENCY
@@ -5054,8 +5054,8 @@ USTZAR:
   pip_size: 0.01
   quoted_currency: ZAR
   submarket: stable_coin
-  symbol: USTZAR
-USTBRO:
+  symbol: cryUSTZAR
+cryUSTBRO:
   asset: UST
   display_name: UST/BRO
   exchange_name: CRYPTOCURRENCY
@@ -5064,8 +5064,8 @@ USTBRO:
   pip_size: 0.01
   quoted_currency: BRO
   submarket: stable_coin
-  symbol: USTBRO
-USTXPD:
+  symbol: cryUSTBRO
+cryUSTXPD:
   asset: UST
   display_name: UST/XPD
   exchange_name: CRYPTOCURRENCY
@@ -5074,8 +5074,8 @@ USTXPD:
   pip_size: 0.01
   quoted_currency: XPD
   submarket: stable_coin
-  symbol: USTXPD
-USTXPT:
+  symbol: cryUSTXPD
+cryUSTXPT:
   asset: UST
   display_name: UST/XPT
   exchange_name: CRYPTOCURRENCY
@@ -5084,8 +5084,8 @@ USTXPT:
   pip_size: 0.01
   quoted_currency: XPT
   submarket: stable_coin
-  symbol: USTXPT
-USBAED:
+  symbol: cryUSTXPT
+cryUSBAED:
   asset: USB
   display_name: USB/AED
   exchange_name: CRYPTOCURRENCY
@@ -5094,8 +5094,8 @@ USBAED:
   pip_size: 0.01
   quoted_currency: AED
   submarket: stable_coin
-  symbol: USBAED
-USBAUD:
+  symbol: cryUSBAED
+cryUSBAUD:
   asset: USB
   display_name: USB/AUD
   exchange_name: CRYPTOCURRENCY
@@ -5104,8 +5104,8 @@ USBAUD:
   pip_size: 0.01
   quoted_currency: AUD
   submarket: stable_coin
-  symbol: USBAUD
-USBBRL:
+  symbol: cryUSBAUD
+cryUSBBRL:
   asset: USB
   display_name: USB/BRL
   exchange_name: CRYPTOCURRENCY
@@ -5114,8 +5114,8 @@ USBBRL:
   pip_size: 0.01
   quoted_currency: BRL
   submarket: stable_coin
-  symbol: USBBRL
-USBCAD:
+  symbol: cryUSBBRL
+cryUSBCAD:
   asset: USB
   display_name: USB/CAD
   exchange_name: CRYPTOCURRENCY
@@ -5124,8 +5124,8 @@ USBCAD:
   pip_size: 0.01
   quoted_currency: CAD
   submarket: stable_coin
-  symbol: USBCAD
-USBCHF:
+  symbol: cryUSBCAD
+cryUSBCHF:
   asset: USB
   display_name: USB/CHF
   exchange_name: CRYPTOCURRENCY
@@ -5134,8 +5134,8 @@ USBCHF:
   pip_size: 0.01
   quoted_currency: CHF
   submarket: stable_coin
-  symbol: USBCHF
-USBCNY:
+  symbol: cryUSBCHF
+cryUSBCNY:
   asset: USB
   display_name: USB/CNY
   exchange_name: CRYPTOCURRENCY
@@ -5144,8 +5144,8 @@ USBCNY:
   pip_size: 0.01
   quoted_currency: CNY
   submarket: stable_coin
-  symbol: USBCNY
-USBCZK:
+  symbol: cryUSBCNY
+cryUSBCZK:
   asset: USB
   display_name: USB/CZK
   exchange_name: CRYPTOCURRENCY
@@ -5154,8 +5154,8 @@ USBCZK:
   pip_size: 0.01
   quoted_currency: CZK
   submarket: stable_coin
-  symbol: USBCZK
-USBEGP:
+  symbol: cryUSBCZK
+cryUSBEGP:
   asset: USB
   display_name: USB/EGP
   exchange_name: CRYPTOCURRENCY
@@ -5164,8 +5164,8 @@ USBEGP:
   pip_size: 0.01
   quoted_currency: EGP
   submarket: stable_coin
-  symbol: USBEGP
-USBEUR:
+  symbol: cryUSBEGP
+cryUSBEUR:
   asset: USB
   display_name: USB/EUR
   exchange_name: CRYPTOCURRENCY
@@ -5174,8 +5174,8 @@ USBEUR:
   pip_size: 0.01
   quoted_currency: EUR
   submarket: stable_coin
-  symbol: USBEUR
-USBGBP:
+  symbol: cryUSBEUR
+cryUSBGBP:
   asset: USB
   display_name: USB/GBP
   exchange_name: CRYPTOCURRENCY
@@ -5184,8 +5184,8 @@ USBGBP:
   pip_size: 0.01
   quoted_currency: GBP
   submarket: stable_coin
-  symbol: USBGBP
-USBHKD:
+  symbol: cryUSBGBP
+cryUSBHKD:
   asset: USB
   display_name: USB/HKD
   exchange_name: CRYPTOCURRENCY
@@ -5194,8 +5194,8 @@ USBHKD:
   pip_size: 0.01
   quoted_currency: HKD
   submarket: stable_coin
-  symbol: USBHKD
-USBIDR:
+  symbol: cryUSBHKD
+cryUSBIDR:
   asset: USB
   display_name: USB/IDR
   exchange_name: CRYPTOCURRENCY
@@ -5204,8 +5204,8 @@ USBIDR:
   pip_size: 0.01
   quoted_currency: IDR
   submarket: stable_coin
-  symbol: USBIDR
-USBINR:
+  symbol: cryUSBIDR
+cryUSBINR:
   asset: USB
   display_name: USB/INR
   exchange_name: CRYPTOCURRENCY
@@ -5214,8 +5214,8 @@ USBINR:
   pip_size: 0.01
   quoted_currency: INR
   submarket: stable_coin
-  symbol: USBINR
-USBJPY:
+  symbol: cryUSBINR
+cryUSBJPY:
   asset: USB
   display_name: USB/JPY
   exchange_name: CRYPTOCURRENCY
@@ -5224,8 +5224,8 @@ USBJPY:
   pip_size: 0.01
   quoted_currency: JPY
   submarket: stable_coin
-  symbol: USBJPY
-USBKRW:
+  symbol: cryUSBJPY
+cryUSBKRW:
   asset: USB
   display_name: USB/KRW
   exchange_name: CRYPTOCURRENCY
@@ -5234,8 +5234,8 @@ USBKRW:
   pip_size: 0.01
   quoted_currency: KRW
   submarket: stable_coin
-  symbol: USBKRW
-USBKWD:
+  symbol: cryUSBKRW
+cryUSBKWD:
   asset: USB
   display_name: USB/KWD
   exchange_name: CRYPTOCURRENCY
@@ -5244,8 +5244,8 @@ USBKWD:
   pip_size: 0.01
   quoted_currency: KWD
   submarket: stable_coin
-  symbol: USBKWD
-USBMXN:
+  symbol: cryUSBKWD
+cryUSBMXN:
   asset: USB
   display_name: USB/MXN
   exchange_name: CRYPTOCURRENCY
@@ -5254,8 +5254,8 @@ USBMXN:
   pip_size: 0.01
   quoted_currency: MXN
   submarket: stable_coin
-  symbol: USBMXN
-USBNOK:
+  symbol: cryUSBMXN
+cryUSBNOK:
   asset: USB
   display_name: USB/NOK
   exchange_name: CRYPTOCURRENCY
@@ -5264,8 +5264,8 @@ USBNOK:
   pip_size: 0.01
   quoted_currency: NOK
   submarket: stable_coin
-  symbol: USBNOK
-USBNZD:
+  symbol: cryUSBNOK
+cryUSBNZD:
   asset: USB
   display_name: USB/NZD
   exchange_name: CRYPTOCURRENCY
@@ -5274,8 +5274,8 @@ USBNZD:
   pip_size: 0.01
   quoted_currency: NZD
   submarket: stable_coin
-  symbol: USBNZD
-USBPLN:
+  symbol: cryUSBNZD
+cryUSBPLN:
   asset: USB
   display_name: USB/PLN
   exchange_name: CRYPTOCURRENCY
@@ -5284,8 +5284,8 @@ USBPLN:
   pip_size: 0.01
   quoted_currency: PLN
   submarket: stable_coin
-  symbol: USBPLN
-USBRUB:
+  symbol: cryUSBPLN
+cryUSBRUB:
   asset: USB
   display_name: USB/RUB
   exchange_name: CRYPTOCURRENCY
@@ -5294,8 +5294,8 @@ USBRUB:
   pip_size: 0.01
   quoted_currency: RUB
   submarket: stable_coin
-  symbol: USBRUB
-USBSAR:
+  symbol: cryUSBRUB
+cryUSBSAR:
   asset: USB
   display_name: USB/SAR
   exchange_name: CRYPTOCURRENCY
@@ -5304,8 +5304,8 @@ USBSAR:
   pip_size: 0.01
   quoted_currency: SAR
   submarket: stable_coin
-  symbol: USBSAR
-USBSEK:
+  symbol: cryUSBSAR
+cryUSBSEK:
   asset: USB
   display_name: USB/SEK
   exchange_name: CRYPTOCURRENCY
@@ -5314,8 +5314,8 @@ USBSEK:
   pip_size: 0.01
   quoted_currency: SEK
   submarket: stable_coin
-  symbol: USBSEK
-USBSGD:
+  symbol: cryUSBSEK
+cryUSBSGD:
   asset: USB
   display_name: USB/SGD
   exchange_name: CRYPTOCURRENCY
@@ -5324,8 +5324,8 @@ USBSGD:
   pip_size: 0.01
   quoted_currency: SGD
   submarket: stable_coin
-  symbol: USBSGD
-USBTRY:
+  symbol: cryUSBSGD
+cryUSBTRY:
   asset: USB
   display_name: USB/TRY
   exchange_name: CRYPTOCURRENCY
@@ -5334,8 +5334,8 @@ USBTRY:
   pip_size: 0.01
   quoted_currency: TRY
   submarket: stable_coin
-  symbol: USBTRY
-USBUSD:
+  symbol: cryUSBTRY
+cryUSBUSD:
   asset: USB
   display_name: USB/USD
   exchange_name: CRYPTOCURRENCY
@@ -5344,8 +5344,8 @@ USBUSD:
   pip_size: 0.01
   quoted_currency: USD
   submarket: stable_coin
-  symbol: USBUSD
-USBXAG:
+  symbol: cryUSBUSD
+cryUSBXAG:
   asset: USB
   display_name: USB/XAG
   exchange_name: CRYPTOCURRENCY
@@ -5354,8 +5354,8 @@ USBXAG:
   pip_size: 0.01
   quoted_currency: XAG
   submarket: stable_coin
-  symbol: USBXAG
-USBXAU:
+  symbol: cryUSBXAG
+cryUSBXAU:
   asset: USB
   display_name: USB/XAU
   exchange_name: CRYPTOCURRENCY
@@ -5364,8 +5364,8 @@ USBXAU:
   pip_size: 0.01
   quoted_currency: XAU
   submarket: stable_coin
-  symbol: USBXAU
-USBZAR:
+  symbol: cryUSBXAU
+cryUSBZAR:
   asset: USB
   display_name: USB/ZAR
   exchange_name: CRYPTOCURRENCY
@@ -5374,8 +5374,8 @@ USBZAR:
   pip_size: 0.01
   quoted_currency: ZAR
   submarket: stable_coin
-  symbol: USBZAR
-USBBRO:
+  symbol: cryUSBZAR
+cryUSBBRO:
   asset: USB
   display_name: USB/BRO
   exchange_name: CRYPTOCURRENCY
@@ -5384,8 +5384,8 @@ USBBRO:
   pip_size: 0.01
   quoted_currency: BRO
   submarket: stable_coin
-  symbol: USBBRO
-USBXPD:
+  symbol: cryUSBBRO
+cryUSBXPD:
   asset: USB
   display_name: USB/XPD
   exchange_name: CRYPTOCURRENCY
@@ -5394,8 +5394,8 @@ USBXPD:
   pip_size: 0.01
   quoted_currency: XPD
   submarket: stable_coin
-  symbol: USBXPD
-USBXPT:
+  symbol: cryUSBXPD
+cryUSBXPT:
   asset: USB
   display_name: USB/XPT
   exchange_name: CRYPTOCURRENCY
@@ -5404,4 +5404,4 @@ USBXPT:
   pip_size: 0.01
   quoted_currency: XPT
   submarket: stable_coin
-  symbol: USBXPT
+  symbol: cryUSBXPT
