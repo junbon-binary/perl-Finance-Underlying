@@ -5085,3 +5085,323 @@ USTXPT:
   quoted_currency: XPT
   submarket: stable_coin
   symbol: USTXPT
+USBAED:
+  asset: USB
+  display_name: USB/AED
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
+  market: cryptocurrency
+  pip_size: 0.01
+  quoted_currency: AED
+  submarket: stable_coin
+  symbol: USBAED
+USBAUD:
+  asset: USB
+  display_name: USB/AUD
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
+  market: cryptocurrency
+  pip_size: 0.01
+  quoted_currency: AUD
+  submarket: stable_coin
+  symbol: USBAUD
+USBBRL:
+  asset: USB
+  display_name: USB/BRL
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
+  market: cryptocurrency
+  pip_size: 0.01
+  quoted_currency: BRL
+  submarket: stable_coin
+  symbol: USBBRL
+USBCAD:
+  asset: USB
+  display_name: USB/CAD
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
+  market: cryptocurrency
+  pip_size: 0.01
+  quoted_currency: CAD
+  submarket: stable_coin
+  symbol: USBCAD
+USBCHF:
+  asset: USB
+  display_name: USB/CHF
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
+  market: cryptocurrency
+  pip_size: 0.01
+  quoted_currency: CHF
+  submarket: stable_coin
+  symbol: USBCHF
+USBCNY:
+  asset: USB
+  display_name: USB/CNY
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
+  market: cryptocurrency
+  pip_size: 0.01
+  quoted_currency: CNY
+  submarket: stable_coin
+  symbol: USBCNY
+USBCZK:
+  asset: USB
+  display_name: USB/CZK
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
+  market: cryptocurrency
+  pip_size: 0.01
+  quoted_currency: CZK
+  submarket: stable_coin
+  symbol: USBCZK
+USBEGP:
+  asset: USB
+  display_name: USB/EGP
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
+  market: cryptocurrency
+  pip_size: 0.01
+  quoted_currency: EGP
+  submarket: stable_coin
+  symbol: USBEGP
+USBEUR:
+  asset: USB
+  display_name: USB/EUR
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
+  market: cryptocurrency
+  pip_size: 0.01
+  quoted_currency: EUR
+  submarket: stable_coin
+  symbol: USBEUR
+USBGBP:
+  asset: USB
+  display_name: USB/GBP
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
+  market: cryptocurrency
+  pip_size: 0.01
+  quoted_currency: GBP
+  submarket: stable_coin
+  symbol: USBGBP
+USBHKD:
+  asset: USB
+  display_name: USB/HKD
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
+  market: cryptocurrency
+  pip_size: 0.01
+  quoted_currency: HKD
+  submarket: stable_coin
+  symbol: USBHKD
+USBIDR:
+  asset: USB
+  display_name: USB/IDR
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
+  market: cryptocurrency
+  pip_size: 0.01
+  quoted_currency: IDR
+  submarket: stable_coin
+  symbol: USBIDR
+USBINR:
+  asset: USB
+  display_name: USB/INR
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
+  market: cryptocurrency
+  pip_size: 0.01
+  quoted_currency: INR
+  submarket: stable_coin
+  symbol: USBINR
+USBJPY:
+  asset: USB
+  display_name: USB/JPY
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
+  market: cryptocurrency
+  pip_size: 0.01
+  quoted_currency: JPY
+  submarket: stable_coin
+  symbol: USBJPY
+USBKRW:
+  asset: USB
+  display_name: USB/KRW
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
+  market: cryptocurrency
+  pip_size: 0.01
+  quoted_currency: KRW
+  submarket: stable_coin
+  symbol: USBKRW
+USBKWD:
+  asset: USB
+  display_name: USB/KWD
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
+  market: cryptocurrency
+  pip_size: 0.01
+  quoted_currency: KWD
+  submarket: stable_coin
+  symbol: USBKWD
+USBMXN:
+  asset: USB
+  display_name: USB/MXN
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
+  market: cryptocurrency
+  pip_size: 0.01
+  quoted_currency: MXN
+  submarket: stable_coin
+  symbol: USBMXN
+USBNOK:
+  asset: USB
+  display_name: USB/NOK
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
+  market: cryptocurrency
+  pip_size: 0.01
+  quoted_currency: NOK
+  submarket: stable_coin
+  symbol: USBNOK
+USBNZD:
+  asset: USB
+  display_name: USB/NZD
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
+  market: cryptocurrency
+  pip_size: 0.01
+  quoted_currency: NZD
+  submarket: stable_coin
+  symbol: USBNZD
+USBPLN:
+  asset: USB
+  display_name: USB/PLN
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
+  market: cryptocurrency
+  pip_size: 0.01
+  quoted_currency: PLN
+  submarket: stable_coin
+  symbol: USBPLN
+USBRUB:
+  asset: USB
+  display_name: USB/RUB
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
+  market: cryptocurrency
+  pip_size: 0.01
+  quoted_currency: RUB
+  submarket: stable_coin
+  symbol: USBRUB
+USBSAR:
+  asset: USB
+  display_name: USB/SAR
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
+  market: cryptocurrency
+  pip_size: 0.01
+  quoted_currency: SAR
+  submarket: stable_coin
+  symbol: USBSAR
+USBSEK:
+  asset: USB
+  display_name: USB/SEK
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
+  market: cryptocurrency
+  pip_size: 0.01
+  quoted_currency: SEK
+  submarket: stable_coin
+  symbol: USBSEK
+USBSGD:
+  asset: USB
+  display_name: USB/SGD
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
+  market: cryptocurrency
+  pip_size: 0.01
+  quoted_currency: SGD
+  submarket: stable_coin
+  symbol: USBSGD
+USBTRY:
+  asset: USB
+  display_name: USB/TRY
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
+  market: cryptocurrency
+  pip_size: 0.01
+  quoted_currency: TRY
+  submarket: stable_coin
+  symbol: USBTRY
+USBUSD:
+  asset: USB
+  display_name: USB/USD
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
+  market: cryptocurrency
+  pip_size: 0.01
+  quoted_currency: USD
+  submarket: stable_coin
+  symbol: USBUSD
+USBXAG:
+  asset: USB
+  display_name: USB/XAG
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
+  market: cryptocurrency
+  pip_size: 0.01
+  quoted_currency: XAG
+  submarket: stable_coin
+  symbol: USBXAG
+USBXAU:
+  asset: USB
+  display_name: USB/XAU
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
+  market: cryptocurrency
+  pip_size: 0.01
+  quoted_currency: XAU
+  submarket: stable_coin
+  symbol: USBXAU
+USBZAR:
+  asset: USB
+  display_name: USB/ZAR
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
+  market: cryptocurrency
+  pip_size: 0.01
+  quoted_currency: ZAR
+  submarket: stable_coin
+  symbol: USBZAR
+USBBRO:
+  asset: USB
+  display_name: USB/BRO
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
+  market: cryptocurrency
+  pip_size: 0.01
+  quoted_currency: BRO
+  submarket: stable_coin
+  symbol: USBBRO
+USBXPD:
+  asset: USB
+  display_name: USB/XPD
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
+  market: cryptocurrency
+  pip_size: 0.01
+  quoted_currency: XPD
+  submarket: stable_coin
+  symbol: USBXPD
+USBXPT:
+  asset: USB
+  display_name: USB/XPT
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
+  market: cryptocurrency
+  pip_size: 0.01
+  quoted_currency: XPT
+  submarket: stable_coin
+  symbol: USBXPT
