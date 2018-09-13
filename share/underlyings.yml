@@ -5405,3 +5405,23 @@ frxUSBXPT:
   quoted_currency: XPT
   submarket: minor_pairs
   symbol: frxUSBXPT
+crypto1:
+  asset: USD
+  display_name: crypto1
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
+  market: cryptocurrency
+  pip_size: 0.01
+  quoted_currency: ~
+  submarket: cryptocurrency
+  symbol: crypto1
+crypto2:
+  asset: USD
+  display_name: crypto2
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
+  market: cryptocurrency
+  pip_size: 0.01
+  quoted_currency: ~
+  submarket: cryptocurrency
+  symbol: crypto2
