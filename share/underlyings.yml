@@ -5405,23 +5405,23 @@ cryUSBXPT:
   quoted_currency: XPT
   submarket: stable_coin
   symbol: cryUSBXPT
-crypto1:
+H_100:
   asset: USD
-  display_name: crypto1
+  display_name: Crypto 100 Index
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
   market: cryptocurrency
-  pip_size: 0.01
+  pip_size: 0.001
   quoted_currency: ~
-  submarket: cryptocurrency
-  symbol: crypto1
-crypto2:
+  submarket: non_stable_coin
+  symbol: H_100
+H_125:
   asset: USD
-  display_name: crypto2
+  display_name: Crypto 125 Index
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
   market: cryptocurrency
-  pip_size: 0.01
+  pip_size: 0.001
   quoted_currency: ~
-  submarket: cryptocurrency
-  symbol: crypto2
+  submarket: non_stable_coin
+  symbol: H_125
