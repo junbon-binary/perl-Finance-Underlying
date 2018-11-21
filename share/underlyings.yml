@@ -5412,3 +5412,53 @@ cryUSBXPT:
   quoted_currency: XPT
   submarket: stable_coin
   symbol: cryUSBXPT
+norWLDUSD:
+  asset: USD
+  display_name: Normalized USD Index
+  exchange_name: NORMALIZED
+  instrument_type: normalized_index
+  market: normalized_index
+  pip_size: 0.01
+  quoted_currency: nan
+  submarket: normalized_forex
+  symbol: norWLDUSD
+norWLDEUR:
+  asset: EUR
+  display_name: Normalized EUR Index
+  exchange_name: NORMALIZED
+  instrument_type: normalized_index
+  market: normalized_index
+  pip_size: 0.01
+  quoted_currency: nan
+  submarket: normalized_forex
+  symbol: norWLDEUR
+norEURUSD:
+  asset: EUR
+  display_name: Normalized EUR/USD
+  exchange_name: NORMALIZED
+  instrument_type: normalized_index
+  market: normalized_index
+  pip_size: 0.01
+  quoted_currency: nan
+  submarket: normalized_forex
+  symbol: norEURUSD
+norAUDJPY:
+  asset: AUD
+  display_name: Normalized AUD/JPY
+  exchange_name: NORMALIZED
+  instrument_type: normalized_index
+  market: normalized_index
+  pip_size: 0.01
+  quoted_currency: nan
+  submarket: normalized_forex
+  symbol: norAUDJPY
+norUSDJPY:
+  asset: USD
+  display_name: Normalized EUR Index
+  exchange_name: NORMALIZED
+  instrument_type: normalized_index
+  market: normalized_index
+  pip_size: 0.01
+  quoted_currency: nan
+  submarket: normalized_forex
+  symbol: norUSDJPY
