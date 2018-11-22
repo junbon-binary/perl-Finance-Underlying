@@ -5415,50 +5415,50 @@ cryUSBXPT:
 norWLDUSD:
   asset: USD
   display_name: Normalized USD Index
-  exchange_name: NORMALIZED
+  exchange_name: FOREX
   instrument_type: normalized_index
   market: normalized_index
   pip_size: 0.01
-  quoted_currency: nan
+  quoted_currency: WLDUSD
   submarket: normalized_forex
   symbol: norWLDUSD
 norWLDEUR:
   asset: EUR
   display_name: Normalized EUR Index
-  exchange_name: NORMALIZED
+  exchange_name: FOREX
   instrument_type: normalized_index
   market: normalized_index
   pip_size: 0.01
-  quoted_currency: nan
+  quoted_currency: WLDEUR
   submarket: normalized_forex
   symbol: norWLDEUR
 norEURUSD:
   asset: EUR
   display_name: Normalized EUR/USD
-  exchange_name: NORMALIZED
+  exchange_name: FOREX
   instrument_type: normalized_index
   market: normalized_index
-  pip_size: 0.01
-  quoted_currency: nan
+  pip_size: 0.0001
+  quoted_currency: USD
   submarket: normalized_forex
   symbol: norEURUSD
 norAUDJPY:
   asset: AUD
   display_name: Normalized AUD/JPY
-  exchange_name: NORMALIZED
+  exchange_name: FOREX
   instrument_type: normalized_index
   market: normalized_index
   pip_size: 0.01
-  quoted_currency: nan
+  quoted_currency: JPY
   submarket: normalized_forex
   symbol: norAUDJPY
 norUSDJPY:
   asset: USD
   display_name: Normalized EUR Index
-  exchange_name: NORMALIZED
+  exchange_name: FOREX
   instrument_type: normalized_index
   market: normalized_index
   pip_size: 0.01
-  quoted_currency: nan
+  quoted_currency: JPY
   submarket: normalized_forex
   symbol: norUSDJPY
