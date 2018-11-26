@@ -5428,7 +5428,7 @@ norWLDEUR:
   exchange_name: FOREX
   instrument_type: normalized_index
   market: normalized_index
-  pip_size: 0.01
+  pip_size: 0.0001
   quoted_currency: WLDEUR
   submarket: normalized_forex
   symbol: norWLDEUR
@@ -5448,7 +5448,7 @@ norAUDJPY:
   exchange_name: FOREX
   instrument_type: normalized_index
   market: normalized_index
-  pip_size: 0.01
+  pip_size: 0.0001
   quoted_currency: JPY
   submarket: normalized_forex
   symbol: norAUDJPY
@@ -5458,7 +5458,7 @@ norUSDJPY:
   exchange_name: FOREX
   instrument_type: normalized_index
   market: normalized_index
-  pip_size: 0.01
+  pip_size: 0.0001
   quoted_currency: JPY
   submarket: normalized_forex
   symbol: norUSDJPY
