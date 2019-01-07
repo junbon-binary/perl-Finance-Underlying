@@ -5416,8 +5416,8 @@ stpAUDJPY:
   asset: AUD
   display_name: AUD/JPY Step
   exchange_name: FOREX
-  instrument_type: normalized_index
-  market: normalized_index
+  instrument_type: derived_index
+  market: derived_index
   pip_size: 0.001
   quoted_currency: JPY
   submarket: step_index
@@ -5426,8 +5426,8 @@ stpUSDCHF:
   asset: USD
   display_name: USD/CHF Step
   exchange_name: FOREX
-  instrument_type: normalized_index
-  market: normalized_index
+  instrument_type: derived_index
+  market: derived_index
   pip_size: 0.001
   quoted_currency: CHF
   submarket: step_index
@@ -5436,8 +5436,8 @@ stpGBPJPY:
   asset: GBP
   display_name: GBP/JPY Step
   exchange_name: FOREX
-  instrument_type: normalized_index
-  market: normalized_index
+  instrument_type: derived_index
+  market: derived_index
   pip_size: 0.001
   quoted_currency: JPY
   submarket: step_index
@@ -5446,8 +5446,8 @@ stpEURCHF:
   asset: EUR
   display_name: EUR/CHF Step
   exchange_name: FOREX
-  instrument_type: normalized_index
-  market: normalized_index
+  instrument_type: derived_index
+  market: derived_index
   pip_size: 0.001
   quoted_currency: CHF
   submarket: step_index
@@ -5456,8 +5456,8 @@ stpEURAUD:
   asset: EUR
   display_name: EUR/AUD Step
   exchange_name: FOREX
-  instrument_type: normalized_index
-  market: normalized_index
+  instrument_type: derived_index
+  market: derived_index
   pip_size: 0.001
   quoted_currency: AUD
   submarket: step_index
@@ -5466,8 +5466,8 @@ stpEURGBP:
   asset: EUR
   display_name: EUR/GBP Step
   exchange_name: FOREX
-  instrument_type: normalized_index
-  market: normalized_index
+  instrument_type: derived_index
+  market: derived_index
   pip_size: 0.001
   quoted_currency: GBP
   submarket: step_index
@@ -5476,8 +5476,8 @@ stpGBPAUD:
   asset: GBP
   display_name: GBP/AUD Step
   exchange_name: FOREX
-  instrument_type: normalized_index
-  market: normalized_index
+  instrument_type: derived_index
+  market: derived_index
   pip_size: 0.001
   quoted_currency: AUD
   submarket: step_index
@@ -5486,8 +5486,8 @@ stpUSDJPY:
   asset: USD
   display_name: USD/JPY Step
   exchange_name: FOREX
-  instrument_type: normalized_index
-  market: normalized_index
+  instrument_type: derived_index
+  market: derived_index
   pip_size: 0.001
   quoted_currency: JPY
   submarket: step_index
@@ -5496,8 +5496,8 @@ stpEURJPY:
   asset: EUR
   display_name: EUR/JPY Step
   exchange_name: FOREX
-  instrument_type: normalized_index
-  market: normalized_index
+  instrument_type: derived_index
+  market: derived_index
   pip_size: 0.001
   quoted_currency: JPY
   submarket: step_index
@@ -5506,8 +5506,8 @@ stpAUDUSD:
   asset: AUD
   display_name: AUD/USD Step
   exchange_name: FOREX
-  instrument_type: normalized_index
-  market: normalized_index
+  instrument_type: derived_index
+  market: derived_index
   pip_size: 0.001
   quoted_currency: USD
   submarket: step_index
@@ -5516,8 +5516,8 @@ stpGBPUSD:
   asset: GBP
   display_name: GBP/USD Step
   exchange_name: FOREX
-  instrument_type: normalized_index
-  market: normalized_index
+  instrument_type: derived_index
+  market: derived_index
   pip_size: 0.001
   quoted_currency: USD
   submarket: step_index
@@ -5526,8 +5526,8 @@ stpEURUSD:
   asset: EUR
   display_name: EUR/USD Step
   exchange_name: FOREX
-  instrument_type: normalized_index
-  market: normalized_index
+  instrument_type: derived_index
+  market: derived_index
   pip_size: 0.001
   quoted_currency: USD
   submarket: step_index
@@ -5536,8 +5536,8 @@ stpEURCAD:
   asset: EUR
   display_name: EUR/CAD Step
   exchange_name: FOREX
-  instrument_type: normalized_index
-  market: normalized_index
+  instrument_type: derived_index
+  market: derived_index
   pip_size: 0.001
   quoted_currency: CAD
   submarket: step_index
@@ -5546,8 +5546,8 @@ stpUSDCAD:
   asset: USD
   display_name: USD/CAD Step
   exchange_name: FOREX
-  instrument_type: normalized_index
-  market: normalized_index
+  instrument_type: derived_index
+  market: derived_index
   pip_size: 0.001
   quoted_currency: CAD
   submarket: step_index
