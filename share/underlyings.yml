@@ -5096,8 +5096,8 @@ stpEURGBP:
   asset: EUR
   display_name: EUR/GBP Step
   exchange_name: FOREX
-  instrument_type: derived_index
-  market: derived_index
+  instrument_type: synthetic_index
+  market: synthetic_index
   pip_size: 0.001
   quoted_currency: GBP
   submarket: step_index
@@ -5106,8 +5106,8 @@ stpUSDJPY:
   asset: USD
   display_name: USD/JPY Step
   exchange_name: FOREX
-  instrument_type: derived_index
-  market: derived_index
+  instrument_type: synthetic_index
+  market: synthetic_index
   pip_size: 0.001
   quoted_currency: JPY
   submarket: step_index
@@ -5116,8 +5116,8 @@ stpEURJPY:
   asset: EUR
   display_name: EUR/JPY Step
   exchange_name: FOREX
-  instrument_type: derived_index
-  market: derived_index
+  instrument_type: synthetic_index
+  market: synthetic_index
   pip_size: 0.001
   quoted_currency: JPY
   submarket: step_index
@@ -5126,8 +5126,8 @@ stpEURUSD:
   asset: EUR
   display_name: EUR/USD Step
   exchange_name: FOREX
-  instrument_type: derived_index
-  market: derived_index
+  instrument_type: synthetic_index
+  market: synthetic_index
   pip_size: 0.001
   quoted_currency: USD
   submarket: step_index
