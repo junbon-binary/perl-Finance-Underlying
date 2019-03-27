@@ -3532,26 +3532,6 @@ cryUSBXPT:
   quoted_currency: XPT
   submarket: stable_coin
   symbol: cryUSBXPT
-norWLDUSD:
-  asset: USD
-  display_name: Normalized USD Index
-  exchange_name: FOREX
-  instrument_type: synthetic_index
-  market: synthetic_index
-  pip_size: 0.01
-  quoted_currency: WLDUSD
-  submarket: normalized_index
-  symbol: norWLDUSD
-norWLDEUR:
-  asset: EUR
-  display_name: Normalized EUR Index
-  exchange_name: FOREX
-  instrument_type: synthetic_index
-  market: synthetic_index
-  pip_size: 0.0001
-  quoted_currency: WLDEUR
-  submarket: normalized_index
-  symbol: norWLDEUR
 norEURUSD:
   asset: EUR
   display_name: Normalized EUR/USD
