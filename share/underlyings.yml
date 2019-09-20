@@ -2872,16 +2872,6 @@ cryBTCUSD:
   quoted_currency: USD
   submarket: non_stable_coin
   symbol: cryBTCUSD
-cryETCUSD:
-  asset: ETC
-  display_name: ETC/USD
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
-  pip_size: 0.0001
-  quoted_currency: USD
-  submarket: non_stable_coin
-  symbol: cryETCUSD
 cryETHUSD:
   asset: ETH
   display_name: ETH/USD
@@ -2902,6 +2892,16 @@ cryLTCUSD:
   quoted_currency: USD
   submarket: non_stable_coin
   symbol: cryLTCUSD
+cryUSTUSD:
+  asset: UST
+  display_name: UST/USD
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
+  market: cryptocurrency
+  pip_size: 0.01
+  quoted_currency: USD
+  submarket: stable_coin
+  symbol: cryUSTUSD
 stpAUDUSD:
   asset: AUD
   display_name: AUD/USD Step Index
