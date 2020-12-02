@@ -3341,3 +3341,42 @@ USFDX:
   quoted_currency: USD
   submarket: us_otc_stock
   symbol: USFDX
+DEBMW:
+  asset: DEBMW
+  display_name: BMW
+  exchange_name: FSE
+  instrument_type: individualstock
+  market: stocks
+  market_convention:
+    delta_premium_adjusted: 0
+    delta_style: spot_delta
+  pip_size: 0.01
+  quoted_currency: EUR
+  submarket: ge_otc_stock
+  symbol: DEBMW
+DEADS:
+  asset: DEADS
+  display_name: Adidas
+  exchange_name: FSE
+  instrument_type: individualstock
+  market: stocks
+  market_convention:
+    delta_premium_adjusted: 0
+    delta_style: spot_delta
+  pip_size: 0.01
+  quoted_currency: EUR
+  submarket: ge_otc_stock
+  symbol: DEADS
+DEBAYER:
+  asset: DEBAYER
+  display_name: Bayer AG
+  exchange_name: FSE
+  instrument_type: individualstock
+  market: stocks
+  market_convention:
+    delta_premium_adjusted: 0
+    delta_style: spot_delta
+  pip_size: 0.01
+  quoted_currency: EUR
+  submarket: ge_otc_stock
+  symbol: DEBAYER
