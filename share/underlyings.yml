@@ -2663,6 +2663,96 @@ cryLTCUSD:
   quoted_currency: USD
   submarket: non_stable_coin
   symbol: cryLTCUSD
+cryNEOUSD:
+  asset: NEO
+  display_name: NEO/USD
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
+  market: cryptocurrency
+  pip_size: 0.0001
+  quoted_currency: USD
+  submarket: non_stable_coin
+  symbol: cryNEOUSD
+cryOMGUSD:
+  asset: OMG
+  display_name: OMG/USD
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
+  market: cryptocurrency
+  pip_size: 0.0001
+  quoted_currency: USD
+  submarket: non_stable_coin
+  symbol: cryOMGUSD
+cryTRXUSD:
+  asset: TRX
+  display_name: TRX/USD
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
+  market: cryptocurrency
+  pip_size: 0.0001
+  quoted_currency: USD
+  submarket: non_stable_coin
+  symbol: cryTRXUSD
+cryXMLUSD:
+  asset: XML
+  display_name: XML/USD
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
+  market: cryptocurrency
+  pip_size: 0.0001
+  quoted_currency: USD
+  submarket: non_stable_coin
+  symbol: cryXMLUSD
+cryXMRUSD:
+  asset: XMR
+  display_name: XMR/USD
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
+  market: cryptocurrency
+  pip_size: 0.0001
+  quoted_currency: USD
+  submarket: non_stable_coin
+  symbol: cryXMRUSD
+cryXRPEUR:
+  asset: XRP
+  display_name: XRP/EUR
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
+  market: cryptocurrency
+  pip_size: 0.0001
+  quoted_currency: EUR
+  submarket: non_stable_coin
+  symbol: cryXRPEUR
+cryZECUSD:
+  asset: ZEC
+  display_name: ZEC/USD
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
+  market: cryptocurrency
+  pip_size: 0.0001
+  quoted_currency: USD
+  submarket: non_stable_coin
+  symbol: cryZECUSD
+cryEOSGBP:
+  asset: EOS
+  display_name: EOS/GBP
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
+  market: cryptocurrency
+  pip_size: 0.0001
+  quoted_currency: GBP
+  submarket: non_stable_coin
+  symbol: cryEOSGBP
+cryBTCCAD:
+  asset: BTC
+  display_name: BTC/CAD
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
+  market: cryptocurrency
+  pip_size: 0.0001
+  quoted_currency: CAD
+  submarket: non_stable_coin
+  symbol: cryBTCCAD
 cryBUSDUSD:
   asset: BUSD
   display_name: BUSD/USD
