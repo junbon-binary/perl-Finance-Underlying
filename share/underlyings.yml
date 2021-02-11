@@ -2563,6 +2563,66 @@ cryBTCUSD:
   quoted_currency: USD
   submarket: non_stable_coin
   symbol: cryBTCUSD
+cryBTCXAG:
+  asset: BTC
+  display_name: BTC/XAG
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
+  market: cryptocurrency
+  pip_size: 0.0001
+  quoted_currency: XAG
+  submarket: non_stable_coin
+  symbol: cryBTCXAG
+cryBTCXAU:
+  asset: BTC
+  display_name: BTC/XAU
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
+  market: cryptocurrency
+  pip_size: 0.0001
+  quoted_currency: XAU
+  submarket: non_stable_coin
+  symbol: cryBTCXAU
+cryBTCXRP:
+  asset: BTC
+  display_name: BTC/XRP
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
+  market: cryptocurrency
+  pip_size: 0.0001
+  quoted_currency: XRP
+  submarket: non_stable_coin
+  symbol: cryBTCXRP
+cryDSHUSD:
+  asset: DSH
+  display_name: DSH/USD
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
+  market: cryptocurrency
+  pip_size: 0.0001
+  quoted_currency: USD
+  submarket: non_stable_coin
+  symbol: cryDSHUSD
+cryEOSEUR:
+  asset: EOS
+  display_name: EOS/EUR
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
+  market: cryptocurrency
+  pip_size: 0.0001
+  quoted_currency: EUR
+  submarket: non_stable_coin
+  symbol: cryEOSEUR
+cryETHEUR:
+  asset: ETH
+  display_name: ETH/EUR
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
+  market: cryptocurrency
+  pip_size: 0.0001
+  quoted_currency: EUR
+  submarket: non_stable_coin
+  symbol: cryETHEUR
 cryETHUSD:
   asset: ETH
   display_name: ETH/USD
@@ -2573,6 +2633,26 @@ cryETHUSD:
   quoted_currency: USD
   submarket: non_stable_coin
   symbol: cryETHUSD
+cryIOTUSD:
+  asset: IOT
+  display_name: IOT/USD
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
+  market: cryptocurrency
+  pip_size: 0.0001
+  quoted_currency: USD
+  submarket: non_stable_coin
+  symbol: cryIOTUSD
+cryLTCEUR:
+  asset: LTC
+  display_name: LTC/EUR
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
+  market: cryptocurrency
+  pip_size: 0.0001
+  quoted_currency: EUR
+  submarket: non_stable_coin
+  symbol: cryLTCEUR
 cryLTCUSD:
   asset: LTC
   display_name: LTC/USD
