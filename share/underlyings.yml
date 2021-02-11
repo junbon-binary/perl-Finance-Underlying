@@ -2423,16 +2423,16 @@ frxXPTUSD:
   quoted_currency: USD
   submarket: metals
   symbol: frxXPTUSD
-cryBCCUSD:
+cryBCCCAD:
   asset: BCC
-  display_name: BCC/USD
+  display_name: BCC/CAD
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
   market: cryptocurrency
   pip_size: 0.0001
-  quoted_currency: USD
+  quoted_currency: CAD
   submarket: non_stable_coin
-  symbol: cryBCCUSD
+  symbol: cryBCCCAD
 cryBCHUSD:
   asset: BCH
   display_name: BCH/USD
@@ -2443,7 +2443,7 @@ cryBCHUSD:
   quoted_currency: USD
   submarket: non_stable_coin
   symbol: cryBCHUSD
-cryBCHUSD:
+cryBNBUSD:
   asset: BNB
   display_name: BNB/USD
   exchange_name: CRYPTOCURRENCY
