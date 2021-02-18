@@ -2423,23 +2423,13 @@ frxXPTUSD:
   quoted_currency: USD
   submarket: metals
   symbol: frxXPTUSD
-cryBCCCAD:
-  asset: BCC
-  display_name: BCC/CAD
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
-  pip_size: 0.0001
-  quoted_currency: CAD
-  submarket: non_stable_coin
-  symbol: cryBCCCAD
 cryBCHUSD:
   asset: BCH
   display_name: BCH/USD
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
   market: cryptocurrency
-  pip_size: 0.0001
+  pip_size: 0.001
   quoted_currency: USD
   submarket: non_stable_coin
   symbol: cryBCHUSD
@@ -2449,7 +2439,7 @@ cryBNBUSD:
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
   market: cryptocurrency
-  pip_size: 0.0001
+  pip_size: 0.001
   quoted_currency: USD
   submarket: non_stable_coin
   symbol: cryBNBUSD
@@ -2459,7 +2449,7 @@ cryBTCAUD:
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
   market: cryptocurrency
-  pip_size: 0.0001
+  pip_size: 0.001
   quoted_currency: AUD
   submarket: non_stable_coin
   symbol: cryBTCAUD
@@ -2469,7 +2459,7 @@ cryBTCBCH:
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
   market: cryptocurrency
-  pip_size: 0.0001
+  pip_size: 0.00001
   quoted_currency: BCH
   submarket: non_stable_coin
   symbol: cryBTCBCH
@@ -2499,7 +2489,7 @@ cryBTCEUR:
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
   market: cryptocurrency
-  pip_size: 0.0001
+  pip_size: 0.001
   quoted_currency: EUR
   submarket: non_stable_coin
   symbol: cryBTCEUR
@@ -2509,7 +2499,7 @@ cryBTCGBP:
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
   market: cryptocurrency
-  pip_size: 0.0001
+  pip_size: 0.001
   quoted_currency: GBP
   submarket: non_stable_coin
   symbol: cryBTCGBP
@@ -2519,7 +2509,7 @@ cryBTCJPY:
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
   market: cryptocurrency
-  pip_size: 0.0001
+  pip_size: 1
   quoted_currency: JPY
   submarket: non_stable_coin
   symbol: cryBTCJPY
@@ -2529,7 +2519,7 @@ cryBTCLTC:
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
   market: cryptocurrency
-  pip_size: 0.0001
+  pip_size: 0.00001
   quoted_currency: LTC
   submarket: non_stable_coin
   symbol: cryBTCLTC
@@ -2539,7 +2529,7 @@ cryBTCNZD:
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
   market: cryptocurrency
-  pip_size: 0.0001
+  pip_size: 0.001
   quoted_currency: NZD
   submarket: non_stable_coin
   symbol: cryBTCNZD
@@ -2549,7 +2539,7 @@ cryBTCRUB:
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
   market: cryptocurrency
-  pip_size: 0.0001
+  pip_size: 1
   quoted_currency: RUB
   submarket: non_stable_coin
   symbol: cryBTCRUB
@@ -2559,7 +2549,7 @@ cryBTCUSD:
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
   market: cryptocurrency
-  pip_size: 0.0001
+  pip_size: 0.001
   quoted_currency: USD
   submarket: non_stable_coin
   symbol: cryBTCUSD
@@ -2589,7 +2579,7 @@ cryBTCXRP:
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
   market: cryptocurrency
-  pip_size: 0.0001
+  pip_size: 0.00001
   quoted_currency: XRP
   submarket: non_stable_coin
   symbol: cryBTCXRP
@@ -2599,27 +2589,17 @@ cryDSHUSD:
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
   market: cryptocurrency
-  pip_size: 0.0001
+  pip_size: 0.001
   quoted_currency: USD
   submarket: non_stable_coin
   symbol: cryDSHUSD
-cryEOSEUR:
-  asset: EOS
-  display_name: EOS/EUR
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
-  pip_size: 0.0001
-  quoted_currency: EUR
-  submarket: non_stable_coin
-  symbol: cryEOSEUR
 cryETHEUR:
   asset: ETH
   display_name: ETH/EUR
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
   market: cryptocurrency
-  pip_size: 0.0001
+  pip_size: 0.001
   quoted_currency: EUR
   submarket: non_stable_coin
   symbol: cryETHEUR
@@ -2629,7 +2609,7 @@ cryETHUSD:
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
   market: cryptocurrency
-  pip_size: 0.0001
+  pip_size: 0.00001
   quoted_currency: USD
   submarket: non_stable_coin
   symbol: cryETHUSD
@@ -2649,7 +2629,7 @@ cryLTCEUR:
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
   market: cryptocurrency
-  pip_size: 0.0001
+  pip_size: 0.001
   quoted_currency: EUR
   submarket: non_stable_coin
   symbol: cryLTCEUR
@@ -2659,7 +2639,7 @@ cryLTCUSD:
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
   market: cryptocurrency
-  pip_size: 0.0001
+  pip_size: 0.00001
   quoted_currency: USD
   submarket: non_stable_coin
   symbol: cryLTCUSD
@@ -2669,7 +2649,7 @@ cryNEOUSD:
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
   market: cryptocurrency
-  pip_size: 0.0001
+  pip_size: 0.01
   quoted_currency: USD
   submarket: non_stable_coin
   symbol: cryNEOUSD
@@ -2679,7 +2659,7 @@ cryOMGUSD:
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
   market: cryptocurrency
-  pip_size: 0.0001
+  pip_size: 0.001
   quoted_currency: USD
   submarket: non_stable_coin
   symbol: cryOMGUSD
@@ -2689,7 +2669,7 @@ cryTRXUSD:
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
   market: cryptocurrency
-  pip_size: 0.0001
+  pip_size: 0.00001
   quoted_currency: USD
   submarket: non_stable_coin
   symbol: cryTRXUSD
@@ -2699,7 +2679,7 @@ cryXMLUSD:
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
   market: cryptocurrency
-  pip_size: 0.0001
+  pip_size: 0.00001
   quoted_currency: USD
   submarket: non_stable_coin
   symbol: cryXMLUSD
@@ -2709,7 +2689,7 @@ cryXMRUSD:
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
   market: cryptocurrency
-  pip_size: 0.0001
+  pip_size: 0.001
   quoted_currency: USD
   submarket: non_stable_coin
   symbol: cryXMRUSD
@@ -2719,7 +2699,7 @@ cryXRPEUR:
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
   market: cryptocurrency
-  pip_size: 0.0001
+  pip_size: 0.000001
   quoted_currency: EUR
   submarket: non_stable_coin
   symbol: cryXRPEUR
@@ -2729,20 +2709,10 @@ cryZECUSD:
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
   market: cryptocurrency
-  pip_size: 0.0001
+  pip_size: 0.001
   quoted_currency: USD
   submarket: non_stable_coin
   symbol: cryZECUSD
-cryEOSGBP:
-  asset: EOS
-  display_name: EOS/GBP
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
-  pip_size: 0.0001
-  quoted_currency: GBP
-  submarket: non_stable_coin
-  symbol: cryEOSGBP
 cryBTCCAD:
   asset: BTC
   display_name: BTC/CAD
