@@ -2703,6 +2703,16 @@ cryXRPEUR:
   quoted_currency: EUR
   submarket: non_stable_coin
   symbol: cryXRPEUR
+cryXRPUSD:
+  asset: XRP
+  display_name: XRP/USD
+  exchange_name: CRYPTOCURRENCY
+  instrument_type: cryptocurrency
+  market: cryptocurrency
+  pip_size: 0.000001
+  quoted_currency: USD
+  submarket: non_stable_coin
+  symbol: cryXRPUSD
 cryZECUSD:
   asset: ZEC
   display_name: ZEC/USD
