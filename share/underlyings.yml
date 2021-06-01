@@ -1856,7 +1856,7 @@ WLDXAU:
   display_name: Gold Index
   exchange_name: METAL
   instrument_type: smart_fx
-  market: commodities
+  market: forex
   market_convention:
     delta_premium_adjusted: 0
     delta_style: spot_delta
