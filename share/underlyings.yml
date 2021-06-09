@@ -473,7 +473,7 @@ JCI:
   symbol: JCI
 JD10:
   asset: JD10
-  display_name: Volatility 10 Jump diffusion
+  display_name: Jump 10 Index
   exchange_name: RANDOM
   generation_interval: 1s
   instrument_type: stockindex
@@ -488,7 +488,7 @@ JD10:
   symbol: JD10
 JD100:
   asset: JD100
-  display_name: Volatility 100 Jump diffusion
+  display_name: Jump 100 Index
   exchange_name: RANDOM
   generation_interval: 1s
   instrument_type: stockindex
@@ -501,9 +501,39 @@ JD100:
   quoted_currency: ~
   submarket: jump_index
   symbol: JD100
+JD150:
+  asset: JD150
+  display_name: Jump 150 Index
+  exchange_name: RANDOM
+  generation_interval: 1s
+  instrument_type: stockindex
+  market: synthetic_index
+  market_convention:
+    delta_premium_adjusted: 0
+    delta_style: spot_delta
+  market_type: non_financial
+  pip_size: 0.01
+  quoted_currency: ~
+  submarket: jump_index
+  symbol: JD150
+JD200:
+  asset: JD200
+  display_name: Jump 200 Index
+  exchange_name: RANDOM
+  generation_interval: 1s
+  instrument_type: stockindex
+  market: synthetic_index
+  market_convention:
+    delta_premium_adjusted: 0
+    delta_style: spot_delta
+  market_type: non_financial
+  pip_size: 0.01
+  quoted_currency: ~
+  submarket: jump_index
+  symbol: JD200
 JD25:
   asset: JD25
-  display_name: Volatility 25 Jump diffusion
+  display_name: Jump 25 Index
   exchange_name: RANDOM
   generation_interval: 1s
   instrument_type: stockindex
@@ -518,7 +548,7 @@ JD25:
   symbol: JD25
 JD50:
   asset: JD50
-  display_name: Volatility 50 Jump diffusion
+  display_name: Jump 50 Index
   exchange_name: RANDOM
   generation_interval: 1s
   instrument_type: stockindex
@@ -533,7 +563,7 @@ JD50:
   symbol: JD50
 JD75:
   asset: JD75
-  display_name: Volatility 75 Jump diffusion
+  display_name: Jump 75 Index
   exchange_name: RANDOM
   generation_interval: 1s
   instrument_type: stockindex
