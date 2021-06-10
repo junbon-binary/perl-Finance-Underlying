@@ -17,6 +17,7 @@
   exchange_name: RANDOM
   generation_interval: 1s
   instrument_type: stockindex
+  is_offered: 1
   market: synthetic_index
   market_convention:
     delta_premium_adjusted: 0
@@ -32,6 +33,7 @@
   exchange_name: RANDOM
   generation_interval: 1s
   instrument_type: stockindex
+  is_offered: 1
   market: synthetic_index
   market_convention:
     delta_premium_adjusted: 0
@@ -47,6 +49,7 @@
   exchange_name: RANDOM
   generation_interval: 1s
   instrument_type: stockindex
+  is_offered: 1
   market: synthetic_index
   market_convention:
     delta_premium_adjusted: 0
@@ -62,6 +65,7 @@
   exchange_name: RANDOM
   generation_interval: 1s
   instrument_type: stockindex
+  is_offered: 1
   market: synthetic_index
   market_convention:
     delta_premium_adjusted: 0
@@ -77,6 +81,7 @@
   exchange_name: RANDOM
   generation_interval: 1s
   instrument_type: stockindex
+  is_offered: 1
   market: synthetic_index
   market_convention:
     delta_premium_adjusted: 0
@@ -169,23 +174,13 @@ BOOM1000:
   display_name: Boom 1000 Index
   exchange_name: RANDOM
   instrument_type: ~
+  is_offered: 1
   market: synthetic_index
   market_type: non_financial
   pip_size: 0.001
   quoted_currency: ~
   submarket: crash_index
   symbol: BOOM1000
-BOOM500:
-  asset: BOOM500
-  display_name: Boom 500 Index
-  exchange_name: RANDOM
-  instrument_type: ~
-  market: synthetic_index
-  market_type: non_financial
-  pip_size: 0.001
-  quoted_currency: ~
-  submarket: crash_index
-  symbol: BOOM500
 BOOM300:
   asset: BOOM300
   display_name: Boom 300 Index
@@ -197,6 +192,18 @@ BOOM300:
   quoted_currency: ~
   submarket: crash_index
   symbol: BOOM300
+BOOM500:
+  asset: BOOM500
+  display_name: Boom 500 Index
+  exchange_name: RANDOM
+  instrument_type: ~
+  is_offered: 1
+  market: synthetic_index
+  market_type: non_financial
+  pip_size: 0.001
+  quoted_currency: ~
+  submarket: crash_index
+  symbol: BOOM500
 BSESENSEX30:
   asset: BSESENSEX30
   display_name: Bombay Index
@@ -231,23 +238,13 @@ CRASH1000:
   display_name: Crash 1000 Index
   exchange_name: RANDOM
   instrument_type: ~
+  is_offered: 1
   market: synthetic_index
   market_type: non_financial
   pip_size: 0.001
   quoted_currency: ~
   submarket: crash_index
   symbol: CRASH1000
-CRASH500:
-  asset: CRASH500
-  display_name: Crash 500 Index
-  exchange_name: RANDOM
-  instrument_type: ~
-  market: synthetic_index
-  market_type: non_financial
-  pip_size: 0.001
-  quoted_currency: ~
-  submarket: crash_index
-  symbol: CRASH500
 CRASH300:
   asset: CRASH300
   display_name: Crash 300 Index
@@ -259,6 +256,18 @@ CRASH300:
   quoted_currency: ~
   submarket: crash_index
   symbol: CRASH300
+CRASH500:
+  asset: CRASH500
+  display_name: Crash 500 Index
+  exchange_name: RANDOM
+  instrument_type: ~
+  is_offered: 1
+  market: synthetic_index
+  market_type: non_financial
+  pip_size: 0.001
+  quoted_currency: ~
+  submarket: crash_index
+  symbol: CRASH500
 DEADS:
   asset: DEADS
   display_name: Adidas
@@ -499,6 +508,7 @@ JD10:
   exchange_name: RANDOM
   generation_interval: 1s
   instrument_type: stockindex
+  is_offered: 1
   market: synthetic_index
   market_convention:
     delta_premium_adjusted: 0
@@ -514,6 +524,7 @@ JD100:
   exchange_name: RANDOM
   generation_interval: 1s
   instrument_type: stockindex
+  is_offered: 1
   market: synthetic_index
   market_convention:
     delta_premium_adjusted: 0
@@ -559,6 +570,7 @@ JD25:
   exchange_name: RANDOM
   generation_interval: 1s
   instrument_type: stockindex
+  is_offered: 1
   market: synthetic_index
   market_convention:
     delta_premium_adjusted: 0
@@ -574,6 +586,7 @@ JD50:
   exchange_name: RANDOM
   generation_interval: 1s
   instrument_type: stockindex
+  is_offered: 1
   market: synthetic_index
   market_convention:
     delta_premium_adjusted: 0
@@ -589,6 +602,7 @@ JD75:
   exchange_name: RANDOM
   generation_interval: 1s
   instrument_type: stockindex
+  is_offered: 1
   market: synthetic_index
   market_convention:
     delta_premium_adjusted: 0
@@ -707,6 +721,7 @@ OTC_AEX:
   display_name: Dutch Index
   exchange_name: EURONEXT_OTC
   instrument_type: stockindex
+  is_offered: 1
   market: indices
   market_convention:
     delta_premium_adjusted: 0
@@ -720,6 +735,7 @@ OTC_AS51:
   display_name: Australian Index
   exchange_name: ASX_OTC
   instrument_type: stockindex
+  is_offered: 1
   market: indices
   market_convention:
     delta_premium_adjusted: 0
@@ -733,6 +749,7 @@ OTC_DJI:
   display_name: Wall Street Index
   exchange_name: NYSE_OTC
   instrument_type: stockindex
+  is_offered: 1
   market: indices
   market_convention:
     delta_premium_adjusted: 0
@@ -746,6 +763,7 @@ OTC_FCHI:
   display_name: French Index
   exchange_name: EURONEXT_OTC
   instrument_type: stockindex
+  is_offered: 1
   market: indices
   market_convention:
     delta_premium_adjusted: 0
@@ -759,6 +777,7 @@ OTC_FTSE:
   display_name: UK Index
   exchange_name: LSE_OTC
   instrument_type: stockindex
+  is_offered: 1
   market: indices
   market_convention:
     delta_premium_adjusted: 0
@@ -772,6 +791,7 @@ OTC_GDAXI:
   display_name: German Index
   exchange_name: FSE_OTC
   instrument_type: stockindex
+  is_offered: 1
   market: indices
   market_convention:
     delta_premium_adjusted: 0
@@ -785,6 +805,7 @@ OTC_HSI:
   display_name: Hong Kong Index
   exchange_name: HKSE_OTC
   instrument_type: stockindex
+  is_offered: 1
   market: indices
   market_convention:
     delta_premium_adjusted: 0
@@ -798,6 +819,7 @@ OTC_IBEX35:
   display_name: Spanish Index
   exchange_name: BM_OTC
   instrument_type: stockindex
+  is_offered: 1
   market: indices
   market_convention:
     delta_premium_adjusted: 0
@@ -811,6 +833,7 @@ OTC_N225:
   display_name: Japanese Index
   exchange_name: TSE_OTC
   instrument_type: stockindex
+  is_offered: 1
   market: indices
   market_convention:
     delta_premium_adjusted: 0
@@ -824,6 +847,7 @@ OTC_NDX:
   display_name: US Tech Index
   exchange_name: NASDAQ_OTC
   instrument_type: stockindex
+  is_offered: 1
   market: indices
   market_convention:
     delta_premium_adjusted: 0
@@ -837,6 +861,7 @@ OTC_SPC:
   display_name: US Index
   exchange_name: NYSE_SPC_OTC
   instrument_type: stockindex
+  is_offered: 1
   market: indices
   market_convention:
     delta_premium_adjusted: 0
@@ -850,6 +875,7 @@ OTC_SSMI:
   display_name: Swiss Index
   exchange_name: SWX_OTC
   instrument_type: stockindex
+  is_offered: 1
   market: indices
   market_convention:
     delta_premium_adjusted: 0
@@ -863,6 +889,7 @@ OTC_SX5E:
   display_name: Euro 50 Index
   exchange_name: STOXX_OTC
   instrument_type: stockindex
+  is_offered: 1
   market: indices
   market_convention:
     delta_premium_adjusted: 0
@@ -911,6 +938,7 @@ RDBEAR:
   display_name: Bear Market Index
   exchange_name: RANDOM
   instrument_type: stockindex
+  is_offered: 1
   market: synthetic_index
   market_convention:
     delta_premium_adjusted: 0
@@ -925,6 +953,7 @@ RDBULL:
   display_name: Bull Market Index
   exchange_name: RANDOM
   instrument_type: stockindex
+  is_offered: 1
   market: synthetic_index
   market_convention:
     delta_premium_adjusted: 0
@@ -952,6 +981,7 @@ R_10:
   display_name: Volatility 10 Index
   exchange_name: RANDOM
   instrument_type: stockindex
+  is_offered: 1
   market: synthetic_index
   market_convention:
     delta_premium_adjusted: 0
@@ -966,6 +996,7 @@ R_100:
   display_name: Volatility 100 Index
   exchange_name: RANDOM
   instrument_type: stockindex
+  is_offered: 1
   market: synthetic_index
   market_convention:
     delta_premium_adjusted: 0
@@ -989,6 +1020,21 @@ R_200:
   quoted_currency: ~
   submarket: random_index
   symbol: R_200
+R_25:
+  asset: R_25
+  display_name: Volatility 25 Index
+  exchange_name: RANDOM
+  instrument_type: stockindex
+  is_offered: 1
+  market: synthetic_index
+  market_convention:
+    delta_premium_adjusted: 0
+    delta_style: spot_delta
+  market_type: non_financial
+  pip_size: 0.001
+  quoted_currency: ~
+  submarket: random_index
+  symbol: R_25
 R_300:
   asset: R_300
   display_name: Volatility 300 Index
@@ -1003,25 +1049,12 @@ R_300:
   quoted_currency: ~
   submarket: random_index
   symbol: R_300
-R_25:
-  asset: R_25
-  display_name: Volatility 25 Index
-  exchange_name: RANDOM
-  instrument_type: stockindex
-  market: synthetic_index
-  market_convention:
-    delta_premium_adjusted: 0
-    delta_style: spot_delta
-  market_type: non_financial
-  pip_size: 0.001
-  quoted_currency: ~
-  submarket: random_index
-  symbol: R_25
 R_50:
   asset: R_50
   display_name: Volatility 50 Index
   exchange_name: RANDOM
   instrument_type: stockindex
+  is_offered: 1
   market: synthetic_index
   market_convention:
     delta_premium_adjusted: 0
@@ -1036,6 +1069,7 @@ R_75:
   display_name: Volatility 75 Index
   exchange_name: RANDOM
   instrument_type: stockindex
+  is_offered: 1
   market: synthetic_index
   market_convention:
     delta_premium_adjusted: 0
@@ -1856,6 +1890,7 @@ WLDAUD:
   display_name: AUD Index
   exchange_name: FOREX
   instrument_type: smart_fx
+  is_offered: 1
   market: forex
   market_convention:
     delta_premium_adjusted: 0
@@ -1869,6 +1904,7 @@ WLDEUR:
   display_name: EUR Index
   exchange_name: FOREX
   instrument_type: smart_fx
+  is_offered: 1
   market: forex
   market_convention:
     delta_premium_adjusted: 0
@@ -1882,6 +1918,7 @@ WLDGBP:
   display_name: GBP Index
   exchange_name: FOREX
   instrument_type: smart_fx
+  is_offered: 1
   market: forex
   market_convention:
     delta_premium_adjusted: 0
@@ -1908,6 +1945,7 @@ WLDUSD:
   display_name: USD Index
   exchange_name: FOREX
   instrument_type: smart_fx
+  is_offered: 1
   market: forex
   market_convention:
     delta_premium_adjusted: 0
@@ -1950,6 +1988,7 @@ cryBCHUSD:
   display_name: BCH/USD
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
+  is_offered: 1
   market: cryptocurrency
   pip_size: 0.001
   quoted_currency: USD
@@ -1970,6 +2009,7 @@ cryBNBUSD:
   display_name: BNB/USD
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
+  is_offered: 1
   market: cryptocurrency
   pip_size: 0.001
   quoted_currency: USD
@@ -2090,6 +2130,7 @@ cryBTCUSD:
   display_name: BTC/USD
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
+  is_offered: 1
   market: cryptocurrency
   pip_size: 0.001
   quoted_currency: USD
@@ -2160,6 +2201,7 @@ cryDSHUSD:
   display_name: DSH/USD
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
+  is_offered: 1
   market: cryptocurrency
   pip_size: 0.001
   quoted_currency: USD
@@ -2179,9 +2221,10 @@ cryEOSUSD:
   asset: EOS
   display_name: EOS/USD
   exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurreny
+  instrument_type: cryptocurrency
+  is_offered: 1
   market: cryptocurrency
-  pip_size: 0.0001
+  pip_size: 0.00001
   quoted_currency: USD
   submarket: non_stable_coin
   symbol: cryEOSUSD
@@ -2210,6 +2253,7 @@ cryETHUSD:
   display_name: ETH/USD
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
+  is_offered: 1
   market: cryptocurrency
   pip_size: 0.00001
   quoted_currency: USD
@@ -2270,6 +2314,7 @@ cryLTCUSD:
   display_name: LTC/USD
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
+  is_offered: 1
   market: cryptocurrency
   pip_size: 0.00001
   quoted_currency: USD
@@ -2390,6 +2435,7 @@ cryXMRUSD:
   display_name: XMR/USD
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
+  is_offered: 1
   market: cryptocurrency
   pip_size: 0.001
   quoted_currency: USD
@@ -2409,7 +2455,8 @@ cryXRPUSD:
   asset: XRP
   display_name: XRP/USD
   exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurreny
+  instrument_type: cryptocurrency
+  is_offered: 1
   market: cryptocurrency
   pip_size: 0.0001
   quoted_currency: USD
@@ -2430,6 +2477,7 @@ cryZECUSD:
   display_name: ZEC/USD
   exchange_name: CRYPTOCURRENCY
   instrument_type: cryptocurrency
+  is_offered: 1
   market: cryptocurrency
   pip_size: 0.001
   quoted_currency: USD
@@ -2466,6 +2514,7 @@ frxAUDCAD:
   display_name: AUD/CAD
   exchange_name: FOREX
   instrument_type: forex
+  is_offered: 1
   market: forex
   market_convention:
     atm_setting: atm_delta_neutral_straddle
@@ -2498,6 +2547,7 @@ frxAUDCHF:
   display_name: AUD/CHF
   exchange_name: FOREX
   instrument_type: forex
+  is_offered: 1
   market: forex
   market_convention:
     atm_setting: atm_delta_neutral_straddle
@@ -2578,6 +2628,7 @@ frxAUDJPY:
   display_name: AUD/JPY
   exchange_name: FOREX
   instrument_type: forex
+  is_offered: 1
   market: forex
   market_convention:
     atm_setting: atm_delta_neutral_straddle
@@ -2642,6 +2693,7 @@ frxAUDNZD:
   display_name: AUD/NZD
   exchange_name: FOREX
   instrument_type: forex
+  is_offered: 1
   market: forex
   market_convention:
     atm_setting: atm_delta_neutral_straddle
@@ -2738,6 +2790,7 @@ frxAUDUSD:
   display_name: AUD/USD
   exchange_name: FOREX
   instrument_type: forex
+  is_offered: 1
   market: forex
   market_convention:
     atm_setting: atm_delta_neutral_straddle
@@ -2834,6 +2887,7 @@ frxBROUSD:
   display_name: Oil/USD
   exchange_name: ODLS
   instrument_type: commodities
+  is_offered: 1
   market: commodities
   market_convention:
     atm_setting: atm_delta_neutral_straddle
@@ -2914,6 +2968,7 @@ frxEURAUD:
   display_name: EUR/AUD
   exchange_name: FOREX
   instrument_type: forex
+  is_offered: 1
   market: forex
   market_convention:
     atm_setting: atm_delta_neutral_straddle
@@ -2946,6 +3001,7 @@ frxEURCAD:
   display_name: EUR/CAD
   exchange_name: FOREX
   instrument_type: forex
+  is_offered: 1
   market: forex
   market_convention:
     atm_setting: atm_delta_neutral_straddle
@@ -2978,6 +3034,7 @@ frxEURCHF:
   display_name: EUR/CHF
   exchange_name: FOREX
   instrument_type: forex
+  is_offered: 1
   market: forex
   market_convention:
     atm_setting: atm_delta_neutral_straddle
@@ -3010,6 +3067,7 @@ frxEURGBP:
   display_name: EUR/GBP
   exchange_name: FOREX
   instrument_type: forex
+  is_offered: 1
   market: forex
   market_convention:
     atm_setting: atm_delta_neutral_straddle
@@ -3106,6 +3164,7 @@ frxEURJPY:
   display_name: EUR/JPY
   exchange_name: FOREX
   instrument_type: forex
+  is_offered: 1
   market: forex
   market_convention:
     atm_setting: atm_delta_neutral_straddle
@@ -3170,6 +3229,7 @@ frxEURNZD:
   display_name: EUR/NZD
   exchange_name: FOREX
   instrument_type: forex
+  is_offered: 1
   market: forex
   market_convention:
     atm_setting: atm_delta_neutral_straddle
@@ -3266,6 +3326,7 @@ frxEURUSD:
   display_name: EUR/USD
   exchange_name: FOREX
   instrument_type: forex
+  is_offered: 1
   market: forex
   market_convention:
     atm_setting: atm_delta_neutral_straddle
@@ -3330,6 +3391,7 @@ frxGBPAUD:
   display_name: GBP/AUD
   exchange_name: FOREX
   instrument_type: forex
+  is_offered: 1
   market: forex
   market_convention:
     atm_setting: atm_delta_neutral_straddle
@@ -3346,6 +3408,7 @@ frxGBPCAD:
   display_name: GBP/CAD
   exchange_name: FOREX
   instrument_type: forex
+  is_offered: 1
   market: forex
   market_convention:
     atm_setting: atm_delta_neutral_straddle
@@ -3362,6 +3425,7 @@ frxGBPCHF:
   display_name: GBP/CHF
   exchange_name: FOREX
   instrument_type: forex
+  is_offered: 1
   market: forex
   market_convention:
     atm_setting: atm_delta_neutral_straddle
@@ -3442,6 +3506,7 @@ frxGBPJPY:
   display_name: GBP/JPY
   exchange_name: FOREX
   instrument_type: forex
+  is_offered: 1
   market: forex
   market_convention:
     atm_setting: atm_delta_neutral_straddle
@@ -3490,6 +3555,7 @@ frxGBPNOK:
   display_name: GBP/NOK
   exchange_name: FOREX
   instrument_type: forex
+  is_offered: 1
   market: forex
   market_convention:
     atm_setting: atm_delta_neutral_straddle
@@ -3506,6 +3572,7 @@ frxGBPNZD:
   display_name: GBP/NZD
   exchange_name: FOREX
   instrument_type: forex
+  is_offered: 1
   market: forex
   market_convention:
     atm_setting: atm_delta_neutral_straddle
@@ -3522,6 +3589,7 @@ frxGBPPLN:
   display_name: GBP/PLN
   exchange_name: FOREX
   instrument_type: forex
+  is_offered: 1
   market: forex
   market_convention:
     atm_setting: atm_delta_neutral_straddle
@@ -3586,6 +3654,7 @@ frxGBPUSD:
   display_name: GBP/USD
   exchange_name: FOREX
   instrument_type: forex
+  is_offered: 1
   market: forex
   market_convention:
     atm_setting: atm_delta_neutral_straddle
@@ -3682,6 +3751,7 @@ frxNZDJPY:
   display_name: NZD/JPY
   exchange_name: FOREX
   instrument_type: forex
+  is_offered: 1
   market: forex
   market_convention:
     atm_setting: atm_delta_neutral_straddle
@@ -3714,6 +3784,7 @@ frxNZDUSD:
   display_name: NZD/USD
   exchange_name: FOREX
   instrument_type: forex
+  is_offered: 1
   market: forex
   market_convention:
     atm_setting: atm_delta_neutral_straddle
@@ -3778,6 +3849,7 @@ frxUSDCAD:
   display_name: USD/CAD
   exchange_name: FOREX
   instrument_type: forex
+  is_offered: 1
   market: forex
   market_convention:
     atm_setting: atm_delta_neutral_straddle
@@ -3810,6 +3882,7 @@ frxUSDCHF:
   display_name: USD/CHF
   exchange_name: FOREX
   instrument_type: forex
+  is_offered: 1
   market: forex
   market_convention:
     atm_setting: atm_delta_neutral_straddle
@@ -3922,6 +3995,7 @@ frxUSDJPY:
   display_name: USD/JPY
   exchange_name: FOREX
   instrument_type: forex
+  is_offered: 1
   market: forex
   market_convention:
     atm_setting: atm_delta_neutral_straddle
@@ -3954,6 +4028,7 @@ frxUSDMXN:
   display_name: USD/MXN
   exchange_name: FOREX
   instrument_type: forex
+  is_offered: 1
   market: forex
   market_convention:
     atm_setting: atm_delta_neutral_straddle
@@ -3970,6 +4045,7 @@ frxUSDNOK:
   display_name: USD/NOK
   exchange_name: FOREX
   instrument_type: forex
+  is_offered: 1
   market: forex
   market_convention:
     atm_setting: atm_delta_neutral_straddle
@@ -3986,6 +4062,7 @@ frxUSDPLN:
   display_name: USD/PLN
   exchange_name: FOREX
   instrument_type: forex
+  is_offered: 1
   market: forex
   market_convention:
     atm_setting: atm_delta_neutral_straddle
@@ -4018,6 +4095,7 @@ frxUSDSEK:
   display_name: USD/SEK
   exchange_name: FOREX
   instrument_type: forex
+  is_offered: 1
   market: forex
   market_convention:
     atm_setting: atm_delta_neutral_straddle
@@ -4146,6 +4224,7 @@ frxXAGUSD:
   display_name: Silver/USD
   exchange_name: METAL
   instrument_type: commodities
+  is_offered: 1
   market: commodities
   market_convention:
     atm_setting: atm_delta_neutral_straddle
@@ -4210,6 +4289,7 @@ frxXAUUSD:
   display_name: Gold/USD
   exchange_name: METAL
   instrument_type: commodities
+  is_offered: 1
   market: commodities
   market_convention:
     atm_setting: atm_delta_neutral_straddle
@@ -4274,6 +4354,7 @@ frxXPDUSD:
   display_name: Palladium/USD
   exchange_name: METAL
   instrument_type: commodities
+  is_offered: 1
   market: commodities
   market_convention:
     atm_setting: atm_delta_neutral_straddle
@@ -4338,6 +4419,7 @@ frxXPTUSD:
   display_name: Platinum/USD
   exchange_name: METAL
   instrument_type: commodities
+  is_offered: 1
   market: commodities
   market_convention:
     atm_setting: atm_delta_neutral_straddle
@@ -4349,426 +4431,6 @@ frxXPTUSD:
   quoted_currency: USD
   submarket: metals
   symbol: frxXPTUSD
-cryBCHUSD:
-  asset: BCH
-  display_name: BCH/USD
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
-  pip_size: 0.001
-  quoted_currency: USD
-  submarket: non_stable_coin
-  symbol: cryBCHUSD
-cryBNBUSD:
-  asset: BNB
-  display_name: BNB/USD
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
-  pip_size: 0.001
-  quoted_currency: USD
-  submarket: non_stable_coin
-  symbol: cryBNBUSD
-cryBTCAUD:
-  asset: BTC
-  display_name: BTC/AUD
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
-  pip_size: 0.001
-  quoted_currency: AUD
-  submarket: non_stable_coin
-  symbol: cryBTCAUD
-cryBTCBCH:
-  asset: BTC
-  display_name: BTC/BCH
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
-  pip_size: 0.00001
-  quoted_currency: BCH
-  submarket: non_stable_coin
-  symbol: cryBTCBCH
-cryBTCCHF:
-  asset: BTC
-  display_name: BTC/CHF
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
-  pip_size: 0.0001
-  quoted_currency: CHF
-  submarket: non_stable_coin
-  symbol: cryBTCCHF
-cryBTCETH:
-  asset: BTC
-  display_name: BTC/ETH
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
-  pip_size: 0.0001
-  quoted_currency: ETH
-  submarket: non_stable_coin
-  symbol: cryBTCETH
-cryBTCEUR:
-  asset: BTC
-  display_name: BTC/EUR
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
-  pip_size: 0.001
-  quoted_currency: EUR
-  submarket: non_stable_coin
-  symbol: cryBTCEUR
-cryBTCGBP:
-  asset: BTC
-  display_name: BTC/GBP
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
-  pip_size: 0.001
-  quoted_currency: GBP
-  submarket: non_stable_coin
-  symbol: cryBTCGBP
-cryBTCJPY:
-  asset: BTC
-  display_name: BTC/JPY
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
-  pip_size: 1
-  quoted_currency: JPY
-  submarket: non_stable_coin
-  symbol: cryBTCJPY
-cryBTCLTC:
-  asset: BTC
-  display_name: BTC/LTC
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
-  pip_size: 0.00001
-  quoted_currency: LTC
-  submarket: non_stable_coin
-  symbol: cryBTCLTC
-cryBTCNZD:
-  asset: BTC
-  display_name: BTC/NZD
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
-  pip_size: 0.001
-  quoted_currency: NZD
-  submarket: non_stable_coin
-  symbol: cryBTCNZD
-cryBTCRUB:
-  asset: BTC
-  display_name: BTC/RUB
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
-  pip_size: 1
-  quoted_currency: RUB
-  submarket: non_stable_coin
-  symbol: cryBTCRUB
-cryBTCUSD:
-  asset: BTC
-  display_name: BTC/USD
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
-  pip_size: 0.001
-  quoted_currency: USD
-  submarket: non_stable_coin
-  symbol: cryBTCUSD
-cryBTCXAG:
-  asset: BTC
-  display_name: BTC/XAG
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
-  pip_size: 0.0001
-  quoted_currency: XAG
-  submarket: non_stable_coin
-  symbol: cryBTCXAG
-cryBTCXAU:
-  asset: BTC
-  display_name: BTC/XAU
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
-  pip_size: 0.0001
-  quoted_currency: XAU
-  submarket: non_stable_coin
-  symbol: cryBTCXAU
-cryBTCXRP:
-  asset: BTC
-  display_name: BTC/XRP
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
-  pip_size: 0.00001
-  quoted_currency: XRP
-  submarket: non_stable_coin
-  symbol: cryBTCXRP
-cryDSHUSD:
-  asset: DSH
-  display_name: DSH/USD
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
-  pip_size: 0.001
-  quoted_currency: USD
-  submarket: non_stable_coin
-  symbol: cryDSHUSD
-cryETHEUR:
-  asset: ETH
-  display_name: ETH/EUR
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
-  pip_size: 0.001
-  quoted_currency: EUR
-  submarket: non_stable_coin
-  symbol: cryETHEUR
-cryETHUSD:
-  asset: ETH
-  display_name: ETH/USD
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
-  pip_size: 0.00001
-  quoted_currency: USD
-  submarket: non_stable_coin
-  symbol: cryETHUSD
-cryIOTUSD:
-  asset: IOT
-  display_name: IOT/USD
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
-  pip_size: 0.0001
-  quoted_currency: USD
-  submarket: non_stable_coin
-  symbol: cryIOTUSD
-cryLTCEUR:
-  asset: LTC
-  display_name: LTC/EUR
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
-  pip_size: 0.001
-  quoted_currency: EUR
-  submarket: non_stable_coin
-  symbol: cryLTCEUR
-cryLTCUSD:
-  asset: LTC
-  display_name: LTC/USD
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
-  pip_size: 0.00001
-  quoted_currency: USD
-  submarket: non_stable_coin
-  symbol: cryLTCUSD
-cryNEOUSD:
-  asset: NEO
-  display_name: NEO/USD
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
-  pip_size: 0.01
-  quoted_currency: USD
-  submarket: non_stable_coin
-  symbol: cryNEOUSD
-cryOMGUSD:
-  asset: OMG
-  display_name: OMG/USD
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
-  pip_size: 0.001
-  quoted_currency: USD
-  submarket: non_stable_coin
-  symbol: cryOMGUSD
-cryTRXUSD:
-  asset: TRX
-  display_name: TRX/USD
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
-  pip_size: 0.00001
-  quoted_currency: USD
-  submarket: non_stable_coin
-  symbol: cryTRXUSD
-cryXMLUSD:
-  asset: XML
-  display_name: XML/USD
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
-  pip_size: 0.00001
-  quoted_currency: USD
-  submarket: non_stable_coin
-  symbol: cryXMLUSD
-cryXMRUSD:
-  asset: XMR
-  display_name: XMR/USD
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
-  pip_size: 0.001
-  quoted_currency: USD
-  submarket: non_stable_coin
-  symbol: cryXMRUSD
-cryXRPEUR:
-  asset: XRP
-  display_name: XRP/EUR
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
-  pip_size: 0.000001
-  quoted_currency: EUR
-  submarket: non_stable_coin
-  symbol: cryXRPEUR
-cryXRPUSD:
-  asset: XRP
-  display_name: XRP/USD
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
-  pip_size: 0.0001
-  quoted_currency: USD
-  submarket: non_stable_coin
-  symbol: cryXRPUSD
-cryEOSUSD:
-  asset: EOS
-  display_name: EOS/USD
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
-  pip_size: 0.00001
-  quoted_currency: USD
-  submarket: non_stable_coin
-  symbol: cryEOSUSD
-cryZECUSD:
-  asset: ZEC
-  display_name: ZEC/USD
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
-  pip_size: 0.001
-  quoted_currency: USD
-  submarket: non_stable_coin
-  symbol: cryZECUSD
-cryBTCCAD:
-  asset: BTC
-  display_name: BTC/CAD
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
-  pip_size: 0.0001
-  quoted_currency: CAD
-  submarket: non_stable_coin
-  symbol: cryBTCCAD
-cryBUSDUSD:
-  asset: BUSD
-  display_name: BUSD/USD
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
-  pip_size: 0.01
-  quoted_currency: USD
-  submarket: stable_coin
-  symbol: cryBUSDUSD
-cryDAIUSD:
-  asset: DAI
-  display_name: DAI/USD
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
-  pip_size: 0.01
-  quoted_currency: USD
-  submarket: stable_coin
-  symbol: cryDAIUSD
-cryEURSUSD:
-  asset: EURS
-  display_name: EURS/USD
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
-  pip_size: 0.01
-  quoted_currency: USD
-  submarket: stable_coin
-  symbol: cryEURSUSD
-cryIDKUSD:
-  asset: IDK
-  display_name: IDK/USD
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
-  pip_size: 0.001
-  quoted_currency: USD
-  submarket: stable_coin
-  symbol: cryIDKUSD
-cryPAXUSD:
-  asset: PAX
-  display_name: PAX/USD
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
-  pip_size: 0.01
-  quoted_currency: USD
-  submarket: stable_coin
-  symbol: cryPAXUSD
-cryTUSDUSD:
-  asset: TUSD
-  display_name: TUSD/USD
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
-  pip_size: 0.01
-  quoted_currency: USD
-  submarket: stable_coin
-  symbol: cryTUSDUSD
-cryUSDCUSD:
-  asset: USDC
-  display_name: USDC/USD
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
-  pip_size: 0.01
-  quoted_currency: USD
-  submarket: stable_coin
-  symbol: cryUSDCUSD
-cryUSDKUSD:
-  asset: USDK
-  display_name: USDK/USD
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
-  pip_size: 0.01
-  quoted_currency: USD
-  submarket: stable_coin
-  symbol: cryUSDKUSD
-cryUSTUSD:
-  asset: UST
-  display_name: UST/USD
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
-  pip_size: 0.01
-  quoted_currency: USD
-  submarket: stable_coin
-  symbol: cryUSTUSD
-cryeUSDTUSD:
-  asset: eUSDT
-  display_name: eUSDT/USD
-  exchange_name: CRYPTOCURRENCY
-  instrument_type: cryptocurrency
-  market: cryptocurrency
-  pip_size: 0.01
-  quoted_currency: USD
-  submarket: stable_coin
-  symbol: cryeUSDTUSD
 stpAUDJPY:
   asset: AUD
   display_name: AUD/JPY Step Index
@@ -4834,6 +4496,7 @@ stpRNG:
   display_name: Step Index
   exchange_name: RANDOM
   instrument_type: ~
+  is_offered: 1
   market: synthetic_index
   market_type: non_financial
   pip_size: 0.1
