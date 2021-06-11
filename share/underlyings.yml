@@ -186,6 +186,7 @@ BOOM300:
   display_name: Boom 300 Index
   exchange_name: RANDOM
   instrument_type: ~
+  is_offered: 1
   market: synthetic_index
   market_type: non_financial
   pip_size: 0.001
@@ -250,6 +251,7 @@ CRASH300:
   display_name: Crash 300 Index
   exchange_name: RANDOM
   instrument_type: ~
+  is_offered: 1
   market: synthetic_index
   market_type: non_financial
   pip_size: 0.001
@@ -540,6 +542,7 @@ JD150:
   exchange_name: RANDOM
   generation_interval: 1s
   instrument_type: stockindex
+  is_offered: 1
   market: synthetic_index
   market_convention:
     delta_premium_adjusted: 0
@@ -555,6 +558,7 @@ JD200:
   exchange_name: RANDOM
   generation_interval: 1s
   instrument_type: stockindex
+  is_offered: 1
   market: synthetic_index
   market_convention:
     delta_premium_adjusted: 0
@@ -1011,6 +1015,7 @@ R_200:
   display_name: Volatility 200 Index
   exchange_name: RANDOM
   instrument_type: stockindex
+  is_offered: 1
   market: synthetic_index
   market_convention:
     delta_premium_adjusted: 0
@@ -1040,6 +1045,7 @@ R_300:
   display_name: Volatility 300 Index
   exchange_name: RANDOM
   instrument_type: stockindex
+  is_offered: 1
   market: synthetic_index
   market_convention:
     delta_premium_adjusted: 0
