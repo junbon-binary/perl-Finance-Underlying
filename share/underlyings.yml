@@ -276,7 +276,7 @@ CRASH500:
   quoted_currency: ~
   submarket: crash_index
   symbol: CRASH500
-CRASH300NN:
+CRASH300N:
   asset: CRASH300N
   display_name: Crash 300 Index
   exchange_name: RANDOM
