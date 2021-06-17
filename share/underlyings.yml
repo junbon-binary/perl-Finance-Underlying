@@ -186,8 +186,8 @@ BOOM500:
   quoted_currency: ~
   submarket: crash_index
   symbol: BOOM500
-BOOM300:
-  asset: BOOM300
+BOOM300N:
+  asset: BOOM300N
   display_name: Boom 300 Index
   exchange_name: RANDOM
   instrument_type: ~
@@ -196,7 +196,7 @@ BOOM300:
   pip_size: 0.001
   quoted_currency: ~
   submarket: crash_index
-  symbol: BOOM300
+  symbol: BOOM300N
 BSESENSEX30:
   asset: BSESENSEX30
   display_name: Bombay Index
@@ -248,8 +248,8 @@ CRASH500:
   quoted_currency: ~
   submarket: crash_index
   symbol: CRASH500
-CRASH300:
-  asset: CRASH300
+CRASH300NN:
+  asset: CRASH300N
   display_name: Crash 300 Index
   exchange_name: RANDOM
   instrument_type: ~
@@ -258,7 +258,7 @@ CRASH300:
   pip_size: 0.001
   quoted_currency: ~
   submarket: crash_index
-  symbol: CRASH300
+  symbol: CRASH300N
 DEADS:
   asset: DEADS
   display_name: Adidas
@@ -975,8 +975,8 @@ R_100:
   quoted_currency: ~
   submarket: random_index
   symbol: R_100
-R_200:
-  asset: R_200
+1HZ200V:
+  asset: 1HZ200V
   display_name: Volatility 200 Index
   exchange_name: RANDOM
   instrument_type: stockindex
@@ -988,9 +988,9 @@ R_200:
   pip_size: 0.01
   quoted_currency: ~
   submarket: random_index
-  symbol: R_200
-R_300:
-  asset: R_300
+  symbol: 1HZ200V
+1HZ300V:
+  asset: 1HZ300V
   display_name: Volatility 300 Index
   exchange_name: RANDOM
   instrument_type: stockindex
@@ -1002,7 +1002,7 @@ R_300:
   pip_size: 0.01
   quoted_currency: ~
   submarket: random_index
-  symbol: R_300
+  symbol: 1HZ300V
 R_25:
   asset: R_25
   display_name: Volatility 25 Index
