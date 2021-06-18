@@ -1565,6 +1565,19 @@ USFDX:
   quoted_currency: USD
   submarket: us_otc_stock
   symbol: USFDX
+USSPCE:
+  asset: USSPCE
+  display_name: Virgin Galactic
+  exchange_name: NYSE
+  instrument_type: individualstock
+  market: stocks
+  market_convention:
+    delta_premium_adjusted: 0
+    delta_style: spot_delta
+  pip_size: 0.01
+  quoted_currency: USD
+  submarket: us_otc_stock
+  symbol: USSPCE
 USGLDSCH:
   asset: USGLDSCH
   display_name: Goldman Sachs
@@ -3348,6 +3361,22 @@ frxEURZAR:
   quoted_currency: ZAR
   submarket: minor_pairs
   symbol: frxEURZAR
+frxGASUSD:
+  asset: GAS
+  display_name: GAS/USD
+  exchange_name: GAS_OTC
+  instrument_type: commodities
+  market: commodities
+  market_convention:
+    atm_setting: atm_delta_neutral_straddle
+    bf: 2_vol
+    delta_premium_adjusted: 0
+    delta_style: spot_delta
+    rr: call-put
+  pip_size: 0.01
+  quoted_currency: USD
+  submarket: gas
+  symbol: frxGASUSD
 frxGBPAED:
   asset: GBP
   display_name: GBP/AED
